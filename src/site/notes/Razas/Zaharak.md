@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/razas/zaharak/"}
 ---
 
-
-## **Biografía**
+# Zaharak
+## Biografía
 
 Los Zaharak son una raza de pequeños saurios humanoides, ágiles y resistentes, cuyas proporciones recuerdan vagamente a antiguas bestias primordiales: dinosaurios. Aunque la mayoría pertenecen a la categoría de tamaño pequeño, existen linajes de mayor envergadura, más robustos y mucho mas voluminosos.
 
@@ -16,7 +16,7 @@ Solo unos pocos aceptaron aquel viaje, y de ellos descienden todos los Zaharak a
 Desde entonces, veneran a Tisara como madre y guía, y creen que, al morir, el espíritu de cada Zaharak es llevado de regreso a Lehar por un arco iris de luz, donde descansa junto a sus ancestros. La luna verde es visible desde casi cualquier punto de Oreka, y su presencia constante es para ellos un recordatorio de su origen y su destino final.
 
 
-## **Asentamientos y poblaciones**
+## Asentamientos y poblaciones
 
 Los Zaharak se encuentran repartidos por todo Oreka, tanto en comunidades propias como integrados en asentamientos de otras especies. Aunque su población global no es especialmente numerosa, su presencia es constante y reconocible en casi todos los continentes.
 
@@ -30,7 +30,7 @@ En [[Trabia\|Trabia]] habita la mayor parte de los Zaharak de gran tamaño. Es
 
 Por último, se sabe que **en las profundidades del** [[Harana\|Harana]] habitan varias **tribus zaharak de carácter salvaje y poco amistoso**. Estos grupos rechazan casi todo contacto con el exterior y mantienen formas de vida mucho más primitivas, ajenas tanto a las estructuras políticas de la República Tisarana como a las tradiciones tribales más extendidas. Su origen exacto y sus creencias son poco conocidos, y la mayoría de los relatos sobre ellos proceden de expediciones fallidas o encuentros hostiles. No se conoce ningún intento de contacto que no haya acabado en violencia.
 
-## **Características de los Zaharak**
+## Características de los Zaharak
 
 **Tamaño:** Pequeño o Mediano (a elección al crear el personaje). 
 
@@ -44,7 +44,7 @@ Por último, se sabe que **en las profundidades del** [[Harana\|Harana]] habit
 
 **Piel Escamosa:** Tus escamas / plumaje producen armadura natural: mientras no lleves armadura tu CA es 13 + tu modificador de Destreza. Puedes seguir usando un escudo.
 
-### **Construye tu Dinosaurio**
+### Construye tu Dinosaurio
 
 Elige un efecto ambiental, una opción de movimiento y un Arma Natural:
 
