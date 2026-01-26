@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/trasfondo/panteon/herion/"}
 ---
 
+# Herion
+
 ![Herion.png|400](/img/user/Extras/Imagenes/PNJs/Dioses/Herion.png)
 
 **Títulos**: El Fin, La Mirada, el Último Reposo.

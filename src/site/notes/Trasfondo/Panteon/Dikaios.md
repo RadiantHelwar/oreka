@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/trasfondo/panteon/dikaios/"}
 ---
 
+# Dikaios
+
 ![Dikaios.png|400](/img/user/Extras/Imagenes/PNJs/Dioses/Dikaios.png)
 
 **Títulos**: El Ciego, La Espada del Castigo, El Lazo Irrompible

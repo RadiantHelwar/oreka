@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/trasfondo/panteon/thallos/"}
 ---
 
+# Thallos
+
 ![Thallos.png|400](/img/user/Extras/Imagenes/PNJs/Dioses/Thallos.png)
 
 **Títulos**: El Brote, La Sanadora, la Abuela Sabia 

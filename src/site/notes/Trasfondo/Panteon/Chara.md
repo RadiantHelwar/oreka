@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/trasfondo/panteon/chara/"}
 ---
 
+# Chara
+
 ![Chara.png|400](/img/user/Extras/Imagenes/PNJs/Dioses/Chara.png)
 
 **Títulos**: La Risueña, La Señora de los Enlaces, La Dama del Vino

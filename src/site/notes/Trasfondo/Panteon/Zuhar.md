@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/trasfondo/panteon/zuhar/"}
 ---
 
+# Zuhar
+
 ![Zuhar.png|400](/img/user/Extras/Imagenes/PNJs/Dioses/Zuhar.png)
 
 **Títulos**: El Arcanista, el Historiador, el Taimado

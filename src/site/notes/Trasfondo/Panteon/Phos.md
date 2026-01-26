@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/trasfondo/panteon/phos/"}
 ---
 
+# Phos
+
 ![Phos.png|400](/img/user/Extras/Imagenes/PNJs/Dioses/Phos.png)
 
 **Títulos**: Estrella de la Mañana, El Radiante, Veritasi

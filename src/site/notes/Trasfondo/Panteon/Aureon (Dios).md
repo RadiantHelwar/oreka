@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/trasfondo/panteon/aureon-dios/"}
 ---
 
+# Aureon
+
 ![aureonlogo.png|400](/img/user/Extras/Imagenes/PNJs/Dioses/aureonlogo.png)
 
 **Títulos**: El Padre, El Salvador, El Dorado

@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/trasfondo/panteon/polemos/"}
 ---
 
+# Polemos
+
 ![Polemos.png|400](/img/user/Extras/Imagenes/PNJs/Dioses/Polemos.png)
 
 **Títulos**: La Antigua Tradición, El Conflicto, Río de Sangre
