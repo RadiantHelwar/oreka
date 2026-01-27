@@ -6,6 +6,11 @@
 
 ![Ilios2.png](/img/user/Extras/Imagenes/Ilios2.png)
 
+> _Como un olivo de luz que no proyecta sombra, Ilios parece eterno e inmutable.  
+> Pero ningún árbol puede sostener el mundo para siempre si se le exige olvidar quién fue._
+> 
+> _Sazzalazz, Poeta de las Escamas Verdes_
+
 El Gran Árbol de Ilios aparece como un olivo colosal de luz dorada, una proyección no sólida, casi un holograma divino suspendido sobre el continente de [[Glastra\|Glastra]].
 
 El árbol es de una escala imposible:
@@ -22,3 +27,4 @@ Esta corrupción se filtró hasta las raíces de Ilios, pervirtiendo a todos los
 El mundo decayó durante ese período: la abundancia se fue perdiendo y, mientras las gentes de [[Regiones/Oreka\|Oreka]] luchaban por las pocas tierras que aun daban fruto, el árbol se enfermó por completo.
 
 Entonces [[Secretos/Cabal/Aureon\|Aureon]] tomó una de las últimas acciones directas que realizaría como deidad: hizo desaparecer al enfermo Ilios y lo sustituyó por la forma dorada que existe hoy, eliminado de raíz el problema de la [[Podredumbre\|Podredumbre]].
+
