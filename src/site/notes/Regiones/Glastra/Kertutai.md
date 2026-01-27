@@ -18,7 +18,7 @@
 
 # Descripción General
 
-Kertutai es un reino único en Oreka, construido en el interior de lo que una vez fue la Gran Rama caída de [[Ilios\|Ilios]]. Tras siglos de trabajo —purificación, excavación, ingeniería y renovación—, las Kitraki sustituyeron toda la madera original por materiales propios: resinas endurecidas, ceras minerales, arcillas tratadas y estructuras de quitina masiva.
+Kertutai es un reino único en Oreka, construido en el interior de lo que una vez fue la Gran Rama caída de [[Regiones/Glastra/Ilios\|Ilios]]. Tras siglos de trabajo —purificación, excavación, ingeniería y renovación—, las Kitraki sustituyeron toda la madera original por materiales propios: resinas endurecidas, ceras minerales, arcillas tratadas y estructuras de quitina masiva.
 
 Aunque nada queda del árbol, el país entero conserva la silueta de la rama colosal, una especie de puente viviente que une las cordilleras de [[Mendile\|Mendile]] (noroeste) y [[Lerroa\|Lerroa]] (sureste).
 
