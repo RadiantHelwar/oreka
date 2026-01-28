@@ -28,3 +28,4 @@ El mundo decayó durante ese período: la abundancia se fue perdiendo y, mientra
 
 Entonces [[Secretos/Cabal/Aureon\|Aureon]] tomó una de las últimas acciones directas que realizaría como deidad: hizo desaparecer al enfermo Ilios y lo sustituyó por la forma dorada que existe hoy, eliminado de raíz el problema de la [[Podredumbre\|Podredumbre]].
 
+A día de hoy, las ramas de Ilios se ven de costa a costa de [[Glastra\|Glastra]] y su energía promueve la abundancia por todo [[Regiones/Oreka\|Oreka]].
