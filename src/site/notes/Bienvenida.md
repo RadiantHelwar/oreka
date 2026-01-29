@@ -51,7 +51,7 @@ Otras religiones menores existen, y son comúnmente toleradas en las zonas en la
 ## Reinos y Estados
 
 Las distintas unidades legales de todo Oreka
->[!example] Glastra
+>[!example]+ Glastra
 > - [[Lakua\|Lakua]] - La región central de Glastra, situada en el valle homónimo.
 >	- [[Regiones/Glastra/Lakua/Riza\|Riza]], la ciudad estrella del continente, centro político y comercial.
 >	- [[Kentron\|Kentron]], el lago más grande del mundo, que ocupa gran parte de la región.
@@ -71,13 +71,13 @@ Las distintas unidades legales de todo Oreka
 >- [[Eldalen\|Eldalen]], hogar de los _Eldalenelin_, Elfos de las Estrellas. Desconfiados y celosos de sus fronteras; pocos han visto sus montañosos bosques de cerca y vivido para contarlo.
 >- [[Ithilen\|Ithilen]], tierra de los _Ithilenelin_, Elfos de las Lunas. Más amistosos con otras razas, su bello reino de plata acoge a visitantes, aunque nunca como iguales.
 
-> [!example] Trabia
+> [!example]+ Trabia
 > - [[Regiones/Trabia/Reino de Adamas\|Reino de Adamas]], tierra nórdica azotada por el frío y colindante con el Glaciar de Pagos. La escasez es habitual, pero las comunidades son cohesionadas: los vecinos se ayudan entre sí, aunque desconfían de los extraños. Este sentimiento incluso se extiende a la realeza.
 
->[!example] Tomoe
+>[!example]+ Tomoe
 >- [[Ergo\|Ergo]], el Imperio del Sol, hogar de los Analenelin, o Elfos del Sol. La magia de los Analenelin mantiene la abundancia en la tierra. Los ergonianos dan la bienvenida a todos los habitantes de Tomoe, independientemente de su raza, ofreciendo un frente unificado contra la escasez… y, de paso, vigilando de cerca aquellas tierras fértiles que Ergo podría reclamar.
 
->[!example] Serra
+>[!example]+ Serra
 >- [[Rhanok\|Rhanok]], la isla principal de Serra, donde la Horda ha establecido su capital, junto a la sede de Colmillo Rojo.
 
 ## Especies nativas exclusivas de Oreka
