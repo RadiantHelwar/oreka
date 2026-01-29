@@ -6,9 +6,9 @@
 
 Innumerables gremios existen por todo Oreka, pero cuatro de ellos son los más notables con diferencia, despuntando por encima de todos los demás. Estos son:
 
-|        [[Trasfondo/Organizaciones/Gremios/Glaukos\|Glaukos]]         |         [[Trasfondo/Organizaciones/Gremios/Hoja\|Hoja]]         |         [[Trasfondo/Organizaciones/Gremios/Cierzo\|Cierzo]]         |      [[Trasfondo/Organizaciones/Gremios/Colmillo Rojo\|Colmillo Rojo]]       |
-| :------------------------: | :----------------------: | :------------------------: | :--------------------------: |
-| ![[glaukos-logo.png\|250]] | ![[hoja-logow.png\|250]] | ![[cierzo-logow.png\|250]] | ![[colmillo-logow.png\|250]] |
+|      [[Trasfondo/Organizaciones/Gremios/Glaukos\|Glaukos]]      |      [[Trasfondo/Organizaciones/Gremios/Hoja\|Hoja]]       |      [[Trasfondo/Organizaciones/Gremios/Cierzo\|Cierzo]]       |    [[Trasfondo/Organizaciones/Gremios/Colmillo Rojo\|Colmillo Rojo]]    |
+| :-------------------: | :-----------------: | :-------------------: | :---------------------: |
+| ![glaukos-logo.png](/img/user/Extras/Imagenes/Gremios/glaukos-logo.png) | ![hoja-logow.png](/img/user/Extras/Imagenes/Gremios/hoja-logow.png) | ![cierzo-logow.png](/img/user/Extras/Imagenes/Gremios/cierzo-logow.png) | ![colmillo-logow.png](/img/user/Extras/Imagenes/Gremios/colmillo-logow.png) |
 
 
 ## El Gremio Oscuro
