@@ -20,7 +20,7 @@ Se dice que Ilios procesa la luz del Sol y la convierte en energía, promoviendo
 
 Anteriormente, antes de la [[Podredumbre\|Podredumbre]], Ilios era un árbol sólido y tangible, **real**. 
 
-Su función era la misma que la del árbol actual, pero según la [[Iglesia\|Iglesia]], la maldad de los [[Trasfondo/Pasado Antiguo/Cuatro Reyes Demonio\|Cuatro Reyes Demonio]] invadió la corriente de energía de Oreka de forma insidiosa, secreta incluso para el propio [[Secretos/Cabal/Aureon\|Aureon]] antes de su ascensión.
+Su función era la misma que la del árbol actual, pero según la [[Trasfondo/Panteon/Iglesia de Aureon\|Iglesia]], la maldad de los [[Trasfondo/Pasado Antiguo/Cuatro Reyes Demonio\|Cuatro Reyes Demonio]] invadió la corriente de energía de Oreka de forma insidiosa, secreta incluso para el propio [[Secretos/Cabal/Aureon\|Aureon]] antes de su ascensión.
 
 Esta corrupción se filtró hasta las raíces de Ilios, pervirtiendo a todos los que vivían bajo tierra junto a ellas y eventualmente provocando la [[Podredumbre\|Podredumbre]]. 
 

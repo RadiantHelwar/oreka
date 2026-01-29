@@ -4,7 +4,7 @@
 
 # Aureon
 
-![aureonlogo.png|400](/img/user/Extras/Imagenes/PNJs/Dioses/aureonlogo.png)
+![Aureon.png|400](/img/user/Extras/Imagenes/PNJs/Dioses/Aureon.png)
 
 **Títulos**: El Padre, El Salvador, El Dorado
 **Símbolo**: Una espada de doble hoja sobre un círculo dorado perfecto.
