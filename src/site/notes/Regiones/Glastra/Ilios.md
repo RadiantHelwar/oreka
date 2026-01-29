@@ -11,7 +11,7 @@
 > 
 > _Sazzalazz, Poeta de las Escamas Verdes_
 
-El Gran Árbol de Ilios aparece como un olivo colosal de luz dorada, una proyección no sólida, casi un holograma divino suspendido sobre el continente de [[Glastra\|Glastra]].
+El Gran Árbol de Ilios aparece como un olivo colosal de luz dorada, una proyección no sólida, casi un holograma divino suspendido sobre el continente de [[Regiones/Glastra/Glastra\|Glastra]].
 
 El árbol es de una escala imposible:
 sus ramas se extienden por encima de las nubes, visibles desde cualquier punto del continente, mientras que su tronco se desvanece antes de tocar el suelo, como si nunca hubiese estado realmente anclado al mundo físico. El cielo azul puede verse a través de él, y las nubes pasan por debajo de sus ramas, reforzando la sensación de que no pertenece del todo a este plano.
@@ -28,4 +28,4 @@ El mundo decayó durante ese período: la abundancia se fue perdiendo y, mientra
 
 Entonces [[Secretos/Cabal/Aureon\|Aureon]] tomó una de las últimas acciones directas que realizaría como deidad: hizo desaparecer al enfermo Ilios y lo sustituyó por la forma dorada que existe hoy, eliminado de raíz el problema de la [[Podredumbre\|Podredumbre]].
 
-A día de hoy, las ramas de Ilios se ven de costa a costa de [[Glastra\|Glastra]] y su energía promueve la abundancia por todo [[Regiones/Oreka\|Oreka]].
+A día de hoy, las ramas de Ilios se ven de costa a costa de [[Regiones/Glastra/Glastra\|Glastra]] y su energía promueve la abundancia por todo [[Regiones/Oreka\|Oreka]].

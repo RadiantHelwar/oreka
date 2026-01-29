@@ -13,4 +13,4 @@ Los cuatro generales demoníacos, a las ordenes del [[Trasfondo/Ola de Oscuridad
 | [[Oneiros, Señor de la Pesadilla\|Oneiros, Señor de la Pesadilla]]   | [[Huestes de la Pesadilla\|Huestes de la Pesadilla]] |
 | [[Drya, Corazón del Enjambre\|Drya, Corazón del Enjambre]]       | [[Enjambre Infinito\|Enjambre Infinito]]       |
 | [[Astrikos, el Ascua Imperecedera\|Astrikos, el Ascua Imperecedera]]  | [[Armada Estelar\|Armada Estelar]]          |
-De todos ellos, solo [[Trasfondo/Ola de Oscuridad/Skia, la Princesa de las Sombras\|Skia, la Princesa de las Sombras]] permanece en activo, atrapada en el norte tras el [[Glaciar de Pagos\|Glaciar de Pagos]], gracias al [[Regiones/Trabia/Reino de Adamas\|Reino de Adamas]] y las tropas de [[Cierzo\|Cierzo]].
+De todos ellos, solo [[Trasfondo/Ola de Oscuridad/Skia, la Princesa de las Sombras\|Skia, la Princesa de las Sombras]] permanece en activo, atrapada en el norte tras el [[Glaciar de Pagos\|Glaciar de Pagos]], gracias al [[Regiones/Trabia/Reino de Adamas\|Reino de Adamas]] y las tropas de [[Trasfondo/Organizaciones/Gremios/Cierzo\|Cierzo]].

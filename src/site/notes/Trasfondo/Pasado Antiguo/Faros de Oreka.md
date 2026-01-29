@@ -8,7 +8,7 @@ Los Cuatro Grandes Faros de Oreka. Estas ancestrales construcciones eran antiguo
 
 | Faro              | Ubicación                                                                 | Rey Demonio                                 |
 | ----------------- | ------------------------------------------------------------------------- | ------------------------------------------- |
-| [[Faro Skia\|Faro Skia]]     | Al Norte del Continente de [[Trabia\|Trabia]], mas allá del [[Glaciar de Pagos\|Glaciar de Pagos]]. | Poseído por el Rey Demonio [[Itzala\|Itzala]].      |
-| [[Faro Drya\|Faro Drya]]     | Al Sur del Continente de [[Trabia\|Trabia]].                                      | Poseído por el Rey Demonio [[Maitagarria\|Maitagarria]]. |
-| [[Faro Oneiros\|Faro Oneiros]]  | En el Continente de [[Serra\|Serra]], al Oeste de la Isla de [[Rhanok\|Rhanok]].         | Poseído por el Rey Demonio [[Ametsa\|Ametsa]]       |
-| [[Faro Astrikos\|Faro Astrikos]] | En el Continente de [[Tomoe\|Tomoe]], situado en [[Ergo\|Ergo]].                       | Poseído por el Rey Demonio [[Izarra\|Izarra]]       |
+| [[Faro Skia\|Faro Skia]]     | Al Norte del Continente de [[Regiones/Trabia/Trabia\|Trabia]], mas allá del [[Glaciar de Pagos\|Glaciar de Pagos]]. | Poseído por el Rey Demonio [[Itzala\|Itzala]].      |
+| [[Faro Drya\|Faro Drya]]     | Al Sur del Continente de [[Regiones/Trabia/Trabia\|Trabia]].                                      | Poseído por el Rey Demonio [[Maitagarria\|Maitagarria]]. |
+| [[Faro Oneiros\|Faro Oneiros]]  | En el Continente de [[Regiones/Serra/Serra\|Serra]], al Oeste de la Isla de [[Rhanok\|Rhanok]].         | Poseído por el Rey Demonio [[Ametsa\|Ametsa]]       |
+| [[Faro Astrikos\|Faro Astrikos]] | En el Continente de [[Regiones/Tomoe/Tomoe\|Tomoe]], situado en [[Ergo\|Ergo]].                       | Poseído por el Rey Demonio [[Izarra\|Izarra]]       |

@@ -8,8 +8,8 @@ Oreka significa equilibrio. Este nombre le fue dado al mundo por los antiguos sa
 
 El mundo de Oreka está dividido en cuatro continentes:
 
-- [[Glastra\|Glastra]] en el centro, hogar del **Gran Árbol de [[Regiones/Glastra/Ilios\|Ilios]]**.
-- [[Trabia\|Trabia]] al noreste, el mayor continente de todos.
-- [[Tomoe\|Tomoe]] al sur-sureste, el pulmón de Oreka.
+- [[Regiones/Glastra/Glastra\|Glastra]] en el centro, hogar del **Gran Árbol de [[Regiones/Glastra/Ilios\|Ilios]]**.
+- [[Regiones/Trabia/Trabia\|Trabia]] al noreste, el mayor continente de todos.
+- [[Regiones/Tomoe/Tomoe\|Tomoe]] al sur-sureste, el pulmón de Oreka.
 - [[Rhanok\|Rhanok]] al oeste, el archipiélago.
 

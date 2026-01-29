@@ -3,6 +3,7 @@
 ---
 
 # Zaharak
+
 ## Biografía
 
 Los Zaharak son una raza de pequeños saurios humanoides, ágiles y resistentes, cuyas proporciones recuerdan vagamente a antiguas bestias primordiales: dinosaurios. Aunque la mayoría pertenecen a la categoría de tamaño pequeño, existen linajes de mayor envergadura, más robustos y mucho mas voluminosos.
@@ -20,13 +21,13 @@ Desde entonces, veneran a Tisara como madre y guía, y creen que, al morir, el e
 
 Los Zaharak se encuentran repartidos por todo Oreka, tanto en comunidades propias como integrados en asentamientos de otras especies. Aunque su población global no es especialmente numerosa, su presencia es constante y reconocible en casi todos los continentes.
 
-El mayor y más influyente enclave zaharak es la [[República Tisarana\|República Tisarana]], situada en la costa norte de [[Glastra\|Glastra]]. Se trata de un estado organizado, con instituciones civiles estables y una fuerte identidad cultural ligada al culto a Tisara. Desde allí se coordinan relaciones diplomáticas con otros pueblos y se preservan muchas de las tradiciones más antiguas de la especie.
+El mayor y más influyente enclave zaharak es la [[República Tisarana\|República Tisarana]], situada en la costa norte de [[Regiones/Glastra/Glastra\|Glastra]]. Se trata de un estado organizado, con instituciones civiles estables y una fuerte identidad cultural ligada al culto a Tisara. Desde allí se coordinan relaciones diplomáticas con otros pueblos y se preservan muchas de las tradiciones más antiguas de la especie.
 
-En el continente de [[Tomoe\|Tomoe]] se encuentra la [[Comunidad Tribal de Adal-Lehar\|Comunidad Tribal de Adal-Lehar]], una confederación de clanes con una estructura más descentralizada, donde la autoridad espiritual tiene más peso que la política. Sus rituales y costumbres están especialmente ligados a la observación y adoración de [[Lehar\|Lehar]].
+En el continente de [[Regiones/Tomoe/Tomoe\|Tomoe]] se encuentra la [[Comunidad Tribal de Adal-Lehar\|Comunidad Tribal de Adal-Lehar]], una confederación de clanes con una estructura más descentralizada, donde la autoridad espiritual tiene más peso que la política. Sus rituales y costumbres están especialmente ligados a la observación y adoración de [[Lehar\|Lehar]].
 
-Existen además numerosos asentamientos menores repartidos por el **archipiélago de** [[Serra\|Serra]], generalmente comunidades aisladas, autosuficientes y de reducido tamaño, muchas de ellas con tradiciones propias.
+Existen además numerosos asentamientos menores repartidos por el **archipiélago de** [[Regiones/Serra/Serra\|Serra]], generalmente comunidades aisladas, autosuficientes y de reducido tamaño, muchas de ellas con tradiciones propias.
 
-En [[Trabia\|Trabia]] habita la mayor parte de los Zaharak de gran tamaño. Estos no suelen establecer ciudades permanentes, sino que viven en pequeños grupos nómadas conocidos como los [[Díkaii Timoría\|Díkaii Timoría]], desplazándose de forma estacional y manteniendo un estilo de vida más austero y marcadamente independiente.
+En [[Regiones/Trabia/Trabia\|Trabia]] habita la mayor parte de los Zaharak de gran tamaño. Estos no suelen establecer ciudades permanentes, sino que viven en pequeños grupos nómadas conocidos como los [[Díkaii Timoría\|Díkaii Timoría]], desplazándose de forma estacional y manteniendo un estilo de vida más austero y marcadamente independiente.
 
 Por último, se sabe que **en las profundidades del** [[Harana\|Harana]] habitan varias **tribus zaharak de carácter salvaje y poco amistoso**. Estos grupos rechazan casi todo contacto con el exterior y mantienen formas de vida mucho más primitivas, ajenas tanto a las estructuras políticas de la República Tisarana como a las tradiciones tribales más extendidas. Su origen exacto y sus creencias son poco conocidos, y la mayoría de los relatos sobre ellos proceden de expediciones fallidas o encuentros hostiles. No se conoce ningún intento de contacto que no haya acabado en violencia.
 
