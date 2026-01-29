@@ -4,9 +4,10 @@
 
 # Colmillo Rojo
 
+![colmillo-banner.png|350](/img/user/Extras/Imagenes/Gremios/colmillo-banner.png)
 ## La Marea Roja
 
-<img src=colmillo-soldados.jpeg style="float:left; margin: 0 16px 16px 0; width: 250px;">**Emblema**: un colmillo blanco con fondo carmesí.
+**Emblema**: un colmillo blanco con fondo carmesí.
 **Color Principal**: Rojo
 **Color Secundario**: Blanco
 **Sede**: [[Rhanok\|Rhanok]], archipiélago de [[Regiones/Serra/Serra\|Serra]].
@@ -18,7 +19,9 @@
 
 
 ---
-<img src=colmillo-banner.png style="display: block; margin: 0 auto; width: 300px;">
+
+![colmillo-soldados.jpeg|300](/img/user/Extras/Imagenes/Gremios/colmillo-soldados.jpeg)
+
 Colmillo Rojo es el gremio con mas miembros. Su símbolo es un colmillo rojo sobre fondo blanco (o viceversa). Sus miembros son mayoritariamente "Pieles Verdes" (Orcos, Goblin, Bugbears, Hobgoblin...), y "Hombres Bestia" (minotauros, centauros, ratkin...), y extrañamente: Goliath, Zaharak y Kobolds. Aunque como en todos lados, también hay gran cantidad de humanos.
 
 Su organización es algo tenue y frágil. En realidad son una colección de distintas tribus, clanes y "fraternidades", y el líder de la mas poderosa en un dicho momento es el líder de Colmillo Rojo. A consecuencia de esto tienen muchas guerras internas. El líder actual (un orco) ha mantenido su puesto durante 27 años, lo cual es remarcable.

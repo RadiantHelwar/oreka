@@ -4,7 +4,9 @@
 
 # Mercenarios
 
-<img src=mercenarios.jpeg style="float:left; margin: 0 16px 16px 0; width: 250px;">Un mercenario es cualquier individuo que se dedica a aceptar trabajos a cambio de una recompensa: protección de caravanas, exterminio de monstruos, captura de criminales, hasta grandes campañas militares o tareas de investigación, o pequeñas tareas como cuidar un jardín o hacer una entrega; todo tipo de necesidad tiene un mercenario que puede solventarla. No es necesaria ninguna afiliación ni autenticación formal para llamarse mercenario; basta con ejercer este oficio, ya sea de forma independiente o a través de puestos de contratación.
+![mercenarios.jpeg|350](/img/user/Extras/Imagenes/Gremios/mercenarios.jpeg)
+
+Un mercenario es cualquier individuo que se dedica a aceptar trabajos a cambio de una recompensa: protección de caravanas, exterminio de monstruos, captura de criminales, hasta grandes campañas militares o tareas de investigación, o pequeñas tareas como cuidar un jardín o hacer una entrega; todo tipo de necesidad tiene un mercenario que puede solventarla. No es necesaria ninguna afiliación ni autenticación formal para llamarse mercenario; basta con ejercer este oficio, ya sea de forma independiente o a través de puestos de contratación.
 
 Algunos trabajos o regiones pueden exigir autenticación. Esta es gratuita en gran parte de Oreka, pero puede requerir una fianza en algunas regiones; una vez obtenida, se reconoce en gran parte de Oreka. 
 

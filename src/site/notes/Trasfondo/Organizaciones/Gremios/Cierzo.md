@@ -4,9 +4,11 @@
 
 # Cierzo
 
+![cierzo-banner.png|300](/img/user/Extras/Imagenes/Gremios/cierzo-banner.png)
+
 ## El Escudo Blanco
 
-<img src=cierzoSoldados.jpg style="float:left; margin: 0 16px 16px 0; width: 250px;">**Emblema**: un búho plateado estilizado sobre fondo madreperla.
+**Emblema**: un búho plateado estilizado sobre fondo madreperla.
 **Color Principal**: Madreperla
 **Color Secundario**: Plateado
 **Sede**: [[Adamas Capital\|Adamas Capital]], en [[Regiones/Trabia/Trabia\|Trabia]].
@@ -17,7 +19,8 @@
 **Especialidad**: Magia arcana, investigación, contratos mágicos, defensa contra lo sobrenatural.
 
 ---
-<img src=cierzo-banner.png style="display: block; margin: 0 auto; width: 300px;">
+
+![cierzoSoldados.jpg|300](/img/user/Extras/Imagenes/Gremios/cierzoSoldados.jpg)
 Cierzo es un grupo enfocado a la magia arcana. Su sede está en [[Adamas Capital\|Adamas Capital]], en el continente de [[Regiones/Trabia/Trabia\|Trabia]]. Su emblema es un estilizado búho plateado sobre un fondo madreperla. Nació como un grupo independiente de refugiados del [[Faro Astrikos\|Faro Astrikos]], cuando este fue tomado por el Rey Demonio, y viajaron al norte durante la Ola de Oscuridad para ayudar en la batalla contra [[Trasfondo/Ola de Oscuridad/Skia, la Princesa de las Sombras\|Skia]]. Alli se formaron oficialmente como grupo mercenario y tomaron el nombre de **Cierzo** en honor a sus benefactores. 
 
 Están muy ligados a la casa real de [[Adamas\|Adamas]] y tienen un contrato indefinido con ellos para mantener a raya al [[Ejército Inmortal\|Ejército Inmortal]], siempre al otro lado de [[Glaciar de Pagos\|pagos]]. Sus novatos se estrenan en primera línea de batalla, supervisados por expertos, y no se les permite tomar contratos hasta que su valía es probada. Sus miembros viajan por el mundo tomando todo tipo de contratos, pero se especializan en todo aquello que tenga que ver con lo arcano y en investigación.

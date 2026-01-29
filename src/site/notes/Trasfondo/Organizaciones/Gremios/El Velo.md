@@ -4,9 +4,10 @@
 
 # El Velo
 
+![velo-logo.png|350](/img/user/Extras/Imagenes/Gremios/velo-logo.png)
 ## La Sombra más Oscura
 
-<img src=velo-agentes.jpg style="float:left; margin: 0 16px 16px 0; width: 250px;">**Emblema**: Tres líneas curvas que se abren en ángulo, cruzadas por una horizontal.
+**Emblema**: Tres líneas curvas que se abren en ángulo, cruzadas por una horizontal.
 **Color Principal**: Negro
 **Color Secundario**: Rojo
 **Naturaleza**: organización criminal asentada en la ciudad de [[Inika\|Inika]], en la isla de [[Maratón\|Maratón]].
@@ -16,8 +17,8 @@
 **Método**: discreción, astucia y violencia medida. Su nombre inspira temor porque donde hay un secreto, una transacción turbia o un asesinato sin rastro, suele estar el Velo detrás.
 
 ---
-<img src=velo-logo.png style="display: block; margin: 0 auto; width: 300px;">
 
+![velo-agentes.jpg|300](/img/user/Extras/Imagenes/Gremios/velo-agentes.jpg)
 El Velo. Nada menos que el submundo criminal de Oreka, jerarquizado, organizado… y temido. Obviamente, no controlan **todo** el crimen del mundo, pero sí gran parte del organizado. Aquellos que no están entre sus filas se cuidan de no interponerse en su camino ni contrariar a sus _Agentes_.. Su base está en la isla de [[Maratón\|Maratón]]. A dos días de viaje en barco al sur del continente de [[Regiones/Glastra/Glastra\|Glastra]], la isla, que quizá fue un país en otro tiempo, hace siglos que se convirtió en el refugio del submundo, tomada como propia por la organización. Aun así, hay ciudadanos e isleños comunes que viven allí, por lo que la vida mantiene cierta normalidad. [[PNJs/Selandra Kaivea\|Selandra Kaivea]], o _La Roja_ como la conocen, prefiere el orden al caos, y el país tiene sus propias leyes… aunque no son las mismas que en el resto del mundo.
 
 Lo que ha permitido que el Velo prospere no es sólo su poder, sino que su líder es implacable… y razonable. Si te reúnes con _La Roja_ en su despacho, a no ser que la provoques abiertamente, saldrás con vida e intacto. Eso es mucho más de lo que se podía decir de los anteriores líderes de [[Inika\|Inika]]. Lo que vayas a tratar con ella puede salir bien o mal, pero Selandra siempre refuerza la lógica de su mandato: no hay violencia porque sí. La violencia existe para un motivo, y Selandra la maneja con precisión: mucho, pero calculado. Mantener una política de "negociaciones seguras" le ha permitido convertirse en la líder más temida y respetada de Oreka.

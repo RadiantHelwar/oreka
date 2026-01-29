@@ -6,15 +6,16 @@
 
 ## Información General
 
-<img src=Selandra.jpg style="float:left; margin: 0 16px 16px 0; width: 250px;">**Cargo**: Jefa indiscutida del submundo de [[Trasfondo/Organizaciones/Gremios/El Velo\|El Velo]]. 
+![Selandra.jpg|250](/img/user/Extras/Imagenes/PNJs/Selandra.jpg)
+
+**Cargo**: Jefa indiscutida del submundo de [[Trasfondo/Organizaciones/Gremios/El Velo\|El Velo]]. 
 **Personalidad**: Dura, fría y calculadora. Es implacable, pero es razonable dentro de los códigos de su mundo. Prefiere la negociación a la violencia inútil, aunque no duda en ejercerla, con gusto.
 **Base de operaciones**: El club [[Éxtasis\|Éxtasis]], un local de música, danza y negocios turbios, situado en [[Maratón\|Maratón]]. Bajo sus luces nadie muere: el lugar es territorio neutral.
 **Código interno** (“La Regla Roja”):
-												- La muerte tiene un propósito.
-												- La palabra dada es sagrada.
-												- En Éxtasis no se mata.
+- La muerte tiene un propósito.
+- La palabra dada es sagrada.
+- En Éxtasis no se mata.
 **Influencia**: Controla el flujo del comercio negro, mercenarios, contrabando y hasta artistas. En [[Maratón\|Maratón]], todo gran negocio acaba pasando por sus manos.
-
 
 ---
 
