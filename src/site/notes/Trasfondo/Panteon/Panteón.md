@@ -6,7 +6,7 @@
 
 ![panteon.png](/img/user/Extras/Imagenes/PNJs/Dioses/panteon.png)
 
-La [[Iglesia\|Iglesia de Aureon]] enseña que las Deidades existían antes que el propio [[Trasfondo/Panteon/Aureon (Dios)\|Aureon]], y que mediante un pacto con él se retiraron al reino celestial, erigiéndolo a el como su **Portavoz Divino**.
+La [[Trasfondo/Panteon/Iglesia de Aureon\|Iglesia de Aureon]] enseña que las Deidades existían antes que el propio [[Trasfondo/Panteon/Aureon (Dios)\|Aureon]], y que mediante un pacto con él se retiraron al reino celestial, erigiéndolo a el como su **Portavoz Divino**.
 
 Estas Deidades, no podían actuar sobre el plano material puesto que sus posiciones se veían siempre contrarrestadas por su opuesto. Con [[Trasfondo/Panteon/Aureon (Dios)\|Aureon]] como su Portavoz, su poder pudo aplicarse por fin al bienestar de Oreka.
 
