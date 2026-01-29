@@ -15,6 +15,7 @@
 - La muerte tiene un propósito.
 - La palabra dada es sagrada.
 - En Éxtasis no se mata.
+
 **Influencia**: Controla el flujo del comercio negro, mercenarios, contrabando y hasta artistas. En [[Maratón\|Maratón]], todo gran negocio acaba pasando por sus manos.
 
 ---
