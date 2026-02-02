@@ -8,7 +8,7 @@
 **Ubicación**: Norte de [[Regiones/Trabia/Trabia\|Trabia]]
 **Colindante con**: [[Regiones/Trabia/Glaciar de Pagos\|Glaciar de Pagos]]
 **Capital**: [[Regiones/Trabia/Adamas Capital\|Adamas Capital]]
-**Población**: Humanos, Goliath, Elfos, Dragonborn, resto.
+**Población**: Humanos, Goliath, Elfos Eldanelelin, Dragonborn, resto.
 
 El Reino de Adamas se extiende por el norte de [[Regiones/Trabia/Trabia\|Trabia]], en las regiones árticas cercanas al [[Regiones/Trabia/Glaciar de Pagos\|Glaciar de Pagos]]. Es un reino antiguo, que ha existido de una forma u otra desde antes del inicio del [[Calendario Áureo\|Calendario Áureo]] y ha mantenido su independencia y relevancia a lo largo de las Eras.
 
