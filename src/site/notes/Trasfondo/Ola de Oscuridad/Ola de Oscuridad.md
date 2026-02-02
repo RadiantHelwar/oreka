@@ -62,7 +62,7 @@ Tras iniciar la guerra, el Señor Oscuro atacó los [[Trasfondo/Pasado Antiguo/F
 | Demonio                              | Ejército                    |
 | ------------------------------------ | --------------------------- |
 | [[Trasfondo/Ola de Oscuridad/Señor Oscuro\|Señor Oscuro]] Menras              | [[Los Oscuros\|Los Oscuros]]             |
-| [[Trasfondo/Ola de Oscuridad/Skia, la Princesa de las Sombras\|Skia, la Princesa de las Sombras]] | [[Ejército Inmortal\|Ejército Inmortal]]       |
+| [[Trasfondo/Ola de Oscuridad/Skia, la Princesa de las Sombras\|Skia, la Princesa de las Sombras]] | [[Trasfondo/Ola de Oscuridad/Ejército Inmortal\|Ejército Inmortal]]       |
 | [[Oneiros, Señor de la Pesadilla\|Oneiros, Señor de la Pesadilla]]   | [[Huestes de la Pesadilla\|Huestes de la Pesadilla]] |
 | [[Drya, Corazón del Enjambre\|Drya, Corazón del Enjambre]]       | [[Enjambre Infinito\|Enjambre Infinito]]       |
 | [[Astrikos, el Ascua Imperecedera\|Astrikos, el Ascua Imperecedera]]  | [[Armada Estelar\|Armada Estelar]]          |
