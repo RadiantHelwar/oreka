@@ -4,7 +4,7 @@
 
 # Herion
 
-![Herion.png|400](/img/user/Extras/Imagenes/PNJs/Dioses_/Herion.png)
+![Herion.png|400](/img/user/Extras/Imagenes/PNJs/Dioses/Herion.png)
 
 **Títulos**: El Fin, La Mirada, el Último Reposo.
 **Símbolo**: Ojo entrecerrado

@@ -4,7 +4,7 @@
 
 # Zuhar
 
-![Zuhar.png|400](/img/user/Extras/Imagenes/PNJs/Dioses_/Zuhar.png)
+![Zuhar.png|400](/img/user/Extras/Imagenes/PNJs/Dioses/Zuhar.png)
 
 **Títulos**: El Arcanista, el Historiador, el Taimado
 **Símbolo**: Espiral doble
