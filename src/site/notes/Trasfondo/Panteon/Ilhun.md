@@ -4,7 +4,7 @@
 
 # Ilhun
 
-![Ilhun.png|400](/img/user/Extras/Imagenes/PNJs/Dioses/Ilhun.png)
+![Ilhun.png|400](/img/user/Extras/Imagenes/PNJs/Dioses_/Ilhun.png)
 
 **Títulos**: La Noche, el Subterfugio, El Silencio
 **Símbolo**: Triangulo abierto insertado en un círculo

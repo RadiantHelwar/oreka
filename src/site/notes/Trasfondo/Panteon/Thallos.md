@@ -4,7 +4,7 @@
 
 # Thallos
 
-![Thallos.png|400](/img/user/Extras/Imagenes/PNJs/Dioses/Thallos.png)
+![Thallos.png|400](/img/user/Extras/Imagenes/PNJs/Dioses_/Thallos.png)
 
 **Títulos**: El Brote, La Sanadora, la Abuela Sabia 
 **Símbolo**: Un brote con tres hojas

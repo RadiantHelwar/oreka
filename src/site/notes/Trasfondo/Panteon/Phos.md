@@ -4,7 +4,7 @@
 
 # Phos
 
-![Phos.png|400](/img/user/Extras/Imagenes/PNJs/Dioses/Phos.png)
+![Phos.png|400](/img/user/Extras/Imagenes/PNJs/Dioses_/Phos.png)
 
 **Títulos**: Estrella de la Mañana, El Radiante, Veritasi
 **Símbolo**: Estrella de ocho puntas

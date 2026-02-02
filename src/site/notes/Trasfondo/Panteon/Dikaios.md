@@ -4,7 +4,7 @@
 
 # Dikaios
 
-![Dikaios.png|400](/img/user/Extras/Imagenes/PNJs/Dioses/Dikaios.png)
+![Dikaios.png|400](/img/user/Extras/Imagenes/PNJs/Dioses_/Dikaios.png)
 
 **Títulos**: El Ciego, La Espada del Castigo, El Lazo Irrompible
 **Símbolo**: Estrella / meteorito ascendiendo
