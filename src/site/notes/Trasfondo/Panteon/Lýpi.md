@@ -4,7 +4,7 @@
 
 # Lýpi
 
-![Lypy.png|400](/img/user/Extras/Imagenes/PNJs/Dioses/Lypy.png)
+![Lypy.png|206](/img/user/Extras/Imagenes/PNJs/Dioses/Lypy.png)
 
 **Títulos**: Las Plañideras, Las Tres en Circulo, (La Llorona, la Llama, la Sonrisa)
 **Símbolo**: Lágrima invertida

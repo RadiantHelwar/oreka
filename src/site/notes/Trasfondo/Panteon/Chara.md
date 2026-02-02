@@ -4,7 +4,7 @@
 
 # Chara
 
-![Chara.png|400](/img/user/Extras/Imagenes/PNJs/Dioses/Chara.png)
+![Chara.png|350](/img/user/Extras/Imagenes/PNJs/Dioses/Chara.png)
 
 **Títulos**: La Risueña, La Señora de los Enlaces, La Dama del Vino
 **Símbolo**: Cáliz rebosante

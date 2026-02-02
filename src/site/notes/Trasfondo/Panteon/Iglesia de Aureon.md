@@ -4,7 +4,7 @@
 
 # Iglesia de Aureon
 
-![iglesialogo.png](/img/user/Extras/Imagenes/PNJs/Dioses/iglesialogo.png)
+![iglesialogo.png|400](/img/user/Extras/Imagenes/PNJs/Dioses/iglesialogo.png)
 ## Visión general
 
 La Iglesia de Aureon no es solo un culto religioso, sino una de las instituciones más influyentes de Oreka, moldeando la fe, la ley y la historia bajo la autoridad del dios al que proclama como primero entre iguales.
