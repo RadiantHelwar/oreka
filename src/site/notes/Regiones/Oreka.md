@@ -11,5 +11,5 @@ El mundo de Oreka está dividido en cuatro continentes:
 - [[Regiones/Glastra/Glastra\|Glastra]] en el centro, hogar del **Gran Árbol de [[Regiones/Glastra/Ilios\|Ilios]]**.
 - [[Regiones/Trabia/Trabia\|Trabia]] al noreste, el mayor continente de todos.
 - [[Regiones/Tomoe/Tomoe\|Tomoe]] al sur-sureste, el pulmón de Oreka.
-- [[Regiones/Serra/Serra\|Serra]] al oeste, el archipiélago.
+- [[Rhanok\|Rhanok]] al oeste, el archipiélago.
 

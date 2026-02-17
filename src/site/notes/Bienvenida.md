@@ -82,7 +82,7 @@ Las distintas unidades legales de todo Oreka
 
 > [!example]+ Trabia
 > - [[Regiones/Trabia/Reino de Adamas\|Reino de Adamas]], tierra nórdica azotada por el frío y colindante con el Glaciar de Pagos. La escasez es habitual, pero las comunidades son cohesionadas: los vecinos se ayudan entre sí, aunque desconfían de los extraños. Este sentimiento incluso se extiende a la realeza.
-> - [[Regiones/Trabia/Edrakos\|Edrakos]], el Coliseo Legendario.
+> - [[Edrakos\|Edrakos]], el Coliseo Legendario.
 
 >[!example]+ Tomoe
 >- [[Ergo\|Ergo]], el Imperio del Sol, hogar de los Anarenelin, o Elfos del Sol. La magia de los Anarenelin mantiene la abundancia en la tierra. Los ergonianos dan la bienvenida a todos los habitantes de Tomoe, independientemente de su raza, ofreciendo un frente unificado contra la escasez… y, de paso, vigilando de cerca aquellas tierras fértiles que Ergo podría reclamar.
