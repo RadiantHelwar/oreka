@@ -74,7 +74,7 @@ La mayoría de razas humanoides encuentran difícil leer emociones Kitraki. Para
 
 Aun así, son vistas como:
 
-- Aliadas fiables por [[Haizea\|Haizea]] y la región de [[Lakua\|Lakua]].
+- Aliadas fiables por [[Haizea\|Haizea]] y la región de [[Regiones/Glastra/Lakua/Lakua\|Lakua]].
 - Guardianes imprescindibles para quienes deben cruzar el Harana.
 - Amenazas silenciosas por quienes intentan saltarse sus leyes.
 

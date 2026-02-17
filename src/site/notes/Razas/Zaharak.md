@@ -10,7 +10,7 @@ Los Zaharak son una raza de pequeños saurios humanoides, ágiles y resistentes,
 
 Son una especie adaptable y curiosa, profundamente marcada por una espiritualidad serena y una fuerte conciencia de comunidad. Allí donde se establecen, los Zaharak tienden a integrarse sin perder su identidad, formando barrios propios o pequeños asentamientos cercanos a otras culturas.
 
-Según sus propias creencias, los Zaharak no son originarios de Oreka, sino descendientes de un pueblo que habitó antaño la luna verde, [[Lehar\|Lehar]], a la que llaman en su lengua _Hogar Ancestral_. Cuentan que, en un pasado remoto, una deidad compasiva llamada **Tisara** les ofreció un camino para abandonar Lehar y unirse al resto de pueblos del mundo. Ese camino, descrito como un arco iris tangible que la diosa construyó con su navío mágico, solo podía cruzarse una vez, y hacerlo suponía renunciar para siempre a [[Lehar\|Lehar]].
+Según sus propias creencias, los Zaharak no son originarios de Oreka, sino descendientes de un pueblo que habitó antaño la luna verde, [[Regiones/Lehar\|Lehar]], a la que llaman en su lengua _Hogar Ancestral_. Cuentan que, en un pasado remoto, una deidad compasiva llamada **Tisara** les ofreció un camino para abandonar Lehar y unirse al resto de pueblos del mundo. Ese camino, descrito como un arco iris tangible que la diosa construyó con su navío mágico, solo podía cruzarse una vez, y hacerlo suponía renunciar para siempre a [[Regiones/Lehar\|Lehar]].
 
 Solo unos pocos aceptaron aquel viaje, y de ellos descienden todos los Zaharak actuales.
 
@@ -23,7 +23,7 @@ Los Zaharak se encuentran repartidos por todo Oreka, tanto en comunidades propia
 
 El mayor y más influyente enclave zaharak es la [[República Tisarana\|República Tisarana]], situada en la costa norte de [[Regiones/Glastra/Glastra\|Glastra]]. Se trata de un estado organizado, con instituciones civiles estables y una fuerte identidad cultural ligada al culto a Tisara. Desde allí se coordinan relaciones diplomáticas con otros pueblos y se preservan muchas de las tradiciones más antiguas de la especie.
 
-En el continente de [[Regiones/Tomoe/Tomoe\|Tomoe]] se encuentra la [[Comunidad Tribal de Adal-Lehar\|Comunidad Tribal de Adal-Lehar]], una confederación de clanes con una estructura más descentralizada, donde la autoridad espiritual tiene más peso que la política. Sus rituales y costumbres están especialmente ligados a la observación y adoración de [[Lehar\|Lehar]].
+En el continente de [[Regiones/Tomoe/Tomoe\|Tomoe]] se encuentra la [[Comunidad Tribal de Adal-Lehar\|Comunidad Tribal de Adal-Lehar]], una confederación de clanes con una estructura más descentralizada, donde la autoridad espiritual tiene más peso que la política. Sus rituales y costumbres están especialmente ligados a la observación y adoración de [[Regiones/Lehar\|Lehar]].
 
 Existen además numerosos asentamientos menores repartidos por el **archipiélago de** [[Regiones/Serra/Serra\|Serra]], generalmente comunidades aisladas, autosuficientes y de reducido tamaño, muchas de ellas con tradiciones propias.
 

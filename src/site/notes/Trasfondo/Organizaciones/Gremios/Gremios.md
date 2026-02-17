@@ -4,7 +4,7 @@
 
 # Gremios
 
-A lo largo y ancho de Oreka existen diversos gremios de [[Trasfondo/Organizaciones/Gremios/mercenarios\|mercenarios]]. Estas asociaciones reúnen combatientes y no-combatientes que deciden trabajar bajo una estructura común. Los gremios organizan y asignan trabajos, que pueden ir desde pequeñas tareas hasta auténticas guerras, y en ocasiones incluyen investigación o desarrollo.
+A lo largo y ancho de Oreka existen diversos gremios de [[Trasfondo/Organizaciones/Gremios/Mercenarios\|Mercenarios]]. Estas asociaciones reúnen combatientes y no-combatientes que deciden trabajar bajo una estructura común. Los gremios organizan y asignan trabajos, que pueden ir desde pequeñas tareas hasta auténticas guerras, y en ocasiones incluyen investigación o desarrollo.
 
 Los gremios se dividen en dos categorías:
 - [[Trasfondo/Organizaciones/Gremios/Grandes Gremios\|Grandes Gremios]]

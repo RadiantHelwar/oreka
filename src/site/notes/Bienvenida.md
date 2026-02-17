@@ -31,7 +31,7 @@ El mundo está dividido en cuatro continentes:
 
 ## Organizaciones
 
-Las Organizaciones mas conocidas son los [[Trasfondo/Organizaciones/Gremios/Grandes Gremios\|Grandes Gremios]] de [[Trasfondo/Organizaciones/Gremios/mercenarios\|mercenarios]], los cuatro grupos mas conocidos de Oreka:
+Las Organizaciones mas conocidas son los [[Trasfondo/Organizaciones/Gremios/Grandes Gremios\|Grandes Gremios]] de [[Trasfondo/Organizaciones/Gremios/Mercenarios\|Mercenarios]], los cuatro grupos mas conocidos de Oreka:
 - [[Trasfondo/Organizaciones/Gremios/Glaukos\|Glaukos]]
 - [[Trasfondo/Organizaciones/Gremios/Hoja\|Hoja]]
 - [[Trasfondo/Organizaciones/Gremios/Cierzo\|Cierzo]]
@@ -46,36 +46,46 @@ La [[Trasfondo/Panteon/Iglesia de Aureon\|Iglesia de Aureon]] es la religión ma
 
 Aureon representa la Luz Dorada, el Orden, la Fe y el Bien por sí mismo. Es conocido como El Padre, El Salvador, El Señor Dorado.
 
-Otras religiones menores existen, y son comúnmente toleradas en las zonas en la que la Iglesia de Aureon es la dominante. Los [[Razas/Kitraki\|Kitraki]] adoran a **Itia** como su creadora, gran parte de los [[Razas/Zaharak\|Zaharak]] adoran a **Tisara** como su protectora y benefactora. Los elfos acostumbran a adorar ciertos astros (El Sol, las Lunas, las Estrellas), y a **Dama Mireon** como su mas antigua ancestro. El Líder del panteón enano es **Lureas**, conocido por su vozarrón y su habilidad en la forja. Entre las gentes mas sencillas, se adora a **Mill**, Dios del Fuego y la Protección, en mayor o menor medida. Los sanadores estudian a **Amitera**, paragón de la Magia Curativa. Aquellos que viven entre las sombras murmuran el nombre de **Roz** antes antes de sus escapadas.
+Otras religiones menores existen, y son comúnmente toleradas en las zonas en la que la Iglesia de Aureon es la dominante:
+
+- Los [[Razas/Kitraki\|Kitraki]] adoran a **Itia** como su creadora.
+- Gran parte de los [[Razas/Zaharak\|Zaharak]] adoran a **Tisara** como su protectora y benefactora. 
+- Los elfos acostumbran a adorar ciertos astros (El Sol, las Lunas, las Estrellas), y a **Dama Mireon** como su mas antigua ancestro. 
+- El Líder del panteón enano es **Lureas**, conocido por su vozarrón y su habilidad en la forja. 
+- Entre las gentes mas sencillas, se adora a **Mill**, Dios del Fuego y la Protección, en mayor o menor medida. 
+- Los sanadores estudian a **Amitera**, paragón de la Magia Curativa. 
+- Aquellos que viven entre las sombras murmuran el nombre de **Roz** antes antes de sus escapadas. 
+- Los estudiosos de lo Arcano y aquellos que veneran la magia por encima de todo claman el nombre se **Kaure el Escolar**, primer maestro de lo arcano y ascendido a divinidad por sus propios medios.
 
 ## Reinos y Estados
 
 Las distintas unidades legales de todo Oreka
 >[!example]+ Glastra
-> - [[Lakua\|Lakua]] - La región central de Glastra, situada en el valle homónimo.
+> - [[Regiones/Glastra/Lakua/Lakua\|Lakua]] - La región central de Glastra, situada en el valle homónimo.
 >	- [[Regiones/Glastra/Lakua/Riza\|Riza]], la ciudad estrella del continente, centro político y comercial.
->	- [[Kentron\|Kentron]], el lago más grande del mundo, que ocupa gran parte de la región.
+>	- [[Regiones/Glastra/Lakua/Kentron\|Kentron]], el lago más grande del mundo, que ocupa gran parte de la región.
 >- [[Ieró\|Ieró]], capital de la Iglesia de Aureon, con su imponente Palacio Sacro.
 >- [[Haizea\|Haizea]], tierra de riscos y de la alta nobleza.
 >- [[Regiones/Glastra/Kertutai\|Kertutai]], la colmena de las [[Razas/Kitraki\|Kitraki]].
 >- [[Harana\|Harana]], el valle prohibido.
 >- [[Teocracia Tisarana\|Teocracia Tisarana]], el pais que los Zaharak forjaron para si mismos
 >- [[Irrigos\|Irrigos]], república de mercaderes con una poderosa armada naval.
->- [[Bardhore\|Bardhore]], hogar de los enanos, que gobiernan tanto sobre como bajo las montañas desde hace milenios.
+>- [[Regiones/Glastra/Bardhore\|Bardhore]], hogar de los enanos, que gobiernan tanto sobre como bajo las montañas desde hace milenios.
 >- [[Demenor\|Demenor]], conocida como el Antiguo Imperio, ahora una joven democracia redescubriendo cómo andar antes de correr.
 >- [[Cínere\|Cínere]], tierra de contrastes: ríos enormes y junglas verdes, pero también áridos desiertos y salinas.
 >- [[Evisnos\|Evisnos]], región de colinas y dragones. Sus habitantes son mayoritariamente Dragonborn, y su emperador [[Ilmathar\|Ilmathar]] es un anciano y benevolente dragón de bronce.
 >- [[Las Comarcas\|Las Comarcas]], región atravesada por ríos, lagos y deltas, dividida en zonas de diferentes tamaños, habitantes y culturas. Unidos solo por un pacto y la voluntad común de trabajar juntos.
 >- [[Kostakt\|Kostakt]], conocida como la Frontera del Sur, escenario de siglos de guerra intermitente con [[Ergo\|Ergo]]. 
 >- [[Maratón\|Maratón]], famosa por sus costas, destinos turísticos y… dudosa legalidad.
->- [[Eldalen\|Eldalen]], hogar de los _Eldalenelin_, Elfos de las Estrellas. Desconfiados y celosos de sus fronteras; pocos han visto sus montañosos bosques de cerca y vivido para contarlo.
->- [[Ithilen\|Ithilen]], tierra de los _Ithilenelin_, Elfos de las Lunas. Más amistosos con otras razas, su bello reino de plata acoge a visitantes, aunque nunca como iguales.
+>- [[Eldaren\|Eldaren]], hogar de los _Eldarenelin_, Elfos de las Estrellas. Desconfiados y celosos de sus fronteras; pocos han visto sus montañosos bosques de cerca y vivido para contarlo.
+>- [[Ithiren\|Ithiren]], tierra de los _Ithirenelin_, Elfos de las Lunas. Más amistosos con otras razas, su bello reino de plata acoge a visitantes, aunque nunca como iguales.
 
 > [!example]+ Trabia
 > - [[Regiones/Trabia/Reino de Adamas\|Reino de Adamas]], tierra nórdica azotada por el frío y colindante con el Glaciar de Pagos. La escasez es habitual, pero las comunidades son cohesionadas: los vecinos se ayudan entre sí, aunque desconfían de los extraños. Este sentimiento incluso se extiende a la realeza.
+> - [[Regiones/Trabia/Edrakos\|Edrakos]], el Coliseo Legendario.
 
 >[!example]+ Tomoe
->- [[Ergo\|Ergo]], el Imperio del Sol, hogar de los Analenelin, o Elfos del Sol. La magia de los Analenelin mantiene la abundancia en la tierra. Los ergonianos dan la bienvenida a todos los habitantes de Tomoe, independientemente de su raza, ofreciendo un frente unificado contra la escasez… y, de paso, vigilando de cerca aquellas tierras fértiles que Ergo podría reclamar.
+>- [[Ergo\|Ergo]], el Imperio del Sol, hogar de los Anarenelin, o Elfos del Sol. La magia de los Anarenelin mantiene la abundancia en la tierra. Los ergonianos dan la bienvenida a todos los habitantes de Tomoe, independientemente de su raza, ofreciendo un frente unificado contra la escasez… y, de paso, vigilando de cerca aquellas tierras fértiles que Ergo podría reclamar.
 
 >[!example]+ Serra
 >- [[Rhanok\|Rhanok]], la isla principal de Serra, donde la Horda ha establecido su capital, junto a la sede de Colmillo Rojo.
