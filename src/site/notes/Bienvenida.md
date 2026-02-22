@@ -13,10 +13,8 @@ De las sombras del Señor Oscuro solo queda una pequeña facción: el [[Trasfond
 
 La celebración del Tricentenario promete ser espectacular, y con tantos dignatarios, mercaderes y otras gentes poderosas reuniéndose en un mismo sitio, parece que será también un encuentro lucrativo, a la par que peligroso.
 
-> [!quote]
+> [!quote] Sazzalazz, Poeta de las Escamas Verdes
 > _Como un olivo que oculta sus nudos bajo una corteza dorada, la paz de Oreka parece inquebrantable, pero incluso el árbol más alto puede temblar si sus raíces más profundas comienzan a despertar._
-> 
-> _Sazzalazz, Poeta de las Escamas Verdes_
 
 
 # El Mundo de Oreka
