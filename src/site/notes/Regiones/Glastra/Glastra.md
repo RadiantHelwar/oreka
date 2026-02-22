@@ -22,7 +22,7 @@ Glastra es el corazón de Oreka: un continente fértil, diverso y densamente pob
 - [[Demenor\|Demenor]], conocida como el Antiguo Imperio, ahora una joven democracia redescubriendo cómo andar antes de correr.
 - [[Cínere\|Cínere]], tierra de contrastes: ríos enormes y junglas verdes, pero también áridos desiertos y salinas.
 - [[Evisnos\|Evisnos]], región de colinas y dragones. Sus habitantes son mayoritariamente Dragonborn, y su emperador [[Ilmathar\|Ilmathar]] es un anciano y benevolente dragón de bronce.
-- [[Las Comarcas\|Las Comarcas]], región atravesada por ríos, lagos y deltas, dividida en zonas de diferentes tamaños, habitantes y culturas. Unidos solo por un pacto y la voluntad común de trabajar juntos.
+- [[Regiones/Glastra/Las Comarcas\|Las Comarcas]], región atravesada por ríos, lagos y deltas, dividida en zonas de diferentes tamaños, habitantes y culturas. Unidos solo por un pacto y la voluntad común de trabajar juntos.
 - [[Regiones/Glastra/Kostakt/Kostakt\|Kostakt]], conocida como la Frontera del Sur, escenario de siglos de guerra intermitente con [[Regiones/Tomoe/Ergo\|Ergo]]. 
 - [[Maratón\|Maratón]], famosa por sus costas, destinos turísticos y… dudosa legalidad.
 - [[Eldaren\|Eldaren]], hogar de los _Eldarenelin_, Elfos de las Estrellas. Desconfiados y celosos de sus fronteras; pocos han visto sus montañosos bosques de cerca y vivido para contarlo.

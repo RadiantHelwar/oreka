@@ -51,7 +51,7 @@ Otras religiones menores existen, y son comúnmente toleradas en las zonas en la
 - Los [[Razas/Kitraki\|Kitraki]] adoran a **Itia** como su creadora.
 - Gran parte de los [[Razas/Zaharak\|Zaharak]] adoran a **Tisara** como su protectora y benefactora. 
 - Los elfos acostumbran a adorar ciertos astros (El Sol, las Lunas, las Estrellas), y a **Dama Mireon** como su mas antigua ancestro. 
-- El Líder del panteón enano es **Lureas**, conocido por su vozarrón y su habilidad en la forja. 
+- El Líder del panteón enano es el **Primarca Lureas**, conocido por su vozarrón y su habilidad en la forja. 
 - Entre las gentes mas sencillas, se adora a **Mill**, Dios del Fuego y la Protección, en mayor o menor medida. 
 - Los sanadores estudian a **Amitera**, paragón de la Magia Curativa. 
 - Aquellos que viven entre las sombras murmuran el nombre de **Roz** antes antes de sus escapadas. 
@@ -74,7 +74,7 @@ Las distintas unidades legales de todo Oreka
 >- [[Demenor\|Demenor]], el Antiguo Imperio; hoy una joven democracia que reaprende a caminar antes de aspirar a correr.
 >- [[Cínere\|Cínere]], tierra de contrastes: caudalosos ríos y junglas exuberantes conviven con desiertos áridos y vastas salinas.
 >- [[Evisnos\|Evisnos]], región de colinas y dragones. Habitada mayoritariamente por Dragonborn, su emperador, [[Ilmathar\|Ilmathar]], es un anciano y benevolente dragón de bronce.
->- [[Las Comarcas\|Las Comarcas]], región atravesada por ríos, lagos y deltas, dividida en zonas de diferentes tamaños, habitantes y culturas. Unidos solo por un pacto y la voluntad común de trabajar juntos.
+>- [[Regiones/Glastra/Las Comarcas\|Las Comarcas]], región atravesada por ríos, lagos y deltas, dividida en zonas de diferentes tamaños, habitantes y culturas. Unidos solo por un pacto y la voluntad común de trabajar juntos.
 >- [[Regiones/Glastra/Kostakt/Kostakt\|Kostakt]], conocida como la _Frontera del Sur_, es un país de climas templados, fértiles valles y una cultura orgullosa de su independencia. Durante siglos ha mantenido una guerra intermitente con el Imperio de [[Regiones/Tomoe/Ergo\|Ergo]], un conflicto que culminó hace veinte años con la pérdida de la región de la [[Regiones/Glastra/Kostakt/Dartza\|Dartza]], hoy bajo dominio ergoniano.
 >- [[Maratón\|Maratón]], célebre por sus costas y destinos turísticos… y por una legalidad convenientemente flexible.
 >- [[Eldaren\|Eldaren]], hogar de los _Eldarenelin_, Elfos de las Estrellas. Desconfiados y celosos de sus fronteras; pocos han visto sus montañosos bosques de cerca y vivido para contarlo.
@@ -94,6 +94,7 @@ Las distintas unidades legales de todo Oreka
 
 - Los [[Razas/Zaharak\|Zaharak]]
 - Las [[Razas/Kitraki\|Kitraki]]
+- Los [[Trasfondo/Linajes Ancestrales\|Linajes Ancestrales]] se componen de individuos con poderes especiales, que los separan de sus congéneres.
 
 
 
