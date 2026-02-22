@@ -63,29 +63,29 @@ Las distintas unidades legales de todo Oreka
 >[!example]+ Glastra
 > - [[Regiones/Glastra/Lakua/Lakua\|Lakua]] - La región central de Glastra, situada en el valle homónimo.
 >	- [[Regiones/Glastra/Lakua/Riza\|Riza]], la ciudad estrella del continente, centro político y comercial.
->	- [[Regiones/Glastra/Lakua/Kentron\|Kentron]], el lago más grande del mundo, que ocupa gran parte de la región.
->- [[Ieró\|Ieró]], capital de la Iglesia de Aureon, con su imponente Palacio Sacro.
->- [[Haizea\|Haizea]], tierra de riscos y de la alta nobleza.
+>	- [[Regiones/Glastra/Lakua/Kentron\|Kentron]], el lago más grande del mundo, cuyas aguas dominan el paisaje.
+>- [[Ieró\|Ieró]], capital de la Iglesia de Aureon, coronada por su imponente Palacio Sacro.
+>- [[Regiones/Glastra/Haizea\|Haizea]], tierra de riscos y de la alta nobleza.
 >- [[Regiones/Glastra/Kertutai\|Kertutai]], la colmena de las [[Razas/Kitraki\|Kitraki]].
->- [[Harana\|Harana]], el valle prohibido.
->- [[Teocracia Tisarana\|Teocracia Tisarana]], el pais que los Zaharak forjaron para si mismos
->- [[Irrigos\|Irrigos]], república de mercaderes con una poderosa armada naval.
->- [[Regiones/Glastra/Bardhore\|Bardhore]], hogar de los enanos, que gobiernan tanto sobre como bajo las montañas desde hace milenios.
->- [[Demenor\|Demenor]], conocida como el Antiguo Imperio, ahora una joven democracia redescubriendo cómo andar antes de correr.
->- [[Cínere\|Cínere]], tierra de contrastes: ríos enormes y junglas verdes, pero también áridos desiertos y salinas.
->- [[Evisnos\|Evisnos]], región de colinas y dragones. Sus habitantes son mayoritariamente Dragonborn, y su emperador [[Ilmathar\|Ilmathar]] es un anciano y benevolente dragón de bronce.
+>- [[Regiones/Glastra/Harana\|Harana]], el valle prohibido.
+>- [[Teocracia Tisarana\|Teocracia Tisarana]], el reino que los Zaharak forjaron para si mismos.
+>- [[Irrigos\|Irrigos]], república de mercaderes cuya poderosa armada domina las rutas navales.
+>- [[Regiones/Glastra/Bardhore\|Bardhore]], hogar ancestral de los enanos, que gobiernan tanto sobre como bajo las montañas desde hace milenios.
+>- [[Demenor\|Demenor]], el Antiguo Imperio; hoy una joven democracia que reaprende a caminar antes de aspirar a correr.
+>- [[Cínere\|Cínere]], tierra de contrastes: caudalosos ríos y junglas exuberantes conviven con desiertos áridos y vastas salinas.
+>- [[Evisnos\|Evisnos]], región de colinas y dragones. Habitada mayoritariamente por Dragonborn, su emperador, [[Ilmathar\|Ilmathar]], es un anciano y benevolente dragón de bronce.
 >- [[Las Comarcas\|Las Comarcas]], región atravesada por ríos, lagos y deltas, dividida en zonas de diferentes tamaños, habitantes y culturas. Unidos solo por un pacto y la voluntad común de trabajar juntos.
->- [[Kostakt\|Kostakt]], conocida como la Frontera del Sur, escenario de siglos de guerra intermitente con [[Ergo\|Ergo]]. 
->- [[Maratón\|Maratón]], famosa por sus costas, destinos turísticos y… dudosa legalidad.
+>- [[Regiones/Glastra/Kostakt/Kostakt\|Kostakt]], conocida como la _Frontera del Sur_, es un país de climas templados, fértiles valles y una cultura orgullosa de su independencia. Durante siglos ha mantenido una guerra intermitente con el Imperio de [[Regiones/Tomoe/Ergo\|Ergo]], un conflicto que culminó hace veinte años con la pérdida de la región de la [[Regiones/Glastra/Kostakt/Dartza\|Dartza]], hoy bajo dominio ergoniano.
+>- [[Maratón\|Maratón]], célebre por sus costas y destinos turísticos… y por una legalidad convenientemente flexible.
 >- [[Eldaren\|Eldaren]], hogar de los _Eldarenelin_, Elfos de las Estrellas. Desconfiados y celosos de sus fronteras; pocos han visto sus montañosos bosques de cerca y vivido para contarlo.
->- [[Ithiren\|Ithiren]], tierra de los _Ithirenelin_, Elfos de las Lunas. Más amistosos con otras razas, su bello reino de plata acoge a visitantes, aunque nunca como iguales.
+>- [[Ithiren\|Ithiren]], tierra de los _Ithirenelin_, Elfos de las Lunas. Más amistosos con otras razas, su bello reino de plata acoge a visitantes, aunque son recelosos de aquellos que se quedan.
 
 > [!example]+ Trabia
-> - [[Regiones/Trabia/Reino de Adamas\|Reino de Adamas]], tierra nórdica azotada por el frío y colindante con el Glaciar de Pagos. La escasez es habitual, pero las comunidades son cohesionadas: los vecinos se ayudan entre sí, aunque desconfían de los extraños. Este sentimiento incluso se extiende a la realeza.
-> - [[Edrakos\|Edrakos]], el Coliseo Legendario.
+> - [[Regiones/Trabia/Reino de Adamas\|Reino de Adamas]], tierra nórdica azotada por el frío y vecina del Glaciar de Pagos. La escasez es habitual, pero las comunidades son férreas y solidarias; la desconfianza hacia los forasteros es casi una ley natural, y ni siquiera la realeza está exenta de ella.
+> - [[Regiones/Trabia/Edrakos\|Edrakos]], el Coliseo Legendario.
 
 >[!example]+ Tomoe
->- [[Ergo\|Ergo]], el Imperio del Sol, hogar de los Anarenelin, o Elfos del Sol. La magia de los Anarenelin mantiene la abundancia en la tierra. Los ergonianos dan la bienvenida a todos los habitantes de Tomoe, independientemente de su raza, ofreciendo un frente unificado contra la escasez… y, de paso, vigilando de cerca aquellas tierras fértiles que Ergo podría reclamar.
+>- [[Regiones/Tomoe/Ergo\|Ergo]], el Imperio del Sol, hogar de los _Anarenelin_, los Elfos del Sol. Su magia mantiene la abundancia allí donde gobiernan. Ergo ofrece unidad y prosperidad compartida frente a la escasez… mientras observa con atención qué tierras fértiles podrían necesitar su “protección”.
 
 >[!example]+ Serra
 >- [[Rhanok\|Rhanok]], la isla principal de Serra, donde la Horda ha establecido su capital, junto a la sede de Colmillo Rojo.

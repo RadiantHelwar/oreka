@@ -29,7 +29,7 @@ Existen además numerosos asentamientos menores repartidos por el **archipiéla
 
 En [[Regiones/Trabia/Trabia\|Trabia]] habita la mayor parte de los Zaharak de gran tamaño. Estos no suelen establecer ciudades permanentes, sino que viven en pequeños grupos nómadas conocidos como los [[Díkaii Timoría\|Díkaii Timoría]], desplazándose de forma estacional y manteniendo un estilo de vida más austero y marcadamente independiente.
 
-Por último, se sabe que **en las profundidades del** [[Harana\|Harana]] habitan varias **tribus zaharak de carácter salvaje y poco amistoso**. Estos grupos rechazan casi todo contacto con el exterior y mantienen formas de vida mucho más primitivas, ajenas tanto a las estructuras políticas de la República Tisarana como a las tradiciones tribales más extendidas. Su origen exacto y sus creencias son poco conocidos, y la mayoría de los relatos sobre ellos proceden de expediciones fallidas o encuentros hostiles. No se conoce ningún intento de contacto que no haya acabado en violencia.
+Por último, se sabe que **en las profundidades del** [[Regiones/Glastra/Harana\|Harana]] habitan varias **tribus zaharak de carácter salvaje y poco amistoso**. Estos grupos rechazan casi todo contacto con el exterior y mantienen formas de vida mucho más primitivas, ajenas tanto a las estructuras políticas de la República Tisarana como a las tradiciones tribales más extendidas. Su origen exacto y sus creencias son poco conocidos, y la mayoría de los relatos sobre ellos proceden de expediciones fallidas o encuentros hostiles. No se conoce ningún intento de contacto que no haya acabado en violencia.
 
 ## Características de los Zaharak
 

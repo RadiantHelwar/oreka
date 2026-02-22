@@ -4,6 +4,6 @@
 
 # Tomoe
 
-Tomoe es un continente de frondosos bosques y junglas, vastos terrenos arables y bellos paisajes llenos de vida, siempre que hablemos de la parte oeste, donde [[Ergo\|Ergo]], el Imperio del Sol, mantiene la abundancia con su magia. 
+Tomoe es un continente de frondosos bosques y junglas, vastos terrenos arables y bellos paisajes llenos de vida, siempre que hablemos de la parte oeste, donde [[Regiones/Tomoe/Ergo\|Ergo]], el Imperio del Sol, mantiene la abundancia con su magia. 
 
 La parte oriental del continente es árida y desértica, hábitat de pocas criaturas y aún menos civilizaciones.

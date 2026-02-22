@@ -74,7 +74,7 @@ La Ola de Oscuridad dividió al mundo en dos bandos. Varios países y reinos se 
 
 - [[Marquesado de Haizea\|Reino de Haizea]]
 - [[Regiones/Glastra/Kertutai\|Kertutai]], el Reino de las Avispas
-- [[Ergo\|Ergo]], el Imperio del Sol
+- [[Regiones/Tomoe/Ergo\|Ergo]], el Imperio del Sol
 - La [[Horda de Serra\|Horda de Serra]]
 - Las tribus salvajes de [[Díkaii Timoría\|Díkaii Timoría]]
 

@@ -13,9 +13,9 @@ Glastra es el corazón de Oreka: un continente fértil, diverso y densamente pob
 	- [[Regiones/Glastra/Lakua/Riza\|Riza]], la ciudad estrella del continente, centro político y comercial.
 	- [[Regiones/Glastra/Lakua/Kentron\|Kentron]], el lago más grande del mundo, que ocupa gran parte de la región.
 - [[Ieró\|Ieró]], capital de la Iglesia de Aureon, con su imponente Palacio Sacro.
-- [[Haizea\|Haizea]], tierra de riscos y de la alta nobleza.
+- [[Regiones/Glastra/Haizea\|Haizea]], tierra de riscos y de la alta nobleza.
 - [[Regiones/Glastra/Kertutai\|Kertutai]], la colmena de las [[Razas/Kitraki\|Kitraki]].
-- [[Harana\|Harana]], el valle prohibido.
+- [[Regiones/Glastra/Harana\|Harana]], el valle prohibido.
 - [[Teocracia Tisarana\|Teocracia Tisarana]], el pais que los Zaharak forjaron para si mismos
 - [[Irrigos\|Irrigos]], república de mercaderes con una poderosa armada naval.
 - [[Regiones/Glastra/Bardhore\|Bardhore]], hogar de los enanos, que gobiernan tanto sobre como bajo las montañas desde hace milenios.
@@ -23,7 +23,7 @@ Glastra es el corazón de Oreka: un continente fértil, diverso y densamente pob
 - [[Cínere\|Cínere]], tierra de contrastes: ríos enormes y junglas verdes, pero también áridos desiertos y salinas.
 - [[Evisnos\|Evisnos]], región de colinas y dragones. Sus habitantes son mayoritariamente Dragonborn, y su emperador [[Ilmathar\|Ilmathar]] es un anciano y benevolente dragón de bronce.
 - [[Las Comarcas\|Las Comarcas]], región atravesada por ríos, lagos y deltas, dividida en zonas de diferentes tamaños, habitantes y culturas. Unidos solo por un pacto y la voluntad común de trabajar juntos.
-- [[Kostakt\|Kostakt]], conocida como la Frontera del Sur, escenario de siglos de guerra intermitente con [[Ergo\|Ergo]]. 
+- [[Regiones/Glastra/Kostakt/Kostakt\|Kostakt]], conocida como la Frontera del Sur, escenario de siglos de guerra intermitente con [[Regiones/Tomoe/Ergo\|Ergo]]. 
 - [[Maratón\|Maratón]], famosa por sus costas, destinos turísticos y… dudosa legalidad.
 - [[Eldaren\|Eldaren]], hogar de los _Eldarenelin_, Elfos de las Estrellas. Desconfiados y celosos de sus fronteras; pocos han visto sus montañosos bosques de cerca y vivido para contarlo.
 - [[Ithiren\|Ithiren]], tierra de los _Ithirenelin_, Elfos de las Lunas. Más amistosos con otras razas, su bello reino de plata acoge a visitantes, aunque nunca como iguales.

@@ -12,7 +12,7 @@
 
 **Gobierno**: Monarquía eusocial
 
-**Geografía clave**: Abarca el único paso seguro sobre el [[Harana\|Harana]], entre [[Haizea\|Haizea]] y [[Regiones/Glastra/Lakua/Lakua\|Lakua]]
+**Geografía clave**: Abarca el único paso seguro sobre el [[Regiones/Glastra/Harana\|Harana]], entre [[Regiones/Glastra/Haizea\|Haizea]] y [[Regiones/Glastra/Lakua/Lakua\|Lakua]]
 
 ---
 
@@ -31,7 +31,7 @@ Este puente es la razón por la que Kertutai es crucial:
 
 Según los propios Kitraki, su deidad Itia les rescató del caos. Según sus historias, nacieron de la corrupción durante la [[Podredumbre\|Podredumbre]] y Itia les dotó de razón, dejando tras de sí su naturaleza monstruosa.
 
-A cambio solo les pidió que ayudasen a contener la corrupción y ayudasen a sus vecinos. Las Kitraki, agradecidas, juraron purificar la rama caída y destruir a todos los que amenazasen la recientemente creada región de [[Harana\|Harana]], y a sus vecinos de [[Regiones/Glastra/Lakua/Lakua\|Lakua]] y [[Haizea\|Haizea]].
+A cambio solo les pidió que ayudasen a contener la corrupción y ayudasen a sus vecinos. Las Kitraki, agradecidas, juraron purificar la rama caída y destruir a todos los que amenazasen la recientemente creada región de [[Regiones/Glastra/Harana\|Harana]], y a sus vecinos de [[Regiones/Glastra/Lakua/Lakua\|Lakua]] y [[Regiones/Glastra/Haizea\|Haizea]].
 
 Hoy, Kertutai es un estado militarmente compacto, diplomáticamente estricto y económicamente estratégico, cuyos ingresos dependen del control del paso.
 
