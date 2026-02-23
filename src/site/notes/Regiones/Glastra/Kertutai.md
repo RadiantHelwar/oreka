@@ -14,8 +14,6 @@
 
 **Geografía clave**: Abarca el único paso seguro sobre el [[Regiones/Glastra/Harana\|Harana]], entre [[Regiones/Glastra/Haizea\|Haizea]] y [[Regiones/Glastra/Lakua/Lakua\|Lakua]]
 
----
-
 # Descripción General
 
 Kertutai es un reino único en Oreka, construido en el interior de lo que una vez fue la Gran Rama caída de [[Regiones/Glastra/Ilios\|Ilios]]. Tras siglos de trabajo —purificación, excavación, ingeniería y renovación—, las Kitraki sustituyeron toda la madera original por materiales propios: resinas endurecidas, ceras minerales, arcillas tratadas y estructuras de quitina masiva.
@@ -25,8 +23,6 @@ Aunque nada queda del árbol, el país entero conserva la silueta de la rama col
 Este puente es la razón por la que Kertutai es crucial:
 - es el único cruce seguro del Harana.
 
----
-
 # Historia y Misión
 
 Según los propios Kitraki, su deidad Itia les rescató del caos. Según sus historias, nacieron de la corrupción durante la [[Podredumbre\|Podredumbre]] y Itia les dotó de razón, dejando tras de sí su naturaleza monstruosa.
@@ -35,7 +31,6 @@ A cambio solo les pidió que ayudasen a contener la corrupción y ayudasen a sus
 
 Hoy, Kertutai es un estado militarmente compacto, diplomáticamente estricto y económicamente estratégico, cuyos ingresos dependen del control del paso.
 
----
 
 ## Las Cuatro Secciones de Kertutai
 
@@ -69,9 +64,8 @@ Luz cálida filtrada.
 
 Para un forastero sería como entrar en un organismo vivo.
 
----
 
-3. El Aéreo
+### 3. El Aéreo
 
 La base aérea oficial.
 
@@ -85,9 +79,8 @@ Desde aquí parten patrullas que vigilan el Harana y escoltan convoyes.
 
 El zumbido que emana del Aéreo puede escucharse a kilómetros en días de viento.
 
----
 
-4. Palegia (El Palacio)
+### 4. Palegia (El Palacio)
 
 La joya del reino.
 
@@ -97,10 +90,8 @@ Desde las terrazas, el agua cae hacia el Harana formando columnas líquidas irid
 
 En Palegia viven:
 
-La Reina Matriz
-
-Las Sabias
-
-Las castas dirigentes
+- La Reina Matriz
+- Las Sabias
+- Las castas dirigentes
 
 Es un lugar sagrado, donde pocos extranjeros han puesto pie.

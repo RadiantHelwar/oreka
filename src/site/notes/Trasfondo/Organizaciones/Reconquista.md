@@ -4,7 +4,7 @@
 
 # Reconquista
 
-Un grupo de ex-soldados desilusionados, abandonados por [[Regiones/Glastra/Kostakt/Kostakt\|Kostakt]] tras la declaración de la [[Ultima Tregua\|Ultima Tregua]] con [[Regiones/Tomoe/Ergo\|Ergo]] hace veinte años, firmada bajo condiciones de mantener el _Status Quo_ según el cual [[Regiones/Tomoe/Ergo\|Ergo]] se quedaba la región de la [[Regiones/Glastra/Kostakt/Dartza\|Dartza]], recien conquistada, y a un desescalado armamentístico que significó que muchos soldados perdieran sus empleos sin muchas mas opciones para la supervivencia en la empobrecida Kostakt tras la guerra.
+Un grupo de ex-soldados desilusionados, abandonados por [[Regiones/Glastra/Kostakt/Kostakt\|Kostakt]] tras la declaración de la [[Última Tregua\|Última Tregua]] con [[Regiones/Tomoe/Ergo\|Ergo]] hace veinte años, firmada bajo condiciones de mantener el _Status Quo_ según el cual [[Regiones/Tomoe/Ergo\|Ergo]] se quedaba la región de la [[Regiones/Glastra/Kostakt/Dartza\|Dartza]], recien conquistada, y a un desescalado armamentístico que significó que muchos soldados perdieran sus empleos sin muchas mas opciones para la supervivencia en la empobrecida Kostakt tras la guerra.
 
 Muchos de estos soldados abandonados a su suerte acabaron sucumbiendo al hambre y convirtiéndose en bandidos en sus propias tierras, odiados y repudiados por sus propias gentes, y perseguidos por las fuerzas de Kostakt, hasta que el ex-comandante [[Alhor Stammets\|Alhor Stammets]] reunió a unos pocos de sus antiguos subordinados y formaron Reconquista.
 

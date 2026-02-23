@@ -18,7 +18,7 @@ Antaño fueron reyes de Haizea, y aún hoy, reducidos a Marquesado, su nombre pr
 
 ## Heráldica
 
-![[Aitherion 1.png\|300]]
+![Aitherion.png|300](/img/user/Extras/Imagenes/Otros/Heraldicas/Aitherion.png)
 
 El escudo de armas Aitherion muestra un campo azul profundo, sobre el cual un águila dorada de alas desplegadas se eleva entre nubes plateadas. El ave porta en sus garras una flecha, símbolo de velocidad y voluntad, y sobre su cabeza flota una corona, recuerdo de su pasado como realeza.
 

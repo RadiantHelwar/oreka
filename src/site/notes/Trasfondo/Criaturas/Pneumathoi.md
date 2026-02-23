@@ -5,7 +5,7 @@
 # Pneumathoi
 
 
->[!Quote]Extracto del Tratado de Almas Errantes, por el arcanista Varen Lys, siglo XI DE
+>[!quote] Extracto del Tratado de Almas Errantes, por el arcanista Varen Lys, siglo XI DE
 “La Pneuma no es esclava ni dueña; es espejo y eco del alma que acompaña.”
 
 Las Pneumathoi, o Pneumas en el habla común, son almas externas de naturaleza alada que existen únicamente en la familia Aitherion.
