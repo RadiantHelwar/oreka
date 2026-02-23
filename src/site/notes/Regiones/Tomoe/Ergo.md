@@ -77,7 +77,7 @@ Los miembros de la Casta Clerical son formados desde jóvenes en disciplina, teo
 
 Su autoridad no es coercitiva, sino moral y estructural. Son consejeros, jueces rituales y guardianes del orden espiritual.
 
-Es la Casta de acceso más flexible. La incorporación requiere solicitarla y renunciar a cualquier otra pertenencia previa. La mayor parte de la gente entra a formar parte de la Casta Clerical en el escalafón mas bajo de la misma, pero otros, especialmente si su poder e influencia previos ala unión eran considerables, pueden entrar directamente a posiciones mas elevadas. La movilidad dentro de la Casta Clerical es una mezcla de nepotismo, política, y éxito individual, que no existe en las otras Castas.
+Es la Casta de acceso más flexible. La incorporación requiere solicitarla y renunciar a cualquier otra pertenencia previa. La mayor parte de la gente entra a formar parte de la Casta Clerical en el escalafón mas bajo de la misma, pero otros, especialmente si su poder e influencia previos a la unión eran considerables, pueden entrar directamente a posiciones mas elevadas. La movilidad dentro de la Casta Clerical es una mezcla de nepotismo, política, y éxito individual, que no existe en las otras Castas.
 
 ## Casta Noble
 
