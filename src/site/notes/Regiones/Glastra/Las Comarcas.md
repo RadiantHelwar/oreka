@@ -13,7 +13,7 @@ A ojos de potencias como [[Regiones/Glastra/Lakua/Lakua\|Lakua]], [[Regiones/Gla
 
 ## Geografía
 
-Las Comarcas se extienden al sur de [[Cínere\|Cínere]], donde los grandes ríos que descienden de los cañones áridos pierden fuerza al alcanzar la llanura abierta hasta llegar al mar abierto. Allí, el terreno sedimentario y fértil permite que los cauces serpenteen, formen meandros, brazos secundarios y lagunas.
+Las Comarcas se extienden al sur de [[Regiones/Glastra/Cínere\|Cínere]], donde los grandes ríos que descienden de los cañones áridos pierden fuerza al alcanzar la llanura abierta hasta llegar al mar abierto. Allí, el terreno sedimentario y fértil permite que los cauces serpenteen, formen meandros, brazos secundarios y lagunas.
 
 A lo largo de los siglos, sus habitantes han ampliado y conectado estos cursos naturales mediante acequias, compuertas y canales, creando una auténtica telaraña navegable.
 
@@ -51,7 +51,7 @@ Las Comarcas no albergan sedes de grandes órdenes o compañías famosas, pero s
 
 ## Relaciones Exteriores
 
-Las Comarcas mantienen tratados amistosos con [[Cínere\|Cínere]], [[Evisnos\|Evisnos]] y [[Regiones/Glastra/Kostakt/Kostakt\|Kostakt]], así como con gran parte de Glastra. Esta red diplomática, sumada a su escaso interés expansionista, ha contribuido a disuadir intentos de conquista.
+Las Comarcas mantienen tratados amistosos con [[Regiones/Glastra/Cínere\|Cínere]], [[Evisnos\|Evisnos]] y [[Regiones/Glastra/Kostakt/Kostakt\|Kostakt]], así como con gran parte de Glastra. Esta red diplomática, sumada a su escaso interés expansionista, ha contribuido a disuadir intentos de conquista.
 
 Durante los últimos veinte años, han acogido un flujo constante de refugiados procedentes de Kostakt. Aunque la recepción ha sido mayormente cordial, la prolongada llegada de nuevas gentes ha generado tensiones culturales.
 

@@ -20,7 +20,7 @@ Glastra es el corazón de Oreka: un continente fértil, diverso y densamente pob
 - [[Irrigos\|Irrigos]], república de mercaderes con una poderosa armada naval.
 - [[Regiones/Glastra/Bardhore\|Bardhore]], hogar de los enanos, que gobiernan tanto sobre como bajo las montañas desde hace milenios.
 - [[Demenor\|Demenor]], conocida como el Antiguo Imperio, ahora una joven democracia redescubriendo cómo andar antes de correr.
-- [[Cínere\|Cínere]], tierra de contrastes: ríos enormes y junglas verdes, pero también áridos desiertos y salinas.
+- [[Regiones/Glastra/Cínere\|Cínere]], tierra de contrastes: ríos enormes y junglas verdes, pero también áridos desiertos y salinas.
 - [[Evisnos\|Evisnos]], región de colinas y dragones. Sus habitantes son mayoritariamente Dragonborn, y su emperador [[Ilmathar\|Ilmathar]] es un anciano y benevolente dragón de bronce.
 - [[Regiones/Glastra/Las Comarcas\|Las Comarcas]], región atravesada por ríos, lagos y deltas, dividida en zonas de diferentes tamaños, habitantes y culturas. Unidos solo por un pacto y la voluntad común de trabajar juntos.
 - [[Regiones/Glastra/Kostakt/Kostakt\|Kostakt]], conocida como la Frontera del Sur, escenario de siglos de guerra intermitente con [[Regiones/Tomoe/Ergo\|Ergo]]. 

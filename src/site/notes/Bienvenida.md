@@ -71,7 +71,7 @@ Las distintas unidades legales de todo Oreka
 >- [[Irrigos\|Irrigos]], república de mercaderes cuya poderosa armada domina las rutas navales.
 >- [[Regiones/Glastra/Bardhore\|Bardhore]], hogar ancestral de los enanos, que gobiernan tanto sobre como bajo las montañas desde hace milenios.
 >- [[Demenor\|Demenor]], el Antiguo Imperio; hoy una joven democracia que reaprende a caminar antes de aspirar a correr.
->- [[Cínere\|Cínere]], tierra de contrastes: caudalosos ríos y junglas exuberantes conviven con desiertos áridos y vastas salinas.
+>- [[Regiones/Glastra/Cínere\|Cínere]], tierra de contrastes: caudalosos ríos y junglas exuberantes conviven con desiertos áridos y vastas salinas.
 >- [[Evisnos\|Evisnos]], región de colinas y dragones. Habitada mayoritariamente por Dragonborn, su emperador, [[Ilmathar\|Ilmathar]], es un anciano y benevolente dragón de bronce.
 >- [[Regiones/Glastra/Las Comarcas\|Las Comarcas]], región atravesada por ríos, lagos y deltas, dividida en zonas de diferentes tamaños, habitantes y culturas. Unidos solo por un pacto y la voluntad común de trabajar juntos.
 >- [[Regiones/Glastra/Kostakt/Kostakt\|Kostakt]], conocida como la _Frontera del Sur_, es un país de climas templados, fértiles valles y una cultura orgullosa de su independencia. Durante siglos ha mantenido una guerra intermitente con el Imperio de [[Regiones/Tomoe/Ergo\|Ergo]], un conflicto que culminó hace veinte años con la pérdida de la región de la [[Regiones/Glastra/Kostakt/Dartza\|Dartza]], hoy bajo dominio ergoniano.
