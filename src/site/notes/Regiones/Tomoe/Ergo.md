@@ -119,3 +119,9 @@ Los **Descastados** representan el mayor castigo posible dentro del Imperio. En 
 Quienes lo conocieron deben actuar como si jamás hubiera existido.
 
 El Descastado es expulsado de las tierras de Ergo y deja de formar parte de su historia. Vive, pero sin pasado, sin rango y sin memoria colectiva, y jamás podrá regresar.
+
+## Enclave Eladrin
+
+Cerca del [[Faro Drya\|Faro Drya]] residen unos pocos Eladrin, que disfrutan de un entorno mas parecido al de su Feywild de origen en las cercanías del Faro. Esta es una de las pocas excepciones dentro de las fronteras de Ergo, en el que el Gran Engranaje no se aplica. Los Eladrin viven a su manera y como desean, de ellos solo se exige un tributo semejante al del resto de poblaciones del Imperio, pero mientras se mantengan en su rincón de Ergo, pueden gobernarse y actuar como quieran. 
+
+Todo Eladrin que salga del Enclave, sin embargo, debe someterse a las leyes del Imperio, como todos los demás.
