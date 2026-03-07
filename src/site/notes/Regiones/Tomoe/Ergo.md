@@ -15,7 +15,7 @@ Durante sus primeros siglos, Ergo fue una sociedad introspectiva y culturalmente
 
 ## Formación del Imperio
 
-La historia de Ergo cambió durante la [[Podredumbre\|Podredumbre]], cuando la abundancia de Tomoe comenzó a declinar y el espectro del hambre reapareció en el horizonte. Ante la crisis, el clero solar impulsó una profunda reorganización social: la nación adoptó una estructura jerárquica y funcional en la que cada ciudadano desempeña un papel específico dentro del “Gran Engranaje” imperial.
+La historia de Ergo cambió durante la [[Podredumbre\|Podredumbre]], cuando la abundancia de Tomoe comenzó a declinar y el espectro del hambre reapareció en el horizonte. Ante la crisis, el clero solar impulsó una profunda reorganización social: la nación adoptó una estructura jerárquica y funcional en la que cada ciudadano desempeña un papel específico dentro de la “Gran Obra” imperial.
 
 Este sistema de castas, rígido pero estable, permitió coordinar el esfuerzo mágico y agrícola necesario para restaurar el ecosistema. Desde entonces, Ergo se ha convertido en una de las potencias tecnológicas y arcanas más avanzadas de Oreka.
 
@@ -23,9 +23,9 @@ Este sistema de castas, rígido pero estable, permitió coordinar el esfuerzo m�
 
 Desde la gran reorganización tras la Podredumbre, Ergo es gobernado por la [[Casa Imperial\|Casa Imperial]] , linaje surgido del antiguo alto clero, descendientes directos del *Hijo del Sol*, **Mill**. La figura del Emperador o Emperatriz no solo dirige el destino político de la nación, sino que también ostenta la máxima autoridad religiosa como cabeza del clero.
 
-En Ergo no existe una separación entre fe y gobierno: el orden civil es entendido como una manifestación del equilibrio divino. El liderazgo imperial no se considera un derecho hereditario sin más, sino una responsabilidad sagrada de custodiar la abundancia, coordinar el Gran Engranaje y preservar la vida en todas sus formas.
+En Ergo no existe una separación entre fe y gobierno: el orden civil es entendido como una manifestación del equilibrio divino. El liderazgo imperial no se considera un derecho hereditario sin más, sino una responsabilidad sagrada de custodiar la abundancia, coordinar la Gran Obra y preservar la vida en todas sus formas.
 
-La Casa Imperial se apoya en un consejo de altos sacerdotes, estrategas y magos, pero su palabra final es incuestionable, pues se entiende que habla en armonía con la voluntad del Sol.
+La Casa Imperial se apoya en un consejo de altos sacerdotes, estrategas y magos, pero su palabra final es incuestionable, pues se consta de autoridad divina.
 
 ### Castas
 
@@ -49,7 +49,7 @@ Para otros, es la prueba de que el orden y la disciplina pueden salvar a un pueb
 
 ## Casta Imperial
 
-La Casta Imperial es la menos numerosa, pero la mas importante de Ergo. Constituye el vértice del Gran Engranaje. Sus miembros son descendientes reconocidos del Primer Emperador, considerado el último heredero directo de _Mill, el Hijo del Sol_.
+La Casta Imperial es la menos numerosa, pero la mas importante de Ergo. Constituye el vértice de la Gran Obra. Sus miembros son descendientes reconocidos del Primer Emperador, considerado el último heredero directo de el que fuera nombrado lider por el _Hijo del Sol_.
 
 Todos los miembros de la Casta Imperial son descendientes del Primer Emperador, o se han unido a la Casta Imperial via enlace matrimonial. La legitimidad de cada miembro se evalúa según la pureza y continuidad de su árbol genealógico, midiendo la cercanía de su línea de sangre al Primer Emperador y el número de “desvíos” matrimoniales o sucesorios que la separan de él.
 
@@ -63,13 +63,13 @@ El Emperador o Emperatriz ejerce simultáneamente como máxima autoridad políti
 
 La línea de sucesión no responde únicamente al principio de primogenitura, sino al cálculo genealógico establecido por el [[Sosen\|Sosen]], órgano compuesto por sacerdotes y archivistas que certifican la legitimidad dinástica. Así, aunque un Emperador tenga descendencia directa, es posible que otro familiar reúna las características necesarias para ser considerado mas próximo al Primer Emperador, y por tanto, aparecer antes en la línea de sucesión.
 
-Los miembros de la Casta Imperial poseen privilegios ceremoniales, autoridad moral y responsabilidades diplomáticas, pero también están sometidos a un riguroso código de conducta. Cada acción pública de un miembro imperial es considerada reflejo del Sol mismo.
+Los miembros de la Casta Imperial poseen privilegios ceremoniales, autoridad moral y responsabilidades diplomáticas, pero también están sometidos a un riguroso código de conducta. Cada acción pública de un miembro imperial es considerada reflejo del Imperio mismo.
 
 La estabilidad de la línea principal es una prioridad absoluta. Los matrimonios se negocian con precisión, las alianzas se calculan con extremo cuidado, y la preservación del linaje es vista como deber sagrado.
 
 ## Casta Clerical
 
-La Casta Clerical constituye el fundamento espiritual del Imperio y la segunda piedra angular del Gran Engranaje. Sus miembros median entre las otras Castas y la Casta Imperial; son custodios del equilibrio que sostiene la abundancia de Ergo y velan por el bienestar espiritual de todos los miembros del Imperio.
+La Casta Clerical constituye el fundamento espiritual del Imperio y la segunda piedra angular de la Gran Obra. Sus miembros median entre las otras Castas y la Casta Imperial; son custodios del equilibrio que sostiene la abundancia de Ergo y velan por el bienestar espiritual de todos los miembros del Imperio.
 
 De sus filas surgió la propia Casa Imperial durante la reorganización posterior a la Podredumbre. Aunque hoy el Emperador o Emperatriz ostenta la autoridad suprema religiosa, la Casta Clerical mantiene la responsabilidad de preservar la doctrina, dirigir los ritos y supervisar la correcta armonía entre las castas.
 
@@ -83,9 +83,9 @@ Es la Casta de acceso más flexible. La incorporación requiere solicitarla y re
 
 La Casta Noble está compuesta por las grandes casas que administran regiones, ciudades y recursos estratégicos en nombre del Imperio.
 
-A diferencia de la Casta Imperial, cuya legitimidad proviene del linaje solar directo, la Nobleza fundamenta su posición en la antigüedad de servicio y la fidelidad demostrada a la Casa Imperial. Muchas de estas familias obtuvieron su rango tras la reorganización de la Podredumbre, al asumir responsabilidades críticas para la supervivencia del Imperio.
+A diferencia de la Casta Imperial, cuya legitimidad proviene del linaje solar directo, la Nobleza fundamenta su posición en la antigüedad de servicio y la fidelidad demostrada a la Casa Imperial. Muchas de estas familias obtuvieron su rango tras la reorganización provocada por la Podredumbre, al asumir responsabilidades críticas para la supervivencia del Imperio.
 
-La nobleza actúa como intermediaria entre la voluntad imperial y las castas inferiores. Administra, supervisa y garantiza que el Gran Engranaje funcione sin fricciones.
+La nobleza actúa como intermediaria entre la voluntad imperial y las castas inferiores. Administra, supervisa y garantiza que la Gran Obra funcione sin fricciones.
 
 Sus matrimonios también son cuidadosamente negociados, aunque su pureza de linaje no se mide con el mismo rigor matemático que el de la Casa Imperial.
 
@@ -102,7 +102,7 @@ Son responsables de mantener relaciones comerciales con otras naciones, actuando
 
 ## Casta común
 
-La Casta Común constituye la base del Gran Engranaje y la más numerosa de todas. Incluye agricultores, obreros, soldados rasos, funcionarios menores y trabajadores de toda índole.
+La Casta Común constituye la base de la Gran Obra y es la más numerosa de todas. Incluye agricultores, obreros, soldados rasos, funcionarios menores y trabajadores de toda índole.
 
 Lejos de ser considerada inferior en dignidad, la Casta Común es presentada como el corazón productivo del Imperio. Cada ciudadano recibe educación básica y es asignado a una función acorde a sus capacidades y necesidades del conjunto.
 
@@ -114,7 +114,7 @@ El Imperio considera que la Casta Común es la prueba de que el orden protege in
 
 Los **Sin Casta** son aquellos que no forman parte del sistema imperial. Visitantes, diplomáticos o extranjeros pueden residir temporalmente bajo la protección de Ergo, siempre que respeten sus leyes y costumbres. Sin embargo, estancias prolongadas suelen requerir la integración formal en alguna Casta —habitualmente la Común— o el retorno al extranjero.
 
-Los **Descastados** representan el mayor castigo posible dentro del Imperio. En lugar de ejecución —considerada una afrenta al respeto absoluto por la vida—, el Imperio aplica la eliminación total del reconocimiento social. El nombre del condenado es retirado de los registros oficiales; su pasado deja de existir en documentos públicos y su pertenencia a cualquier Casta queda anulada.
+Los **Descastados** representan el mayor castigo posible dentro del Imperio. En lugar de ejecución —considerada una afrenta al respeto absoluto por la vida—, el Imperio aplica la eliminación total del reconocimiento social a aquellos que consideren nocivos hacia la Gran Obra de forma irremediable. El nombre del condenado es retirado de los registros oficiales; su pasado deja de existir en documentos públicos y su pertenencia a cualquier Casta queda anulada.
 
 Quienes lo conocieron deben actuar como si jamás hubiera existido.
 
@@ -122,6 +122,6 @@ El Descastado es expulsado de las tierras de Ergo y deja de formar parte de su h
 
 ## Enclave Eladrin
 
-Cerca del [[Faro Drya\|Faro Drya]] residen unos pocos Eladrin, que disfrutan de un entorno mas parecido al de su Feywild de origen en las cercanías del Faro. Esta es una de las pocas excepciones dentro de las fronteras de Ergo, en el que el Gran Engranaje no se aplica. Los Eladrin viven a su manera y como desean, de ellos solo se exige un tributo semejante al del resto de poblaciones del Imperio, pero mientras se mantengan en su rincón de Ergo, pueden gobernarse y actuar como quieran. 
+Cerca del [[Faro Drya\|Faro Drya]] residen unos pocos Eladrin, que disfrutan de un entorno mas parecido al de su Feywild de origen en las cercanías del Faro. Esta es una de las pocas excepciones dentro de las fronteras de Ergo, en el que la Gran Obra no se aplica. Los Eladrin viven a su manera y como desean, de ellos solo se exige un tributo semejante al del resto de poblaciones del Imperio, pero mientras se mantengan en su rincón de Ergo, pueden gobernarse y actuar como quieran. 
 
 Todo Eladrin que salga del Enclave, sin embargo, debe someterse a las leyes del Imperio, como todos los demás.

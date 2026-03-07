@@ -10,7 +10,7 @@
 
 Nombre por el que la [[Trasfondo/Panteon/Iglesia de Aureon\|Iglesia de Aureon]] conoce a la guerra dirigida por el [[Trasfondo/Ola de Oscuridad/Señor Oscuro\|Señor Oscuro]] para dominar Oreka y sumirlo bajo el control de las tinieblas.
 
-El 5 de Defta de 6953 DE, el [[Hierofante\|Hierofante]] [[Erldatum IV\|Erldatum IV]] declaró oficialmente al **Demonio Menras** como el [[Trasfondo/Ola de Oscuridad/Señor Oscuro\|Señor Oscuro]] después de que este acudiera a [[Ieró\|Ieró]] a amenazarles directamente.
+El 5 de Defta de 6953 DE, el [[Hierofante\|Hierofante]] [[Erldatum IV\|Erldatum IV]] declaró oficialmente al **Demonio Menras** como el [[Trasfondo/Ola de Oscuridad/Señor Oscuro\|Señor Oscuro]] después de que este acudiera a [[Regiones/Glastra/Ieró\|Ieró]] a amenazarles directamente.
 
 >[!cite]- Discurso de Erldatum IV en el balcón del Palacio Sacro
 >Pueblo de Ieró.

@@ -5,13 +5,13 @@
 # Haizea
 
 - Capital: [[Regiones/Glastra/Valtura\|Valtura]]
-- Gobierno: Marquesado vasallo de [[Ieró\|Ieró]]
+- Gobierno: Marquesado vasallo de [[Regiones/Glastra/Ieró\|Ieró]]
 - Casa Real: [[Trasfondo/Aitherion\|Aitherion]]
 - Habitantes: Humanos (mayoría), Goliath, Owlin, Aaracroka, Faunos.
 
 Haizea fue en el pasado un reino independiente que reclamaba descendencia de los primeros hijos de Aureon. Durante la [[Trasfondo/Ola de Oscuridad/Ola de Oscuridad\|Ola de Oscuridad]], su corte apoyó al [[Trasfondo/Ola de Oscuridad/Señor Oscuro\|Señor Oscuro]], confiando en la inevitabilidad de su victoria. Tras su derrota, la purga posterior eliminó a la alta nobleza implicada.
 
-El único noble superviviente de alto rango en ese entonces, el Marqués _Alvaren de los Altos Riscos_, juró lealtad a [[Ieró\|Ieró]] para evitar la ocupación total. Como resultado, Haizea fue degradada de Reino a Marquesado, quedando subordinada políticamente.
+El único noble superviviente de alto rango en ese entonces, el Marqués _Alvaren de los Altos Riscos_, juró lealtad a [[Regiones/Glastra/Ieró\|Ieró]] para evitar la ocupación total. Como resultado, Haizea fue degradada de Reino a Marquesado, quedando subordinada políticamente.
 
 Desde entonces, gobierna como estado vasallo, aunque el orgullo local y el deseo de recuperar su antiguo estatus siguen presentes.
 

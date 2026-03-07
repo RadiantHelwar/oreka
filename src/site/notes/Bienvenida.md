@@ -47,7 +47,7 @@ Aureon representa la Luz Dorada, el Orden, la Fe y el Bien por sí mismo. Es con
 
 Otras religiones menores existen, y son comúnmente toleradas en las zonas en la que la Iglesia de Aureon es la dominante:
 
-- Los [[Razas/Kitraki\|Kitraki]] adoran a **Itia** como su creadora.
+- Las [[Razas/Kitraki\|Kitraki]] adoran a **Itia** como su creadora.
 - Gran parte de los [[Razas/Zaharak\|Zaharak]] adoran a **Tisara** como su protectora y benefactora. 
 - Los elfos acostumbran a adorar ciertos astros (El Sol, las Lunas, las Estrellas), y a **Dama Mireon** como su mas antigua ancestro. 
 - El Líder del panteón enano es el **Primarca Lureas**, conocido por su vozarrón y su habilidad en la forja. 
@@ -55,6 +55,7 @@ Otras religiones menores existen, y son comúnmente toleradas en las zonas en la
 - Los sanadores estudian a **Amitera**, paragón de la Magia Curativa. 
 - Aquellos que viven entre las sombras murmuran el nombre de **Roz** antes antes de sus escapadas. 
 - Los estudiosos de lo Arcano y aquellos que veneran la magia por encima de todo claman el nombre se **Kaure el Escolar**, primer maestro de lo arcano y ascendido a divinidad por sus propios medios.
+- [[Trasfondo/Panteon/Glorinth\|Glorinth]], diosa de la magia popular y la superchería.
 
 ## Reinos y Estados
 
@@ -63,21 +64,21 @@ Las distintas unidades legales de todo Oreka
 > - [[Regiones/Glastra/Lakua/Lakua\|Lakua]] - La región central de Glastra, situada en el valle homónimo.
 >	- [[Regiones/Glastra/Lakua/Riza\|Riza]], la ciudad estrella del continente, centro político y comercial.
 >	- [[Regiones/Glastra/Lakua/Kentron\|Kentron]], el lago más grande del mundo, cuyas aguas dominan el paisaje.
->- [[Ieró\|Ieró]], capital de la Iglesia de Aureon, coronada por su imponente Palacio Sacro.
+>- [[Regiones/Glastra/Ieró\|Ieró]], capital de la Iglesia de Aureon, coronada por su imponente Palacio Sacro.
 >- [[Regiones/Glastra/Haizea\|Haizea]], tierra de riscos y de la alta nobleza.
 >- [[Regiones/Glastra/Kertutai\|Kertutai]], la colmena de las [[Razas/Kitraki\|Kitraki]].
 >- [[Regiones/Glastra/Harana\|Harana]], el valle prohibido.
->- [[Teocracia Tisarana\|Teocracia Tisarana]], el reino que los Zaharak forjaron para si mismos.
->- [[Irrigos\|Irrigos]], república de mercaderes cuya poderosa armada domina las rutas navales.
+>- [[Regiones/Glastra/Teocracia Tisarana\|Teocracia Tisarana]], el reino que los Zaharak forjaron para si mismos.
+>- [[Regiones/Glastra/Irrigos\|Irrigos]], república de mercaderes cuya poderosa armada domina las rutas navales.
 >- [[Regiones/Glastra/Bardhore\|Bardhore]], hogar ancestral de los enanos, que gobiernan tanto sobre como bajo las montañas desde hace milenios.
->- [[Demenor\|Demenor]], el Antiguo Imperio; hoy una joven democracia que reaprende a caminar antes de aspirar a correr.
+>- [[Regiones/Glastra/Demenor\|Demenor]], el Antiguo Imperio; hoy una joven república que reaprende a caminar antes de aspirar a correr.
 >- [[Regiones/Glastra/Cínere\|Cínere]], tierra de contrastes: caudalosos ríos y junglas exuberantes conviven con desiertos áridos y vastas salinas.
->- [[Evisnos\|Evisnos]], región de colinas y dragones. Habitada mayoritariamente por Dragonborn, su emperador, [[Ilmathar\|Ilmathar]], es un anciano y benevolente dragón de bronce.
+>- [[Regiones/Glastra/Evisnos\|Evisnos]], región de colinas y dragones. Habitada mayoritariamente por Dragonborn, su Gobernador, Ilmathar, es un anciano y benevolente dragón de bronce.
 >- [[Regiones/Glastra/Las Comarcas\|Las Comarcas]], región atravesada por ríos, lagos y deltas, dividida en zonas de diferentes tamaños, habitantes y culturas. Unidos solo por un pacto y la voluntad común de trabajar juntos.
 >- [[Regiones/Glastra/Kostakt/Kostakt\|Kostakt]], conocida como la _Frontera del Sur_, es un país de climas templados, fértiles valles y una cultura orgullosa de su independencia. Durante siglos ha mantenido una guerra intermitente con el Imperio de [[Regiones/Tomoe/Ergo\|Ergo]], un conflicto que culminó hace veinte años con la pérdida de la región de la [[Regiones/Glastra/Kostakt/Dartza\|Dartza]], hoy bajo dominio ergoniano.
->- [[Maratón\|Maratón]], célebre por sus costas y destinos turísticos… y por una legalidad convenientemente flexible.
->- [[Eldaren\|Eldaren]], hogar de los _Eldarenelin_, Elfos de las Estrellas. Desconfiados y celosos de sus fronteras; pocos han visto sus montañosos bosques de cerca y vivido para contarlo.
->- [[Ithiren\|Ithiren]], tierra de los _Ithirenelin_, Elfos de las Lunas. Más amistosos con otras razas, su bello reino de plata acoge a visitantes, aunque son recelosos de aquellos que se quedan.
+>- [[Regiones/Glastra/Maraton/Maratón\|Maratón]], célebre por sus costas y destinos turísticos… y por una legalidad convenientemente flexible.
+>- [[Regiones/Glastra/Eldaren\|Eldaren]], hogar de los _Eldarenelin_, Elfos de las Estrellas. Desconfiados y celosos de sus fronteras; pocos han visto sus montañosos bosques de cerca y vivido para contarlo.
+>- [[Regiones/Glastra/Ithiren\|Ithiren]], tierra de los _Ithirenelin_, Elfos de las Lunas. Más amistosos con otras razas, su bello reino de plata acoge a visitantes, aunque son recelosos de aquellos que se quedan.
 
 > [!example]+ Trabia
 > - [[Regiones/Trabia/Reino de Adamas\|Reino de Adamas]], tierra nórdica azotada por el frío y vecina del Glaciar de Pagos. La escasez es habitual, pero las comunidades son férreas y solidarias; la desconfianza hacia los forasteros es casi una ley natural, y ni siquiera la realeza está exenta de ella.

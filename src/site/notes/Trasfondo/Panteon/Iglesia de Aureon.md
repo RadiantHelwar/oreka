@@ -13,7 +13,7 @@ La Iglesia de Aureon no es solo un culto religioso, sino una de las institucione
 
 ## La Iglesia como institución
 
-La capital de la Iglesia de Aureon es [[Ieró\|Ieró]], una ciudad construida alrededor del [[Palacio Sacro\|Palacio Sacro]], residencia del Hierofante y centro administrativo de toda la fe. Desde aquí se supervisan los templos, se dictan decretos oficiales y se coordinan ceremonias que abarcan todo Oreka.
+La capital de la Iglesia de Aureon es [[Regiones/Glastra/Ieró\|Ieró]], una ciudad construida alrededor del [[Palacio Sacro\|Palacio Sacro]], residencia del Hierofante y centro administrativo de toda la fe. Desde aquí se supervisan los templos, se dictan decretos oficiales y se coordinan ceremonias que abarcan todo Oreka.
 
 La Iglesia de Aureon es el
 

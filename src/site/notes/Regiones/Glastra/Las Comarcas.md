@@ -9,7 +9,7 @@
 
 Las Comarcas son una región de llanuras fértiles atravesadas por una vasta red de ríos, lagos y canales. No constituyen un reino en el sentido tradicional, ni reconocen una monarquía o alta nobleza. Están formadas por pequeñas comunidades autónomas, unidas por pacto y por la voluntad común de cooperación.
 
-A ojos de potencias como [[Regiones/Glastra/Lakua/Lakua\|Lakua]], [[Regiones/Glastra/Haizea\|Haizea]], o [[Demenor\|Demenor]], Las Comarcas pueden parecer una tierra menor. Sin embargo, su estabilidad, su red fluvial y su fuerte identidad compartida las han mantenido libres de dominación externa durante generaciones.
+A ojos de potencias como [[Regiones/Glastra/Lakua/Lakua\|Lakua]], [[Regiones/Glastra/Haizea\|Haizea]], o [[Regiones/Glastra/Demenor\|Demenor]], Las Comarcas pueden parecer una tierra menor. Sin embargo, su estabilidad, su red fluvial y su fuerte identidad compartida las han mantenido libres de dominación externa durante generaciones.
 
 ## Geografía
 
@@ -51,10 +51,10 @@ Las Comarcas no albergan sedes de grandes órdenes o compañías famosas, pero s
 
 ## Relaciones Exteriores
 
-Las Comarcas mantienen tratados amistosos con [[Regiones/Glastra/Cínere\|Cínere]], [[Evisnos\|Evisnos]] y [[Regiones/Glastra/Kostakt/Kostakt\|Kostakt]], así como con gran parte de Glastra. Esta red diplomática, sumada a su escaso interés expansionista, ha contribuido a disuadir intentos de conquista.
+Las Comarcas mantienen tratados amistosos con [[Regiones/Glastra/Cínere\|Cínere]], [[Regiones/Glastra/Evisnos\|Evisnos]] y [[Regiones/Glastra/Kostakt/Kostakt\|Kostakt]], así como con gran parte de Glastra. Esta red diplomática, sumada a su escaso interés expansionista, ha contribuido a disuadir intentos de conquista.
 
 Durante los últimos veinte años, han acogido un flujo constante de refugiados procedentes de Kostakt. Aunque la recepción ha sido mayormente cordial, la prolongada llegada de nuevas gentes ha generado tensiones culturales.
 
 Como resultado, se ha erigido recientemente una nueva Comarca, habitada casi en su totalidad por refugiados, cuya integración en el tejido tradicional comarqueño aún está en proceso.
 
-El comercio con [[Evisnos\|Evisnos]] ha estrechado lazos de forma notable desde hace generaciones. Se sabe que el propio [[Ilmathar\|Ilmathar]] posee un hogar en Las Comarcas y disfruta pasando temporadas en la tierra de los ríos.
+El comercio con [[Regiones/Glastra/Evisnos\|Evisnos]] ha estrechado lazos de forma notable desde hace generaciones. Se sabe que el propio [[Ilmathar\|Ilmathar]] posee un hogar en Las Comarcas y disfruta pasando temporadas en la tierra de los ríos.

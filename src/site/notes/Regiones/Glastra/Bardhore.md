@@ -5,7 +5,7 @@
 # Bardhore
 
 **Capital:** [[Solvagrad\|Solvagrad]]  
-**Habitantes:** Enanos (mayoría), Gnomos, Goliath y otras comunidades montañesas.
+**Habitantes:** Enanos (mayoría), Forjados, Gnomos, Goliath y otras comunidades montañesas.
 
 Bardhore es el reino enano más antiguo de Glastra. Fundado al inicio de la Era del Sol por el Dios Lureas Nizsol, se asentó en las montañas del norte de la actual región de Lakua, en torno a los antiguos macizos que dominan el continente. Desde sus profundidades, los enanos desarrollaron una cultura basada en la ingeniería, la tradición y la autosuficiencia.
 
@@ -30,3 +30,13 @@ La capital, [[Solvagrad\|Solvagrad]], es un símbolo del equilibrio entre tradic
 Bardhore mantiene una postura de neutralidad activa en los conflictos externos de Glastra. Aunque respeta las alianzas comerciales y diplomáticas, prioriza la estabilidad interna y la preservación de su independencia.
 
 Las relaciones con los imperios y reinos vecinos suelen basarse en acuerdos técnicos, intercambio de conocimientos y comercio de metales, gemas y tecnología subterránea.
+
+## Los Hijos de Bardhore: Los Forjados
+
+Los Forjados fueron creados durante la Podredumbre, como constructos de madera de Ilios y metales forjados y gravados con runas arcanas, para defender las fronteras de Bardhore. La ingenuidad enana logró crear un ejercito de autómatas sin parangón. 
+
+Existieron como eso, meros autómatas, hasta la Ola de Oscuridad. Menras jamás atacó Bardhore, pero apareció un día en una de sus plazas mas amplias y emitió una luz de tono ámbar que se esparció por todo el país, y se fue sin mediar palabra. Los ojos antes azules de los Forjados se volvieron ámbar y empezaron a formular preguntas que incomodaron a sus dueños: ¿Quién soy? ¿Porque? ¿Estoy vivo?
+
+No hubo un gran conflicto. Pronto los enanos abandonaron la idea de subyugar a sus ahora sentientes siervos, y vieron las ventajas de simplemente adoptarlos como "hijos". Les enseñaron como mantenerse y como crear su propia descendencia, a la vez que desarrollaron una segunda categoría de Forjados, los "Forjados de Guerra", hechos a parte de madera no originaria de Ilios. Estos Forjados de Guerra no eran tan útiles, ni vivían casi eternamente como sus hermanos mayores, pero tampoco tenían voluntad propia, ni iban a oponerse a sus maestros.
+
+Los Forjados viven mayormente en Bardhore pero se pueden encontrar por todo el mundo en pequeñas cantidades.
