@@ -4,7 +4,7 @@
 
 # Ergo
 
-- Capital: [[Gereria\|Gereria]]
+- Capital: [[Anaranas\|Anaranas]]
 - Habitantes: Anarenelin (Elfos del Sol), Humanos, Dragonborn, Leonin, y otras razas integradas bajo el sistema imperial.
 
 ## Orígenes
@@ -99,6 +99,11 @@ Sus miembros pueden alcanzar gran prosperidad material, pero su estatus está si
 
 Son responsables de mantener relaciones comerciales con otras naciones, actuando en ocasiones como diplomáticos informales.
 
+## Casta Militar
+
+Esta es la segunda casa con movilidad dentro de la estructura Ergoniana. Aquí reside el poder de combate del Imperio. Aunque la teoría dicta que cualquier soldado podría ser promovido a general o líder del ejercito, a la práctica, miembros de la Casta Eclesiástica o Casta Noble toman estos papeles regularmente, y todos ellos están supeditados a las ordenes del Emperador.
+
+Cualquiera puede pasar a formar parte de la Casta Militar, pero aunque generalmente no hay problemas, los reclutadores pueden rechazar una oferta si creen que esa persona está mejor ejerciendo su actual trabajo, sería una desventaja para el ejercito, o ocupa un puesto importante que no puede ser facilmente sustituido en su comunidad.
 
 ## Casta común
 

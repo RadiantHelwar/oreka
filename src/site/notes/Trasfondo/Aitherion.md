@@ -46,4 +46,4 @@ Aunque existen diferencias sociales entre ambas castas, sus respectivas [[Trasfo
 
 ## Presencia Actual
 
-Aunque la línea principal ha reducido su poder territorial, aún mantiene influencia política y militar. Entre los miembros destacados se encuentra un alto representante en las [[Siete Espadas\|Siete Espadas]] de Aureon, símbolo de que la estirpe sigue entre la élite de Oreka.
+Aunque la línea principal ha reducido su poder territorial, aún mantiene influencia política y militar. Entre los miembros destacados se encuentra un alto representante en las [[Trasfondo/Panteon/Siete Espadas\|Siete Espadas]] de Aureon, símbolo de que la estirpe sigue entre la élite de Oreka.

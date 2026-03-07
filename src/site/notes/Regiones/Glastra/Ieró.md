@@ -26,7 +26,7 @@ La luz dorada que emerge de las antiguas piedras continúa brillando suavemente.
 
 Sanctum domina Ieró desde la cima de la montaña.
 
-Rodeando la gran catedral se alzan los siete castillos amurallados de las [[Siete Espadas\|Siete Espadas]], las órdenes militares que sirven como brazo armado de la Iglesia de Aureon. Cada castillo es una fortaleza independiente, capaz de resistir largos asedios, y está ocupado por una de las siete órdenes sagradas.
+Rodeando la gran catedral se alzan los siete castillos amurallados de las [[Trasfondo/Panteon/Siete Espadas\|Siete Espadas]], las órdenes militares que sirven como brazo armado de la Iglesia de Aureon. Cada castillo es una fortaleza independiente, capaz de resistir largos asedios, y está ocupado por una de las siete órdenes sagradas.
 
 Las fortalezas están conectadas entre sí mediante una compleja red de murallas, pasajes y puertas móviles que pueden abrirse o cerrarse a voluntad de sus guardianes. Para quien no conozca la disposición exacta de estos corredores, moverse entre los castillos puede convertirse en un auténtico laberinto.
 

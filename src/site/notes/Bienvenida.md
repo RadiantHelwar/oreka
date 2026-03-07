@@ -95,6 +95,7 @@ Las distintas unidades legales de todo Oreka
 - Los [[Razas/Zaharak\|Zaharak]]
 - Las [[Razas/Kitraki\|Kitraki]]
 - Los [[Trasfondo/Linajes Ancestrales\|Linajes Ancestrales]] se componen de individuos con poderes especiales, que los separan de sus congéneres.
+- Antiguos Linajes élficos mas allá de los tres principales: [[Trasfondo/Otros Linajes Elficos\|Otros Linajes Elficos]]
 
 
 

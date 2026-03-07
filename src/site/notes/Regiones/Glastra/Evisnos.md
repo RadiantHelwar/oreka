@@ -95,7 +95,7 @@ Los propios dragones reconocen que estas deidades son entidades distantes, resid
 
 La coexistencia de estas creencias rara vez provoca fracturas abiertas, aunque las diferencias filosóficas pueden intensificar rivalidades ya existentes.
 
-Debido al fervor y la tradición de las gentes de Evisnos, entre ellos hay dos objetivos que se consideran altamente honorables: Entrar al servicio de un dragón, o pasar a formar parte de la orden de caballeros de las [[Siete Espadas\|Siete Espadas]] de Aureon.
+Debido al fervor y la tradición de las gentes de Evisnos, entre ellos hay dos objetivos que se consideran altamente honorables: Entrar al servicio de un dragón, o pasar a formar parte de la orden de caballeros de las [[Trasfondo/Panteon/Siete Espadas\|Siete Espadas]] de Aureon.
 
 
 ## Relaciones Exteriores
