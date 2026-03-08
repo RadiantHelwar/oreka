@@ -88,7 +88,7 @@ Las distintas unidades legales de todo Oreka
 >- [[Regiones/Tomoe/Ergo\|Ergo]], el Imperio del Sol, hogar de los _Anarenelin_, los Elfos del Sol. Su magia mantiene la abundancia allí donde gobiernan. Ergo ofrece unidad y prosperidad compartida frente a la escasez… mientras observa con atención qué tierras fértiles podrían necesitar su “protección”.
 
 >[!example]+ Serra
->- [[Rhanok\|Rhanok]], la isla principal de Serra, donde la Horda ha establecido su capital, junto a la sede de Colmillo Rojo.
+>- [[Regiones/Serra/Rhanok\|Rhanok]], la isla principal de Serra, donde la Horda ha establecido su capital, junto a la sede de Colmillo Rojo.
 
 ## Especies nativas exclusivas de Oreka
 

@@ -10,7 +10,7 @@
 **Emblema**: un colmillo blanco con fondo carmesí.
 **Color Principal**: Rojo
 **Color Secundario**: Blanco
-**Sede**: [[Rhanok\|Rhanok]], archipiélago de [[Regiones/Serra/Serra\|Serra]].
+**Sede**: [[Regiones/Serra/Rhanok\|Rhanok]], archipiélago de [[Regiones/Serra/Serra\|Serra]].
 **Origen**: Una confederación de tribus, clanes y hermandades, unificadas bajo liderazgo circunstancial.
 **Composición**: Mayoría de pieles verdes y hombres bestia, además de goliath, zaharak, kobolds y humanos.
 **Organización**: El clan más poderoso impone a su líder como jefe del gremio. Sistema de Honores que determina ascensos o degradaciones en ceremonias trimestrales de “Promoción”.
@@ -30,4 +30,4 @@ Muchos consideran a Colmillo Rojo una panda de bárbaros salvajes, y no se equiv
 
 Tienen un código del honor interno que todos los miembros deben seguir. Un miembro le debe respeto al patrocinador que le invita o acepta en el gremio, y asciende de rango ganando "Honores" mediante su trabajo o ganándose el respeto de sus compañeros. Cada 3 meses, los clanes efectúan "Promociones" y aquellos que tengan Honores suficientes entre sus iguales o superiores, ascienden de rango. Y de la misma manera, perder honor puede suponer la pérdida de rango o la expulsión del gremio.
 
-Su sede está en [[Rhanok\|Rhanok]], la mayor isla del continente / archipiélago de [[Regiones/Serra/Serra\|Serra]].
+Su sede está en [[Regiones/Serra/Rhanok\|Rhanok]], la mayor isla del continente / archipiélago de [[Regiones/Serra/Serra\|Serra]].
