@@ -4,7 +4,7 @@
 
 # Faros de Oreka
 
-Los Cuatro Grandes Faros de Oreka. Estas ancestrales construcciones eran antiguos vínculos a los cuatro Planos adyacentes, ahora durmientes. Los [[Trasfondo/Pasado Antiguo/Cuatro Reyes Demonio\|Cuatro Reyes Demonio]] tomaron posesión de ellos y [[Trasfondo/Panteon/Aureon (Dios)\|Aureon]] decidió sellarlos para encerrar a los Reyes Demonio en un sueño eterno en su interior. Esta acción llevó a su [[Trasfondo/Pasado Antiguo/Apoteosis\|Apoteosis]].
+Los Cuatro Grandes Faros de Oreka. Estas ancestrales construcciones eran antiguos vínculos a los cuatro Planos adyacentes, ahora durmientes. Los [[Trasfondo/Pasado Antiguo/Cuatro Reyes Demonio\|Cuatro Reyes Demonio]] tomaron posesión de ellos y [[Trasfondo/Panteones/Aureon (Dios)\|Aureon]] decidió sellarlos para encerrar a los Reyes Demonio en un sueño eterno en su interior. Esta acción llevó a su [[Trasfondo/Pasado Antiguo/Apoteosis\|Apoteosis]].
 
 | Faro              | Ubicación                                                                 | Rey Demonio                                 |
 | ----------------- | ------------------------------------------------------------------------- | ------------------------------------------- |

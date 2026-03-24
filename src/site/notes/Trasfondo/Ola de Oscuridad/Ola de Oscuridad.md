@@ -8,7 +8,7 @@
 > **Inicio:** 5 de Defta de 6953, DE
 > **Fin:** 17 de Trina de 7007, DE
 
-Nombre por el que la [[Trasfondo/Panteon/Iglesia de Aureon\|Iglesia de Aureon]] conoce a la guerra dirigida por el [[Trasfondo/Ola de Oscuridad/Señor Oscuro\|Señor Oscuro]] para dominar Oreka y sumirlo bajo el control de las tinieblas.
+Nombre por el que la [[Trasfondo/Panteones/Iglesia de Aureon\|Iglesia de Aureon]] conoce a la guerra dirigida por el [[Trasfondo/Ola de Oscuridad/Señor Oscuro\|Señor Oscuro]] para dominar Oreka y sumirlo bajo el control de las tinieblas.
 
 El 5 de Defta de 6953 DE, el [[Hierofante\|Hierofante]] [[Erldatum IV\|Erldatum IV]] declaró oficialmente al **Demonio Menras** como el [[Trasfondo/Ola de Oscuridad/Señor Oscuro\|Señor Oscuro]] después de que este acudiera a [[Regiones/Glastra/Ieró\|Ieró]] a amenazarles directamente.
 

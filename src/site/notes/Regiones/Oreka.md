@@ -4,7 +4,7 @@
 
 # Oreka
 
-Oreka significa equilibrio. Este nombre le fue dado al mundo por los antiguos salvadores, de los cuales formaba parte [[Trasfondo/Panteon/Aureon (Dios)\|Aureon]] antes de su ascensión. 
+Oreka significa equilibrio. Este nombre le fue dado al mundo por los antiguos salvadores, de los cuales formaba parte [[Trasfondo/Panteones/Aureon (Dios)\|Aureon]] antes de su ascensión. 
 
 El mundo de Oreka está dividido en cuatro continentes:
 

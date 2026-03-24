@@ -6,9 +6,9 @@
 
 ## _El Emperador Eterno_
 
-Se dice que Koptrakhos nació en la Era del Sol, en un tiempo tan antiguo que incluso las fechas han perdido significado. Fue un fauno común, uno entre muchos, en una tierra cuyo nombre ya no existe en los mapas. No fue guerrero ni erudito, ni poseía talento extraordinario alguno, salvo su devoción a [[Trasfondo/Panteon/Glorinth\|Glorinth]], diosa menor de la magia cotidiana: la de los amuletos, los pequeños rituales, el mal de ojo y las supersticiones susurradas en cocinas y campos.
+Se dice que Koptrakhos nació en la Era del Sol, en un tiempo tan antiguo que incluso las fechas han perdido significado. Fue un fauno común, uno entre muchos, en una tierra cuyo nombre ya no existe en los mapas. No fue guerrero ni erudito, ni poseía talento extraordinario alguno, salvo su devoción a [[Trasfondo/Panteones/Glorinth\|Glorinth]], diosa menor de la magia cotidiana: la de los amuletos, los pequeños rituales, el mal de ojo y las supersticiones susurradas en cocinas y campos.
 
-Koptrakhos ayudaba a su gente con esas artes humildes. Bendecía cosechas, protegía hogares, deshacía males leves. Y lo hacía con una fe tan sincera que, según cuentan las tradiciones más antiguas, la propia [[Trasfondo/Panteon/Glorinth\|Glorinth]] descendió un día para agradecerle su servicio.
+Koptrakhos ayudaba a su gente con esas artes humildes. Bendecía cosechas, protegía hogares, deshacía males leves. Y lo hacía con una fe tan sincera que, según cuentan las tradiciones más antiguas, la propia [[Trasfondo/Panteones/Glorinth\|Glorinth]] descendió un día para agradecerle su servicio.
 
 Tras aquella visita, algo cambió. Sus pequeñas artes comenzaron a obrar con una eficacia inquietante. Donde antes había consuelo, ahora había certeza. Donde antes había superstición, ahora había resultado.
 

@@ -5,7 +5,9 @@
 
 # Oreka: El Equilibrio de la Luz y las Raíces del Pasado
 
-Hace trescientos años, el mundo de [[Regiones/Oreka\|Oreka]] estuvo a punto de sumirse en las tinieblas. La [[Trasfondo/Ola de Oscuridad/Ola de Oscuridad\|Ola de Oscuridad]], liderada por el temible [[Trasfondo/Ola de Oscuridad/Señor Oscuro\|Señor Oscuro Menras]], fue frenada únicamente por el valor de la heroína [[Trasfondo/Ola de Oscuridad/Sera\|Sera]] y la gracia divina de [[Trasfondo/Panteon/Aureon (Dios)\|Aureon]], el Salvador. Desde entonces, el orden y la paz han florecido bajo la vigilancia de la [[Trasfondo/Panteon/Iglesia de Aureon\|Iglesia de Aureon]] y la luz dorada que emana de las ramas espectrales del [[Regiones/Glastra/Ilios\|Gran Árbol de Ilios]].
+![oreka-logo-gold.png](/img/user/Extras/oreka-logo-gold.png)
+
+Hace trescientos años, el mundo de [[Regiones/Oreka\|Oreka]] estuvo a punto de sumirse en las tinieblas. La [[Trasfondo/Ola de Oscuridad/Ola de Oscuridad\|Ola de Oscuridad]], liderada por el temible [[Trasfondo/Ola de Oscuridad/Señor Oscuro\|Señor Oscuro Menras]], fue frenada únicamente por el valor de la heroína [[Trasfondo/Ola de Oscuridad/Sera\|Sera]] y la gracia divina de [[Trasfondo/Panteones/Aureon (Dios)\|Aureon]], el Salvador. Desde entonces, el orden y la paz han florecido bajo la vigilancia de la [[Trasfondo/Panteones/Iglesia de Aureon\|Iglesia de Aureon]] y la luz dorada que emana de las ramas espectrales del [[Regiones/Glastra/Ilios\|Gran Árbol de Ilios]].
 
 Hoy, el continente de [[Regiones/Glastra/Glastra\|Glastra]] se viste de gala. En la majestuosa ciudad-estado de [[Regiones/Glastra/Lakua/Riza\|Riza]], se ultiman los preparativos para el festival más grandioso que el mundo haya visto: el [[Trasfondo/Ola de Oscuridad/Tricentenario de la Victoria\|Tricentenario de la Victoria]], una celebración de tres siglos de luz y prosperidad para el que queda menos de un mes. Mercenarios, nobles y aventureros de todos los rincones de los cuatro continentes convergen bajo el brillo del [[Regiones/Glastra/Ilios\|Árbol]] para celebrar el retorno de su luz y a los héroes que lo hicieron posible.
 
@@ -41,7 +43,7 @@ Además, existe un quinto Gran Gremio, uno del que todos saben pero no reconocen
 
 ## Iglesia y religión
 
-La [[Trasfondo/Panteon/Iglesia de Aureon\|Iglesia de Aureon]] es la religión mas extendida por toda Oreka. [[Trasfondo/Panteon/Aureon (Dios)\|Aureon]] es adorado como el Portavoz Divino, un antiguo héroe, antes humano, que se ganó la divinidad tras pactar con las anteriores deidades y salvar el mundo con sus hazañas. Los otros dioses del [[Trasfondo/Panteon/Panteón\|Panteón]] siguen siendo venerados como aspectos o interlocutores hacia Aureon.
+La [[Trasfondo/Panteones/Iglesia de Aureon\|Iglesia de Aureon]] es la religión mas extendida por toda Oreka. [[Trasfondo/Panteones/Aureon (Dios)\|Aureon]] es adorado como el Portavoz Divino, un antiguo héroe, antes humano, que se ganó la divinidad tras pactar con las anteriores deidades y salvar el mundo con sus hazañas. Los otros dioses del [[Trasfondo/Panteones/Panteón\|Panteón]] siguen siendo venerados como aspectos o interlocutores hacia Aureon.
 
 Aureon representa la Luz Dorada, el Orden, la Fe y el Bien por sí mismo. Es conocido como El Padre, El Salvador, El Señor Dorado.
 
@@ -55,7 +57,7 @@ Otras religiones menores existen, y son comúnmente toleradas en las zonas en la
 - Los sanadores estudian a **Amitera**, paragón de la Magia Curativa. 
 - Aquellos que viven entre las sombras murmuran el nombre de **Roz** antes antes de sus escapadas. 
 - Los estudiosos de lo Arcano y aquellos que veneran la magia por encima de todo claman el nombre se **Kaure el Escolar**, primer maestro de lo arcano y ascendido a divinidad por sus propios medios.
-- [[Trasfondo/Panteon/Glorinth\|Glorinth]], diosa de la magia popular y la superchería.
+- [[Trasfondo/Panteones/Glorinth\|Glorinth]], diosa de la magia popular y la superchería.
 
 ## Reinos y Estados
 
@@ -95,7 +97,7 @@ Las distintas unidades legales de todo Oreka
 - Los [[Razas/Zaharak\|Zaharak]]
 - Las [[Razas/Kitraki\|Kitraki]]
 - Los [[Trasfondo/Linajes Ancestrales\|Linajes Ancestrales]] se componen de individuos con poderes especiales, que los separan de sus congéneres.
-- Antiguos Linajes élficos mas allá de los tres principales: [[Trasfondo/Otros Linajes Elficos\|Otros Linajes Elficos]]
+- Antiguos Linajes élficos mas allá de los tres principales: [[Razas/Otros Linajes Elficos\|Otros Linajes Elficos]]
 
 
 
