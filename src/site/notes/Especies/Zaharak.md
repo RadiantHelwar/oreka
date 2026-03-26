@@ -21,7 +21,7 @@ Desde entonces, veneran a Tisara como madre y guía, y creen que, al morir, el e
 
 Los Zaharak se encuentran repartidos por todo Oreka, tanto en comunidades propias como integrados en asentamientos de otras especies. Aunque su población global no es especialmente numerosa, su presencia es constante y reconocible en casi todos los continentes.
 
-El mayor y más influyente enclave zaharak es la [[República Tisarana\|República Tisarana]], situada en la costa norte de [[Regiones/Glastra/Glastra\|Glastra]]. Se trata de un estado organizado, con instituciones civiles estables y una fuerte identidad cultural ligada al culto a Tisara. Desde allí se coordinan relaciones diplomáticas con otros pueblos y se preservan muchas de las tradiciones más antiguas de la especie.
+El mayor y más influyente enclave Zaharak es la [[Regiones/Glastra/Teocracia Tisarana\|Teocracia Tisarana]], situada en la costa norte de [[Regiones/Glastra/Glastra\|Glastra]]. Se trata de un estado organizado, con instituciones civiles estables y una fuerte identidad cultural ligada al culto a Tisara. Desde allí se coordinan relaciones diplomáticas con otros pueblos y se preservan muchas de las tradiciones más antiguas de la especie.
 
 En el continente de [[Regiones/Tomoe/Tomoe\|Tomoe]] se encuentra la [[Comunidad Tribal de Adal-Lehar\|Comunidad Tribal de Adal-Lehar]], una confederación de clanes con una estructura más descentralizada, donde la autoridad espiritual tiene más peso que la política. Sus rituales y costumbres están especialmente ligados a la observación y adoración de [[Regiones/Lehar\|Lehar]].
 
