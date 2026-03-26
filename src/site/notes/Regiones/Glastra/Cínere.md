@@ -10,7 +10,7 @@
 
 Cínere es una tierra de contrastes marcada por dos grandes cañones que la atraviesan de norte a sur: el **Viridran** al este y el **Obsidran** al oeste. Las zonas que rodean estos ríos son fértiles y densamente pobladas, mientras que las mesetas elevadas entre ellos conservan un carácter más árido y salvaje.
 
-La región actual nació tras el colapso geológico provocado por la desaparición del Árbol [[Regiones/Glastra/Ilios\|Ilios]] tras la [[Podredumbre\|Podredumbre]]. Al perderse las raíces que sostenían el suelo blando de Cínere, el terreno se hundió, formando los dos grandes cañones y reencauzando el agua hacia ellos. Este evento transformó un antiguo reino feudal en una nueva nación.
+La región actual nació tras el colapso geológico provocado por la desaparición del Árbol [[Regiones/Glastra/Ilios\|Ilios]] tras la [[Trasfondo/Cosmologia/Podredumbre\|Podredumbre]]. Al perderse las raíces que sostenían el suelo blando de Cínere, el terreno se hundió, formando los dos grandes cañones y reencauzando el agua hacia ellos. Este evento transformó un antiguo reino feudal en una nueva nación.
 
 ## **Historia**
 

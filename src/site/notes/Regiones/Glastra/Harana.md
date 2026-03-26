@@ -4,7 +4,7 @@
 
 # Harana, la Gran Falla
 
-Harana, conocida como la Gran Falla, es una vasta grieta que divide la región al oeste de [[Regiones/Glastra/Lakua/Lakua\|Lakua]] entre esta y [[Regiones/Glastra/Haizea\|Haizea]]. Se formó durante la Era de la [[Podredumbre\|Podredumbre]], cuando una rama del Árbol [[Regiones/Glastra/Ilios\|Ilios]] cayó del cielo y golpeó la tierra con una fuerza sin precedentes. El impacto abrió un tajo de kilómetros de ancho, levantó cordilleras a ambos lados y creó un valle interior cuya profundidad limita la luz solar en muchos de sus puntos.
+Harana, conocida como la Gran Falla, es una vasta grieta que divide la región al oeste de [[Regiones/Glastra/Lakua/Lakua\|Lakua]] entre esta y [[Regiones/Glastra/Haizea\|Haizea]]. Se formó durante la Era de la [[Trasfondo/Cosmologia/Podredumbre\|Podredumbre]], cuando una rama del Árbol [[Regiones/Glastra/Ilios\|Ilios]] cayó del cielo y golpeó la tierra con una fuerza sin precedentes. El impacto abrió un tajo de kilómetros de ancho, levantó cordilleras a ambos lados y creó un valle interior cuya profundidad limita la luz solar en muchos de sus puntos.
 
 El interior de la falla presenta un clima húmedo e inestable, con lluvias repentinas que generan cascadas desde los acantilados y transforman constantemente el terreno. La tierra, impregnada de energía mágica residual, ha favorecido un crecimiento vegetal acelerado y la reaparición de especies antiguas, incluyendo helechos gigantes, árboles de corteza fibrosa y hongos bioluminiscentes.
 

@@ -92,13 +92,60 @@ Las distintas unidades legales de todo Oreka
 >[!example]+ Serra
 >- [[Regiones/Serra/Rhanok\|Rhanok]], la isla principal de Serra, donde la Horda ha establecido su capital, junto a la sede de Colmillo Rojo.
 
+## Las Especies de Oreka
+
+Oreka es el hogar de una enorme diversidad de pueblos y culturas. Sin embargo, la mayoría de las civilizaciones del continente están formadas por los pueblos más comunes descritos en los textos clásicos: **humanos, elfos, enanos, medianos, gnomos y orcos**, entre otros. Estas especies constituyen el núcleo demográfico y cultural de la mayor parte de las sociedades conocidas.
+
+Junto a ellos conviven muchas otras especies menos numerosas pero perfectamente integradas en la vida cotidiana de Oreka. Entre estas destacan los **Faunos**, nombre con el que se conoce en este mundo a los individuos de ascendencia caprina que en otros lugares son llamados sátiros. A diferencia de los **Sátiros verdaderos**, criaturas del Plano Feérico de naturaleza más salvaje e impredecible, los Faunos de Oreka son un pueblo mortal plenamente integrado en sus sociedades.
+
+De forma similar, especies como los **Leonin**, **Centauros** u otros pueblos menos comunes pueden encontrarse en distintas regiones del mundo, aunque su presencia varía enormemente dependiendo del lugar.
+
+### Herencia Planar
+
+En Oreka, la influencia de otros planos puede manifestarse en individuos de prácticamente cualquier especie. Aquellos marcados por esta influencia son conocidos colectivamente como **Tocados por los Planos**.
+
+Entre ellos se encuentran los **Tieflings**, [[Aasimar\|Aasimar]] y **Genasi**, cuyas características reflejan la huella de fuerzas extraplanares.
+
+A diferencia de lo que ocurre en algunas tradiciones, en Oreka estos linajes no están ligados a una única especie base. La influencia planar puede manifestarse en cualquier pueblo mortal. Así, es posible encontrar:
+
+- Elfos con sangre infernal, conocidos en algunos lugares como **Fey'ri**.
+- Orcos marcados por poderes abisales, llamados **Tanarukk**.
+- Individuos de cualquier especie nacidos con rasgos celestiales, infernales o elementales.
+
+A pesar de estas diferencias de origen, todos estos individuos se agrupan bajo las categorías más conocidas de **Tiefling**, **Aasimar** o **Genasi**, ya que comparten rasgos sobrenaturales similares.
+
+Las particularidades culturales o físicas de estos pueblos pueden variar según su origen y región, pero sus capacidades generales siguen siendo las asociadas a sus linajes planares.
+
+
 ## Especies nativas exclusivas de Oreka
 
-- Los [[Razas/Zaharak\|Zaharak]]
-- Las [[Razas/Kitraki\|Kitraki]]
+- Los [[Razas/Zaharak\|Zaharak]], descendientes de los dinosaurios.
+- Las [[Razas/Kitraki\|Kitraki]], avispas humanoides eusociales.
 - Los [[Trasfondo/Linajes Ancestrales\|Linajes Ancestrales]] se componen de individuos con poderes especiales, que los separan de sus congéneres.
 - Antiguos Linajes élficos mas allá de los tres principales: [[Razas/Otros Linajes Elficos\|Otros Linajes Elficos]]
 
+
+## Cosmología
+
+Oreka reside en el [[Trasfondo/Cosmologia/Plano Mundano\|Plano Mundano]], al igual que infinitos otros mundos materiales. Superpuesto al Plano Mundano se encuentra el **Plano Etéreo**, conocido como el _Límite de las Almas_, que lo permea por completo.
+
+La distancia entre los planos no se mide por separación física, sino por grado de interconectividad. No existe realmente un "arriba" o "abajo", ni un "cerca" o "lejos". Sin embargo, por simplicidad utilizaremos estos términos para describir sus relaciones.
+
+Los cuatro planos más cercanos al Plano Mundano son el [[Trasfondo/Cosmologia/Plano de las Sombras\|Plano de las Sombras]] o _Shadowfell_, el [[Trasfondo/Cosmologia/Plano Feérico\|Plano Feérico]] o _Feywild_, el [[Trasfondo/Cosmologia/Plano de los Sueños\|Plano de los Sueños]] y el [[Trasfondo/Cosmologia/Plano Astral\|Plano Astral]].
+
+Por encima del Plano Mundano se encuentran los **Planos Benignos**, y más allá de ellos se alza el **Plano Divino**. El **Plano de Energía Positiva** permea todos estos planos, de forma similar a como el Plano Etéreo permea el Plano Mundano, y es lo que los agrupa bajo la denominación de Planos Benignos.
+
+En una posición inferior al Plano Mundano se encuentran los **Planos Malignos**, como el **Abismo** o los **Nueve Infiernos**. Más allá de estos se extiende el **Plano de la Nada**. Permeando todos ellos se encuentra el **Plano de Energía Negativa**.
+
+A la misma "altura" que el Plano Mundano, pero desconectados de él, existen múltiples planos independientes, como los planos de la **Ley** y el **Caos**, el **Plano de la Sangre** o el **Plano Cromático**.
+
+Rodeando al resto de planos en un círculo perfecto se encuentran los **Planos Elementales**, como el **Plano del Fuego**, **Agua**, **Tierra** o **Frío**. Estos se dividen a su vez en **Subplanos** y **Paraplanos**, formados por combinaciones entre elementos. Sin embargo, muchos eruditos de Oreka consideran que todos ellos forman en realidad **un único Plano Elemental continuo**, organizado como un espectro circular que conecta sus diferentes regiones.
+
+Finalmente se encuentran los planos más lejanos de la realidad:
+
+- Más allá del círculo de los Planos Elementales, en la región central del cosmos planar, se extiende el **Caos Elemental**, una extensión infinita de materia primordial en constante conflicto. Es un lugar inhóspito e incomprensible para casi toda forma de vida.
+- Por encima del Plano Divino se encuentra el **Plano de Fuga**, también conocido como _el Más Allá_. Se dice que los dioses guían las almas de los mortales hasta las puertas de este plano tras la muerte. Sin embargo, ni siquiera las deidades conocen qué existe realmente más allá de su umbral.
+- Bajo el Plano de la Nada se extiende el **Plano del Olvido**. Se cree que los seres infernales abandonan allí lo que queda de las almas mortales cuando han terminado de consumirlas. Muchos eruditos sostienen que los fragmentos que llegan a este plano son finalmente absorbidos por la estructura misma de la realidad, reciclándose para sostener el equilibrio del resto de planos.
 
 
 WEB: https://oreka-eight.vercel.app/

@@ -15,7 +15,7 @@ Durante sus primeros siglos, Ergo fue una sociedad introspectiva y culturalmente
 
 ## Formación del Imperio
 
-La historia de Ergo cambió durante la [[Podredumbre\|Podredumbre]], cuando la abundancia de Tomoe comenzó a declinar y el espectro del hambre reapareció en el horizonte. Ante la crisis, el clero solar impulsó una profunda reorganización social: la nación adoptó una estructura jerárquica y funcional en la que cada ciudadano desempeña un papel específico dentro de la “Gran Obra” imperial.
+La historia de Ergo cambió durante la [[Trasfondo/Cosmologia/Podredumbre\|Podredumbre]], cuando la abundancia de Tomoe comenzó a declinar y el espectro del hambre reapareció en el horizonte. Ante la crisis, el clero solar impulsó una profunda reorganización social: la nación adoptó una estructura jerárquica y funcional en la que cada ciudadano desempeña un papel específico dentro de la “Gran Obra” imperial.
 
 Este sistema de castas, rígido pero estable, permitió coordinar el esfuerzo mágico y agrícola necesario para restaurar el ecosistema. Desde entonces, Ergo se ha convertido en una de las potencias tecnológicas y arcanas más avanzadas de Oreka.
 

@@ -25,7 +25,7 @@ Este puente es la razón por la que Kertutai es crucial:
 
 # Historia y Misión
 
-Según los propios Kitraki, su deidad Itia les rescató del caos. Según sus historias, nacieron de la corrupción durante la [[Podredumbre\|Podredumbre]] y Itia les dotó de razón, dejando tras de sí su naturaleza monstruosa.
+Según los propios Kitraki, su deidad Itia les rescató del caos. Según sus historias, nacieron de la corrupción durante la [[Trasfondo/Cosmologia/Podredumbre\|Podredumbre]] y Itia les dotó de razón, dejando tras de sí su naturaleza monstruosa.
 
 A cambio solo les pidió que ayudasen a contener la corrupción y ayudasen a sus vecinos. Las Kitraki, agradecidas, juraron purificar la rama caída y destruir a todos los que amenazasen la recientemente creada región de [[Regiones/Glastra/Harana\|Harana]], y a sus vecinos de [[Regiones/Glastra/Lakua/Lakua\|Lakua]] y [[Regiones/Glastra/Haizea\|Haizea]].
 

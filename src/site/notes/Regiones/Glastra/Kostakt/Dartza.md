@@ -29,6 +29,6 @@ Bajo el dominio de los elfos *Anarenelin*, la Dartza ha sido integrada en el sis
 
 La ocupación ha generado dos movimientos insurgentes principales que operan desde Kostakt:
 
-1. [[Trasfondo/Organizaciones/Reconquista\|Reconquista]]: Liderada por el ex-comandante [[Alhor Stammets\|Alhor Stammets]], busca la restauración política de la Dartza mediante métodos militares tradicionales, y el reemplazo o eliminación de la casa real de Kostakt, que cedió sus tierras al enemigo.
+1. [[Trasfondo/Organizaciones/Reconquista\|Reconquista]]: Liderada por el semielfo ex-comandante [[Alhor Stammets\|Alhor Stammets]], busca la restauración política de la Dartza mediante métodos militares tradicionales, y el reemplazo o eliminación de la casa real de Kostakt, que cedió sus tierras al enemigo.
 
 2. [[Trasfondo/Organizaciones/Brigada del Hambre\|Brigada del Hambre]]: Una facción radical liderada por el Leonin [[Frath Arguul\|Frath Arguul]]. Exigen la aniquilación total de los elfos y aquellos de ascendencia elfa y recurren a la demonología y pactos infernales, considerando enemigos a todos, incluidos aquellos ciudadanos de la Dartza que no se unan a su causa.
