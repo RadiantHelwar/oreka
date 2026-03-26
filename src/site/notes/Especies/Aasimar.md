@@ -22,7 +22,7 @@ Todo Aasimar posee un halo visible suspendido sobre su cabeza. Este halo puede a
 
 A pesar de su apariencia luminosa, el halo no emite luz real ni ilumina el entorno. Tampoco posee masa ni puede tocarse.
 
-Esto se debe a que el halo no es un objeto físico, sino una manifestación espiritualde la herencia divina del Aasimar. Solo las almas pueden percibirlo, por lo que su presencia no afecta a la visibilidad ni revela la posición del individuo en la oscuridad.
+Esto se debe a que el halo no es un objeto físico, sino una manifestación espiritual de la herencia divina del Aasimar. Solo las almas pueden percibirlo, por lo que su presencia no afecta a la visibilidad ni revela la posición del individuo en la oscuridad.
 
 El halo responde parcialmente a la voluntad de su portador. Con cierto esfuerzo, un Aasimar puede ocultarlo temporalmente, aunque esto requiere concentración y rara vez puede mantenerse durante largos periodos. Cuando no se oculta activamente, el halo tiende a reposicionarse de forma natural para permanecer visible, apareciendo siempre por encima o incluso a través de cualquier prenda o tocado que el Aasimar vista.
 
