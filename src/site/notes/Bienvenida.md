@@ -49,8 +49,8 @@ Aureon representa la Luz Dorada, el Orden, la Fe y el Bien por sí mismo. Es con
 
 Otras religiones menores existen, y son comúnmente toleradas en las zonas en la que la Iglesia de Aureon es la dominante:
 
-- Las [[Razas/Kitraki\|Kitraki]] adoran a **Itia** como su creadora.
-- Gran parte de los [[Razas/Zaharak\|Zaharak]] adoran a **Tisara** como su protectora y benefactora. 
+- Las [[Especies/Kitraki\|Kitraki]] adoran a **Itia** como su creadora.
+- Gran parte de los [[Especies/Zaharak\|Zaharak]] adoran a **Tisara** como su protectora y benefactora. 
 - Los elfos acostumbran a adorar ciertos astros (El Sol, las Lunas, las Estrellas), y a **Dama Mireon** como su mas antigua ancestro. 
 - El Líder del panteón enano es el **Primarca Lureas**, conocido por su vozarrón y su habilidad en la forja. 
 - Entre las gentes mas sencillas, se adora a **Mill**, Dios del Fuego y la Protección, en mayor o menor medida. 
@@ -68,7 +68,7 @@ Las distintas unidades legales de todo Oreka
 >	- [[Regiones/Glastra/Lakua/Kentron\|Kentron]], el lago más grande del mundo, cuyas aguas dominan el paisaje.
 >- [[Regiones/Glastra/Ieró\|Ieró]], capital de la Iglesia de Aureon, coronada por su imponente Palacio Sacro.
 >- [[Regiones/Glastra/Haizea\|Haizea]], tierra de riscos y de la alta nobleza.
->- [[Regiones/Glastra/Kertutai\|Kertutai]], la colmena de las [[Razas/Kitraki\|Kitraki]].
+>- [[Regiones/Glastra/Kertutai\|Kertutai]], la colmena de las [[Especies/Kitraki\|Kitraki]].
 >- [[Regiones/Glastra/Harana\|Harana]], el valle prohibido.
 >- [[Regiones/Glastra/Teocracia Tisarana\|Teocracia Tisarana]], el reino que los Zaharak forjaron para si mismos.
 >- [[Regiones/Glastra/Irrigos\|Irrigos]], república de mercaderes cuya poderosa armada domina las rutas navales.
@@ -104,7 +104,7 @@ De forma similar, especies como los **Leonin**, **Centauros** u otros pueblos me
 
 En Oreka, la influencia de otros planos puede manifestarse en individuos de prácticamente cualquier especie. Aquellos marcados por esta influencia son conocidos colectivamente como **Tocados por los Planos**.
 
-Entre ellos se encuentran los **Tieflings**, [[Aasimar\|Aasimar]] y **Genasi**, cuyas características reflejan la huella de fuerzas extraplanares.
+Entre ellos se encuentran los [[Especies/Tieflings\|Tieflings]], [[Especies/Aasimar\|Aasimar]] y [[Especies/Genasi\|Genasi]], cuyas características reflejan la huella de fuerzas extraplanares.
 
 A diferencia de lo que ocurre en algunas tradiciones, en Oreka estos linajes no están ligados a una única especie base. La influencia planar puede manifestarse en cualquier pueblo mortal. Así, es posible encontrar:
 
@@ -119,10 +119,10 @@ Las particularidades culturales o físicas de estos pueblos pueden variar según
 
 ## Especies nativas exclusivas de Oreka
 
-- Los [[Razas/Zaharak\|Zaharak]], descendientes de los dinosaurios.
-- Las [[Razas/Kitraki\|Kitraki]], avispas humanoides eusociales.
+- Los [[Especies/Zaharak\|Zaharak]], descendientes de los dinosaurios.
+- Las [[Especies/Kitraki\|Kitraki]], avispas humanoides eusociales.
 - Los [[Trasfondo/Linajes Ancestrales\|Linajes Ancestrales]] se componen de individuos con poderes especiales, que los separan de sus congéneres.
-- Antiguos Linajes élficos mas allá de los tres principales: [[Razas/Otros Linajes Elficos\|Otros Linajes Elficos]]
+- Antiguos Linajes élficos mas allá de los tres principales: [[Especies/Otros Linajes Elficos\|Otros Linajes Elficos]]
 
 
 ## Cosmología

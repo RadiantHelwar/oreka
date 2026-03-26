@@ -14,7 +14,7 @@ Glastra es el corazón de Oreka: un continente fértil, diverso y densamente pob
 	- [[Regiones/Glastra/Lakua/Kentron\|Kentron]], el lago más grande del mundo, que ocupa gran parte de la región.
 - [[Regiones/Glastra/Ieró\|Ieró]], capital de la Iglesia de Aureon, con su imponente Palacio Sacro.
 - [[Regiones/Glastra/Haizea\|Haizea]], tierra de riscos y de la alta nobleza.
-- [[Regiones/Glastra/Kertutai\|Kertutai]], la colmena de las [[Razas/Kitraki\|Kitraki]].
+- [[Regiones/Glastra/Kertutai\|Kertutai]], la colmena de las [[Especies/Kitraki\|Kitraki]].
 - [[Regiones/Glastra/Harana\|Harana]], el valle prohibido.
 - [[Regiones/Glastra/Teocracia Tisarana\|Teocracia Tisarana]], el pais que los Zaharak forjaron para si mismos
 - [[Regiones/Glastra/Irrigos\|Irrigos]], república de mercaderes con una poderosa armada naval.

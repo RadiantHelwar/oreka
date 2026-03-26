@@ -5,7 +5,7 @@
 # La Teocracia Tisarana
 
 - Capital: [[Regiones/Glastra/Arcohondo\|Arcohondo]]
-- Población: [[Razas/Zaharak\|Zaharak]] (mayoritaria), Lizardfolk, Faunos
+- Población: [[Especies/Zaharak\|Zaharak]] (mayoritaria), Lizardfolk, Faunos
 
 ## La Nación de la Espera
 
