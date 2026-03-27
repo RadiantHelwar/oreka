@@ -9,13 +9,13 @@
 
 ## La Nación de la Espera
 
-La Teocracia Tisarana es un dominio espiritual asentado en la costa norte de Oreka, donde fe y gobierno son inseparables. No es un reino expansionista ni una potencia militar, sino una comunidad organizada en torno a una promesa: el regreso algún día a [[Regiones/Lehar\|Lehar]], la Luna Verde.
+La Teocracia Tisarana es un dominio espiritual asentado en la costa norte de Oreka, donde fe y gobierno son inseparables. No es un reino expansionista ni una potencia militar, sino una comunidad organizada en torno a una promesa: el regreso algún día a [[Regiones/Las Lunas/Lehar\|Lehar]], la Luna Verde.
 
 Gobernada por una jerarquía religiosa que custodia los vestigios del llamado arcoíris de Tisara, la Teocracia se define menos por lo que posee que por lo que espera. Sus ciudades, abiertas al cielo, se alzan entre acantilados y junglas densas, y en su arquitectura brilla un material único en el mundo: el Vidrio de Tisara. Para sus habitantes, cada fragmento es recuerdo y señal. Para el resto de Oreka, es uno de los recursos arcanos más extraordinarios jamás conocidos.
 
 ## Origen y Creencia
 
-Según la tradición Zaharak, cuando Tisara permitió a su pueblo abandonar [[Regiones/Lehar\|Lehar]], lo hizo tendiendo un arcoíris entre la luna y Oreka. El puente solo existiría durante un tiempo limitado y jamás podría recrearse. Quien cruzara, lo haría para siempre.
+Según la tradición Zaharak, cuando Tisara permitió a su pueblo abandonar [[Regiones/Las Lunas/Lehar\|Lehar]], lo hizo tendiendo un arcoíris entre la luna y Oreka. El puente solo existiría durante un tiempo limitado y jamás podría recrearse. Quien cruzara, lo haría para siempre.
 
 Los que descendieron sabían que el viaje no tenía retorno.
 
