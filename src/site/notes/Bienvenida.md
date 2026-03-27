@@ -9,7 +9,7 @@
 
 Hace trescientos años, el mundo de [[Regiones/Oreka\|Oreka]] estuvo a punto de sumirse en las tinieblas. La [[Trasfondo/Ola de Oscuridad/Ola de Oscuridad\|Ola de Oscuridad]], liderada por el temible [[Trasfondo/Ola de Oscuridad/Señor Oscuro\|Señor Oscuro Menras]], fue frenada únicamente por el valor de la heroína [[Trasfondo/Ola de Oscuridad/Sera\|Sera]] y la gracia divina de [[Trasfondo/Panteones/Aureon (Dios)\|Aureon]], el Salvador. Desde entonces, el orden y la paz han florecido bajo la vigilancia de la [[Trasfondo/Panteones/Iglesia de Aureon\|Iglesia de Aureon]] y la luz dorada que emana de las ramas espectrales del [[Regiones/Glastra/Ilios\|Gran Árbol de Ilios]].
 
-Hoy, el continente de [[Regiones/Glastra/Glastra\|Glastra]] se viste de gala. En la majestuosa ciudad-estado de [[Regiones/Glastra/Lakua/Riza\|Riza]], se ultiman los preparativos para el festival más grandioso que el mundo haya visto: el [[Trasfondo/Ola de Oscuridad/Tricentenario de la Victoria\|Tricentenario de la Victoria]], una celebración de tres siglos de luz y prosperidad para el que queda menos de un mes. Mercenarios, nobles y aventureros de todos los rincones de los cuatro continentes convergen bajo el brillo del [[Regiones/Glastra/Ilios\|Árbol]] para celebrar el retorno de su luz y a los héroes que lo hicieron posible.
+Hoy, el continente de [[Regiones/Glastra/Glastra\|Glastra]] se viste de gala. En la majestuosa ciudad-estado de [[Regiones/Glastra/Lakua/Riza\|Riza]], se ultiman los preparativos para el festival más grandioso que el mundo haya visto: el [[Trasfondo/Ola de Oscuridad/Tricentenario de la Victoria\|Tricentenario de la Victoria]], una celebración de tres siglos de luz y prosperidad para el que queda menos de un mes. Mercenarios, nobles, mercaderes, artistas y gentes de todos los rincones de los cuatro continentes convergen bajo el brillo de [[Regiones/Glastra/Ilios\|Ilios]] para celebrar el retorno de su luz y a los héroes que lo hicieron posible.
 
 De las sombras del Señor Oscuro solo queda una pequeña facción: el [[Trasfondo/Ola de Oscuridad/Ejército Inmortal\|Ejército Inmortal]], dirigido por [[Trasfondo/Ola de Oscuridad/Skia, la Princesa de las Sombras\|Skia, la Princesa de las Sombras]], la última de los lugartenientes de [[Trasfondo/Ola de Oscuridad/Señor Oscuro\|Menras]]. Afortunadamente, el [[Regiones/Trabia/Reino de Adamas\|Reino de Adamas]] la mantiene atrincherada tras el [[Regiones/Trabia/Glaciar de Pagos\|Glaciar de Pagos]], al norte del continente de [[Regiones/Trabia/Trabia\|Trabia]]. 
 
@@ -52,8 +52,8 @@ Otras religiones menores existen, y son comúnmente toleradas en las zonas en la
 - Las [[Especies/Kitraki\|Kitraki]] adoran a **Itia** como su creadora.
 - Gran parte de los [[Especies/Zaharak\|Zaharak]] adoran a **Tisara** como su protectora y benefactora. 
 - Los elfos acostumbran a adorar ciertos astros (El Sol, las Lunas, las Estrellas), y a **Dama Mireon** como su mas antigua ancestro. 
-- El Líder del panteón enano es el **Primarca Lureas**, conocido por su vozarrón y su habilidad en la forja. 
-- Entre las gentes mas sencillas, se adora a **Mill**, Dios del Fuego y la Protección, en mayor o menor medida. 
+- El Líder del panteón enano es el **Primarca Lureas**, conocido por su vozarrón y su habilidad en la forja, seguido del resto de Primarcas.. 
+- Entre las gentes mas sencillas, se adora a **Mill**, Dios del Fuego y la Protección, en mayor o menor medida.  En el Imperio de Ergo es conocido como el _Hijo del Sol_.
 - Los sanadores estudian a **Amitera**, paragón de la Magia Curativa. 
 - Aquellos que viven entre las sombras murmuran el nombre de **Roz** antes antes de sus escapadas. 
 - Los estudiosos de lo Arcano y aquellos que veneran la magia por encima de todo claman el nombre se **Kaure el Escolar**, primer maestro de lo arcano y ascendido a divinidad por sus propios medios.
@@ -64,23 +64,23 @@ Otras religiones menores existen, y son comúnmente toleradas en las zonas en la
 Las distintas unidades legales de todo Oreka
 >[!example]+ Glastra
 > - [[Regiones/Glastra/Lakua/Lakua\|Lakua]] - La región central de Glastra, situada en el valle homónimo.
->	- [[Regiones/Glastra/Lakua/Riza\|Riza]], la ciudad estrella del continente, centro político y comercial.
->	- [[Regiones/Glastra/Lakua/Kentron\|Kentron]], el lago más grande del mundo, cuyas aguas dominan el paisaje.
->- [[Regiones/Glastra/Ieró\|Ieró]], capital de la Iglesia de Aureon, coronada por su imponente Palacio Sacro.
->- [[Regiones/Glastra/Haizea\|Haizea]], tierra de riscos y de la alta nobleza.
->- [[Regiones/Glastra/Kertutai\|Kertutai]], la colmena de las [[Especies/Kitraki\|Kitraki]].
->- [[Regiones/Glastra/Harana\|Harana]], el valle prohibido.
->- [[Regiones/Glastra/Teocracia Tisarana\|Teocracia Tisarana]], el reino que los Zaharak forjaron para si mismos.
->- [[Regiones/Glastra/Irrigos\|Irrigos]], república de mercaderes cuya poderosa armada domina las rutas navales.
->- [[Regiones/Glastra/Bardhore\|Bardhore]], hogar ancestral de los enanos, que gobiernan tanto sobre como bajo las montañas desde hace milenios.
->- [[Regiones/Glastra/Demenor\|Demenor]], el Antiguo Imperio; hoy una joven república que reaprende a caminar antes de aspirar a correr.
->- [[Regiones/Glastra/Cínere\|Cínere]], tierra de contrastes: caudalosos ríos y junglas exuberantes conviven con desiertos áridos y vastas salinas.
->- [[Regiones/Glastra/Evisnos\|Evisnos]], región de colinas y dragones. Habitada mayoritariamente por Dragonborn, su Gobernador, Ilmathar, es un anciano y benevolente dragón de bronce.
+>	- [[Regiones/Glastra/Lakua/Riza\|Riza]] - la ciudad estrella del continente, centro político y comercial.
+>	- [[Regiones/Glastra/Lakua/Kentron\|Kentron]] - el lago más grande del mundo, cuyas aguas dominan el paisaje.
+>- [[Regiones/Glastra/Ieró\|Ieró]] - Capital de la Iglesia de Aureon, coronada por el imponente Palacio: [[Sanctum\|Sanctum]].
+>- [[Regiones/Glastra/Haizea\|Haizea]] - Tierra de riscos y de la alta nobleza.
+>- [[Regiones/Glastra/Kertutai\|Kertutai]] - la colmena de las [[Especies/Kitraki\|Kitraki]].
+>- [[Regiones/Glastra/Harana\|Harana]] - el valle prohibido.
+>- [[Regiones/Glastra/Teocracia Tisarana\|Teocracia Tisarana]] - El reino que los [[Especies/Zaharak\|Zaharak]] forjaron para si mismos.
+>- [[Regiones/Glastra/Irrigos\|Irrigos]] - Dominio de mercaderes cuya poderosa armada domina las rutas navales.
+>- [[Regiones/Glastra/Bardhore\|Bardhore]] - Hogar ancestral de los enanos, que gobiernan tanto sobre como bajo las montañas desde hace milenios.
+>- [[Regiones/Glastra/Demenor\|Demenor]] - El Antiguo Imperio; hoy una joven república que reaprende a caminar antes de aspirar a correr.
+>- [[Regiones/Glastra/Cínere\|Cínere]] - Tierra de contrastes: caudalosos ríos y junglas exuberantes conviven con desiertos áridos y vastas salinas.
+>- [[Regiones/Glastra/Evisnos\|Evisnos]] - Región de colinas y dragones. Habitada mayoritariamente por Dragonborn, su Gobernador, Ilmathar, es un anciano y benevolente dragón de bronce.
 >- [[Regiones/Glastra/Las Comarcas\|Las Comarcas]], región atravesada por ríos, lagos y deltas, dividida en zonas de diferentes tamaños, habitantes y culturas. Unidos solo por un pacto y la voluntad común de trabajar juntos.
->- [[Regiones/Glastra/Kostakt/Kostakt\|Kostakt]], conocida como la _Frontera del Sur_, es un país de climas templados, fértiles valles y una cultura orgullosa de su independencia. Durante siglos ha mantenido una guerra intermitente con el Imperio de [[Regiones/Tomoe/Ergo\|Ergo]], un conflicto que culminó hace veinte años con la pérdida de la región de la [[Regiones/Glastra/Kostakt/Dartza\|Dartza]], hoy bajo dominio ergoniano.
->- [[Regiones/Glastra/Maraton/Maratón\|Maratón]], célebre por sus costas y destinos turísticos… y por una legalidad convenientemente flexible.
+>- [[Regiones/Glastra/Kostakt/Kostakt\|Kostakt]] - Conocida como la _Frontera del Sur_, es un país de climas templados, fértiles valles y una cultura orgullosa de su independencia. Durante siglos ha mantenido una guerra intermitente con el Imperio de [[Regiones/Tomoe/Ergo\|Ergo]], un conflicto que culminó hace veinte años con la pérdida de la región de la [[Regiones/Glastra/Kostakt/Dartza\|Dartza]], hoy bajo dominio ergoniano.
+>- [[Regiones/Glastra/Maraton/Maratón\|Maratón]] - La Ciudad de los Festivales: célebre por sus costas y destinos turísticos… y por una legalidad convenientemente flexible.
 >- [[Regiones/Glastra/Eldaren\|Eldaren]], hogar de los _Eldarenelin_, Elfos de las Estrellas. Desconfiados y celosos de sus fronteras; pocos han visto sus montañosos bosques de cerca y vivido para contarlo.
->- [[Regiones/Glastra/Ithiren\|Ithiren]], tierra de los _Ithirenelin_, Elfos de las Lunas. Más amistosos con otras razas, su bello reino de plata acoge a visitantes, aunque son recelosos de aquellos que se quedan.
+>- [[Regiones/Glastra/Ithiren\|Ithiren]], tierra de los _Ithirenelin_, Elfos de las Lunas. Más amistosos con otras razas de entre todos los elfos, su bello reino de plata acoge a visitantes, aunque son recelosos de aquellos que se quedan.
 
 > [!example]+ Trabia
 > - [[Regiones/Trabia/Reino de Adamas\|Reino de Adamas]], tierra nórdica azotada por el frío y vecina del Glaciar de Pagos. La escasez es habitual, pero las comunidades son férreas y solidarias; la desconfianza hacia los forasteros es casi una ley natural, y ni siquiera la realeza está exenta de ella.
@@ -127,13 +127,13 @@ Las particularidades culturales o físicas de estos pueblos pueden variar según
 
 ## Cosmología
 
-Oreka reside en el [[Trasfondo/Cosmologia/Plano Mundano\|Plano Mundano]], al igual que infinitos otros mundos materiales. Superpuesto al Plano Mundano se encuentra el **Plano Etéreo**, conocido como el _Límite de las Almas_, que lo permea por completo.
+Oreka reside en el [[Trasfondo/Cosmologia/Plano Mundano\|Plano Mundano]], al igual que infinitos otros mundos materiales. Superpuesto al Plano Mundano y a todos los otros planos a su mismo nivel se encuentra el **Plano Etéreo**, conocido como el _Límite de las Almas_, que lo permea por completo.
 
 La distancia entre los planos no se mide por separación física, sino por grado de interconectividad. No existe realmente un "arriba" o "abajo", ni un "cerca" o "lejos". Sin embargo, por simplicidad utilizaremos estos términos para describir sus relaciones.
 
 Los cuatro planos más cercanos al Plano Mundano son el [[Trasfondo/Cosmologia/Plano de las Sombras\|Plano de las Sombras]] o _Shadowfell_, el [[Trasfondo/Cosmologia/Plano Feérico\|Plano Feérico]] o _Feywild_, el [[Trasfondo/Cosmologia/Plano de los Sueños\|Plano de los Sueños]] y el [[Trasfondo/Cosmologia/Plano Astral\|Plano Astral]].
 
-Por encima del Plano Mundano se encuentran los **Planos Benignos**, y más allá de ellos se alza el **Plano Divino**. El **Plano de Energía Positiva** permea todos estos planos, de forma similar a como el Plano Etéreo permea el Plano Mundano, y es lo que los agrupa bajo la denominación de Planos Benignos.
+Por encima del Plano Mundano se encuentran los **Planos Benignos**, y más allá de ellos se alza el **Plano Divino**. El **Plano de Energía Positiva** permea todos estos planos, de forma similar a como el Plano Etéreo permea el Plano Mundano y sus cuatro mas cercanos, y es lo que los agrupa bajo la denominación de Planos Benignos.
 
 En una posición inferior al Plano Mundano se encuentran los **Planos Malignos**, como el **Abismo** o los **Nueve Infiernos**. Más allá de estos se extiende el **Plano de la Nada**. Permeando todos ellos se encuentra el **Plano de Energía Negativa**.
 
@@ -143,9 +143,9 @@ Rodeando al resto de planos en un círculo perfecto se encuentran los **Planos E
 
 Finalmente se encuentran los planos más lejanos de la realidad:
 
-- Más allá del círculo de los Planos Elementales, en la región central del cosmos planar, se extiende el **Caos Elemental**, una extensión infinita de materia primordial en constante conflicto. Es un lugar inhóspito e incomprensible para casi toda forma de vida.
+- Más allá del círculo de los Planos Elementales, en la región central del cosmos planar, se extiende el **Caos Elemental**, una extensión infinita de materia primordial en constante conflicto. Es un lugar inhóspito e incomprensible para toda forma de vida.
 - Por encima del Plano Divino se encuentra el **Plano de Fuga**, también conocido como _el Más Allá_. Se dice que los dioses guían las almas de los mortales hasta las puertas de este plano tras la muerte. Sin embargo, ni siquiera las deidades conocen qué existe realmente más allá de su umbral.
-- Bajo el Plano de la Nada se extiende el **Plano del Olvido**. Se cree que los seres infernales abandonan allí lo que queda de las almas mortales cuando han terminado de consumirlas. Muchos eruditos sostienen que los fragmentos que llegan a este plano son finalmente absorbidos por la estructura misma de la realidad, reciclándose para sostener el equilibrio del resto de planos.
+- Bajo el Plano de la Nada se extiende el **Olvido**. Se cree que los seres infernales abandonan allí lo que queda de las almas mortales cuando han terminado de consumirlas. Muchos eruditos sostienen que los fragmentos que llegan a este plano son finalmente absorbidos por la estructura misma de la realidad, reciclándose para sostener el equilibrio del resto de planos.
 
 
 WEB: https://oreka-eight.vercel.app/
