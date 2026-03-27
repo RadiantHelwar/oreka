@@ -38,7 +38,6 @@ Hoy, Kertutai es un estado militarmente compacto, diplomáticamente estricto y e
 
 El corredor que los extranjeros conocen. Cruza por el lado norte de Kertutai, al lado de la pared exterior, con grandes arcos abiertos que dan la impresión de estar completamente al aire libre. Es por donde las caravanas, los viajeros y las mercancías pasan de un lado a otro del Harana.
 
-
 Los arcos pueden cerrarse con unas membranas resistentes como el acero, y hay puestos de vigilancia elevados repartidos por toda la Avenida.
 
 Existen desvíos, siempre vigilados, que conducen a zonas internas donde los extranjeros casi nunca son admitidos, y siempre hay guardias asegurando que se cumpla esta norma.
@@ -52,15 +51,7 @@ La verdadera vida de Kertutai.
 
 Un laberinto vertical de cámaras hexagonales, rampas curvas y plataformas vivas donde habita la mayoría de la población.
 
-Se respira:
-
-Trabajo en equipo.
-
-Canto zumbante colectivo.
-
-Perfumes resinosos.
-
-Luz cálida filtrada.
+Se respira trabajo en equipo, cantos zumbante colectivos, perfumes resinosos y luz cálida filtrada.
 
 Para un forastero sería como entrar en un organismo vivo.
 

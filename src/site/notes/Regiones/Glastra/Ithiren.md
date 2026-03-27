@@ -4,8 +4,8 @@
 
 # Ithiren
 
-- Capital: [[Ithiranas\|Ithiranas]]
-- Población: Elfos Ithirenenil (mayoría), Humanos, Enanos, Halfling, Dragonborn, otras minorías.
+- **Capital**: [[Ithiranas\|Ithiranas]]
+- **Población**: Elfos Ithirenenil (mayoría), Humanos, Enanos, Halfling, Dragonborn, otras minorías.
 
 Ithiren es la tierra de los *Ithirenenil*, los llamados _Elfos de las Lunas_. Situado en el extremo oriental de Glastra, su reino es conocido en todo el continente como **el Reino de Plata**, tanto por las vastas reservas de este metal que se encuentran bajo su suelo como por la delicadeza artística con la que sus habitantes lo trabajan.
 
@@ -41,7 +41,7 @@ Cuando la Reina Tutora decide retirarse —algo que ocurre tras décadas de rein
 
 De este modo, cada reina pasa aproximadamente la mitad de su reinado aprendiendo y la otra mitad enseñando, asegurando una continuidad política extraordinariamente estable.
 
-La naturaleza matrimonial de este sistema ha generado todo tipo de comentarios en otras tierras, especialmente porque una reina puede contraer matrimonio político más de una vez a lo largo de su vida. Sin embargo, en Ithiren nadie espera romances en estas uniones. Se trata de vínculos institucionales cuyo propósito es garantizar la estabilidad del reino.
+La naturaleza matrimonial de este sistema ha generado todo tipo de comentarios en otras tierras, especialmente porque una reina puede contraer matrimonio político más de una vez a lo largo de su vida, y siempre a otra mujer a la que dobla la edad. Sin embargo, en Ithiren nadie espera romances en estas uniones. Se trata de vínculos institucionales cuyo propósito es garantizar la estabilidad del reino.
 
 Algunas reinas han tenido también reyes consortes, y las leyes de Ithiren contemplan cuidadosamente el papel que estos pueden desempeñar dentro del gobierno.
 
@@ -59,7 +59,7 @@ Las laderas de esta colina están ocupadas por los palacetes de las familias nob
 
 Más abajo se extiende el resto de Ithiranas. Allí viven mercaderes, artistas, eruditos y ciudadanos comunes. Aun así, nadie confundiría la ciudad con una urbe humana corriente. Las casas no se agrupan en calles regulares, sino que se distribuyen entre jardines, bosques y pequeñas ensenadas que penetran desde el mar. El resultado es una ciudad fragmentada en pequeñas islas de civilización rodeadas de naturaleza cuidadosamente preservada.
 
-Al otro lado de la colina de los palacios se levanta la **Torre del Mar**, la universidad arcana del reino. Allí se concentra el mayor poder mágico de Ithiren y acuden a estudiar aquellos magos capaces de permitirse su prestigiosa —y costosa— formación.
+Al otro lado de la colina de los palacios se levanta la **Torre del Mar**, la universidad arcana mas afamada del reino. Allí se concentra el mayor poder mágico de Ithiren y acuden a estudiar aquellos magos capaces de permitirse su prestigiosa —y costosa— formación.
 
 ## Los Ithirenenil y el Mundo
 
@@ -67,10 +67,10 @@ Los Elfos de las Lunas sienten una profunda curiosidad por otras culturas. Disfr
 
 Sin embargo, esta curiosidad está acompañada de una prudencia casi instintiva.
 
-La filosofía que domina Ithiren sostiene que **la mejora individual es indispensable pero solo tiene valor cuando beneficia al colectivo**. Cualquier ambición personal que ponga en peligro ese equilibrio es vista como peligrosa.
+La filosofía que domina Ithiren sostiene que a mejora individual es indispensable pero solo tiene valor cuando beneficia al colectivo Cualquier ambición personal que ponga en peligro ese equilibrio es vista como peligrosa.
 
 Muchos Ithirenenil creen que los extranjeros, por bienintencionados que sean, traen consigo ideas que no siempre encajan con esta visión del mundo. Por eso la hospitalidad inicial suele transformarse en distancia cuando un visitante decide permanecer.
 
-Este recelo no está recogido en ninguna ley. Es simplemente una actitud cultural profundamente arraigada. No es raro que algunos ithirenenil cambien de acera al cruzarse con un extranjero, o que asuman que, tarde o temprano, este acabará rompiendo alguna tradición que aún no comprende.
+Este recelo no está recogido en ninguna ley. Es simplemente una actitud cultural profundamente arraigada. No es raro que algunos ithirenenil cambien de acera al cruzarse con un extranjero, o que asuman que, tarde o temprano, este acabará rompiendo alguna tradición que aún no comprende, y incluso acostumbran a reaccionar sorprendidos cuando un extrangero actúa siguiendo las tradiciones, sin importar cuanto tiempo lleven residiendo en el reino.
 
 A pesar de ello, Ithiren sigue siendo uno de los lugares donde más fácilmente puede encontrarse a gentes de todo Glastra compartiendo mesa, música o conversación bajo la luz de la luna.

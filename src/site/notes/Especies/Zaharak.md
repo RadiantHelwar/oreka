@@ -51,12 +51,12 @@ Elige un efecto ambiental, una opción de movimiento y un Arma Natural:
 
 #### Efectos Ambientales:
 Escojas el que escojas, puedes usarlo 1 vez por descanso corto.
-- Visión Térmica: Como una acción, puedes incrementar el flujo de sangre a tus ojos y activar una ancestral visión térmica por hasta 1 minuto. Mientras esté activa, tienes ventaja en las tiradas de Percepción que dependen de la vista, y puedes detectar a criaturas cuya temperatura corporal difiera del entorno a través de la oscuridad no mágica, pero no a través de cobertura total.
-- Tenacidad Sauria: Cuando fueras a fallar una salvación de Constitución contra efectos ambientales extremos (como frío, calor, aire escaso, presión), veneno, enfermedad o ahogamiento, puedes volver a lanzar la tirada y quedarte con la más nueva.
+- **Visión Térmica**: Como una acción, puedes incrementar el flujo de sangre a tus ojos y activar una ancestral visión térmica por hasta 1 minuto. Mientras esté activa, tienes ventaja en las tiradas de Percepción que dependen de la vista, y puedes detectar a criaturas cuya temperatura corporal difiera del entorno a través de la oscuridad no mágica, pero no a través de cobertura total.
+- **Tenacidad Sauria**: Cuando fueras a fallar una salvación de Constitución contra efectos ambientales extremos (como frío, calor, aire escaso, presión), veneno, enfermedad o ahogamiento, puedes volver a lanzar la tirada y quedarte con la más nueva.
 
 #### Opciones de movimiento
-- **Veloz** - Tu velocidad de movimiento se incrementa en 5 pies (1.5 metros). Una vez por descanso corto puedes lanzar "Longstrider" / "Zancada Prodigiosa" sobre ti mismo sin necesidad de componentes.
-- **Arbóreo** - Tienes una velocidad de escalada igual a tu velocidad a pie. Una vez por descanso corto puedes lanzar el hechizo "Saltar" sobre ti mismo sin necesidad de componentes.
+- **Veloz** - Tu velocidad de movimiento se incrementa en 5 pies (1.5 metros). Una vez por descanso corto puedes lanzar "[Zancada Prodigiosa](https://nivel20.com/games/dnd-2024/spells/14916-zancada-prodigiosa)" sobre ti mismo sin necesidad de componentes.
+- **Arbóreo** - Tienes una velocidad de escalada igual a tu velocidad a pie. Una vez por descanso corto puedes lanzar el hechizo "[Salto](https://nivel20.com/games/dnd-2024/spells/14912-salto)" sobre ti mismo sin necesidad de componentes.
 - **Acuático** - Tienes una velocidad de natación igual a tu velocidad a pie.  Puedes aguantar la respiración por 10 minutos antes de empezar a ahogarte.
 - **Volador**: Tienes alas. Puedes planear: cuando caes desde al menos 10 pies, puedes moverte horizontalmente hasta tu velocidad y descender voluntariamente hasta 10 pies por cada 5 pies movidos.  Además, puedes ganar una velocidad de vuelo igual a tu velocidad durante 1 minuto, que puedes usar tantas veces como tu bono de competencia por descanso largo. (No puedes usar ninguna de las dos velocidades mientras uses armadura mediana o pesada)
 
@@ -65,5 +65,5 @@ Escojas el que escojas, puedes usarlo 1 vez por descanso corto.
 - **Cola martillo**: Tus ataques desarmados con tu cola hacen 1d6 de daño contundente y eres competente con ella. La cola es un arma natural y añades tu modificador de destreza a las tiradas de ataque y daño. (Cuenta como un arma simple a melee para el propósito de dotes / habilidades que requieran un arma)
 - **Cuernos**: Tus ataques desarmados con tus cuernos hacen 1d4 de daño perforante y eres competente con ellos. Es un arma natural y añades tu modificador de Fuerza o Destreza a las tiradas de ataque y daño. (Cuenta como un arma simple a melee para el propósito de dotes / habilidades que requieran un arma)
   Además, una vez por turno puedes usar una Acción Adicional para realizar un ataque con los cuernos, siempre que no los hayas usado en tu Acción Principal.
-- **Escupitajo Ácido**: Puedes usar el truco/cantrip "Salpicadura de Ácido", Constitución es tu característica para él.
-- **Voz atronadora**:  Puedes usar una versión especial del truco/cantrip "Descarga de Fuego" llamada "Descarga Sónica" sustituyendo el daño de fuego por sónico / atronador. Constitución es tu característica para él.
+- **Escupitajo Ácido**: Puedes usar el truco "[Salpicadura Ácida](https://nivel20.com/games/dnd-2024/spells/14865-salpicadura-acida)", Constitución es tu característica para él.
+- **Voz atronadora**:  Puedes usar una versión especial del truco "[Descarga de Fuego](https://nivel20.com/games/dnd-2024/spells/14861-descarga-de-fuego)" llamada "Descarga Sónica" sustituyendo el daño de fuego por sónico / atronador. Constitución es tu característica para él.

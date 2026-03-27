@@ -14,15 +14,15 @@ Algunos se encuentran al borde de la extinción. Otros viven aislados del resto 
 
 Los **Fanarenelin** habitaban antiguamente **Fanaren**, el reino de las nubes, un dominio construido en lo alto de las ramas del Ilios original. Su civilización vivía suspendida entre las corrientes de aire y los vastos mares de nubes, en plataformas naturales formadas por ramas colosales y jardines alimentados por rocío y luz.
 
-Son el único linaje élfico dotado de alas naturales. Sus huesos son huecos y sus cuerpos ligeros, adaptados a la escasez de oxígeno de las altitudes extremas. Durante milenios apenas necesitaron sustento: unos pocos bocados de fruta y el agua condensada del rocío bastaban para mantenerlos durante todo el día, y sus alas blancas absorvian la potencia magica de las ramas de Ilios donde vivian, acabando de suplir sus necesidades.
+Son el único linaje élfico dotado de alas naturales. Sus huesos son huecos y sus cuerpos ligeros, adaptados a la escasez de oxígeno de las altitudes extremas. Durante milenios apenas necesitaron sustento: unos pocos bocados de fruta y el agua condensada del rocío bastaban para mantenerlos durante todo el día, y sus alas blancas absorbían la potencia mágica de las ramas de Ilios donde vivían, acabando de suplir sus necesidades.
 
 Los Fanarenelin no solo volaban aprovechando corrientes de aire. Según sus propias tradiciones, también seguían las líneas de magia de Oreka, corrientes invisibles que recorrían el mundo y que sus alas eran capaces de sentir y canalizar.
 
 La llegada de la Podredumbre fue devastadora para su pueblo. Sus cuerpos absorbieron gran parte de aquella corrupción incluso antes de ser conscientes de su existencia, y cuando el Árbol de Ilios desapareció, el ecosistema del que dependían se derrumbó por completo.
 
-Hoy sobreviven pequeñas comunidades aisladas ocultas en las cumbres más altas de [[Regiones/Glastra/Bardhore\|Bardhore]] y en las montañas de la [[Regiones/Glastra/Teocracia Tisarana\|Teocracia Tisarana]], donde Lureas les concedió refugio.
+Hoy sobreviven pequeñas comunidades aisladas ocultas en las cumbres más altas de [[Regiones/Glastra/Bardhore\|Bardhore]] y en las montañas de la [[Regiones/Glastra/Teocracia Tisarana\|Teocracia Tisarana]], donde los Enanos y los Zaharak les concedieron refugio.
 
-Sin embargo, su nueva vida lejos del antiguo Ilios está condenándolos lentamente. Sus alas ya no absorben la magia ambiental como antes. Con el tiempo las alas de cada Fanarenelin se vuelven más oscuras, perdiendo el blanco luminoso que antaño parecía brillar con luz propia. Los Fanarenelin deben comer cada vez más para sobrevivir, pero sus cuerpos nunca estuvieron diseñados para procesar grandes cantidades de alimento.
+Sin embargo, su nueva vida lejos del antiguo Ilios está condenándolos lentamente. Sus alas ya no absorben la magia ambiental como antes. Con el tiempo las alas de cada Fanarenelin se vuelven más oscuras, perdiendo el blanco luminoso que antaño parecía brillar con luz propia y su capacidad de alimentarlos absorbiendo energía. Los Fanarenelin deben comer cada vez más para sobrevivir, pero sus cuerpos nunca estuvieron diseñados para procesar grandes cantidades de alimento.
 
 Muchos terminan muriendo de inanición, justo cuando sus alas se vuelven completamente negras y ya no pueden absorber ninguna magia para sostenerlos.
 
@@ -53,11 +53,11 @@ Las gigantescas raíces del árbol transportaban la luz de la superficie hacia l
 
 Cuando la Podredumbre comenzó su ascenso desde las profundidades de Oreka, fue Olvaren quien recibió el primer golpe.
 
-Allí, en las raíces mismas del mundo, los Olvarenelin lucharon durante generaciones para contener la corrupción sin saber que su lucha era en vano. Finalmente fueron derrotados.
+Allí, en las raíces mismas del mundo, los Olvarenelin lucharon durante decadas para contener la corrupción sin saber que su lucha era en vano. Finalmente fueron derrotados.
 
 La Podredumbre no solo devastó sus ciudades: se asentó en su esencia.
 
-Los descendientes de aquel pueblo son conocidos hoy como **Drow**. Conservan la inteligencia, la longevidad y el ingenio de los elfos, pero su naturaleza ha cambiado profundamente. Sus reinos subterráneos siguen siendo hermosos en un sentido oscuro y perturbador, llenos de arquitectura imposible, jardines de hongos gigantes y ciudades talladas en piedra viva. Pero también son lugares crueles, peligrosos e inhóspitos.
+Los descendientes de aquel pueblo son conocidos hoy como **Drow**. Conservan la inteligencia, la longevidad y el ingenio de los elfos, pero su naturaleza ha cambiado profundamente. Sus reinos subterráneos siguen siendo hermosos en un sentido oscuro y perturbador, inundados y llenos de arquitectura imposible, jardines de hongos gigantes y ciudades talladas en piedra viva. Pero también son lugares crueles, peligrosos e inhóspitos.
 
 Los Drow apenas mantienen contacto con la superficie. Sus relaciones más habituales son con los svirfneblin y los duergar, que sufrieron destinos similares al de los Elfos de las Profundidades, además de los esclavos que capturan o comercian en las profundidades.
 

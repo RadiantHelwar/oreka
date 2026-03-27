@@ -5,14 +5,12 @@
 # Las Kitraki (Especie no jugable)
 
 **Nombre**: Kitraki
-
 **Tipo**: Humanoide (Insectoide)
-
 **Idiomas**: Kitrakí (zumbidos, chasquidos y resonancias), Común, Haizeano
 
 ## Descripción General
 
-Las Kitraki son una especie insectoide racional, mitad humanoide y mitad avispa, creadas —según sus propias leyendas— por Itia, la Gran Curandera, a partir de la savia corrupta que brotó cuando la Gran Rama de Ilios cayó hace tres milenios. Aquello que primero nació como monstruos terminó transformándose en seres sociales, ordenados y brillantes, gracias al toque de su protectora.
+Las Kitraki son una especie insectoide racional, mitad humanoide y mitad avispa, creadas —según sus propias leyendas— por Itia, la Gran Curandera, a partir de la savia corrupta que brotó cuando la Gran Rama de Ilios cayó hace cuatro milenios. Aquello que primero nació como monstruos terminó transformándose en seres sociales, ordenados y brillantes, gracias al toque de su protectora.
 
 Hoy, las Kitraki forman una civilización avanzada, eusocial, protectora con sus vecinos, pero temible para cualquiera que no respete sus normas.
 
@@ -23,7 +21,7 @@ Una Kitraki típica combina rasgos antropomórficos con la anatomía de una avis
 - Quitina brillante de tonos amarillos, negros, ocres y rojizos.
 - Ojos compuestos que reflejan la luz como cristales facetados.
 - Piezas bucales articuladas, capaces de imitar el habla humana.
-- Cuatro extremidades humanoides recubiertas de quitina.
+- Seis extremidades humanoides recubiertas de quitina, cuatro superiores y dos inferiores.
 - Alas membranosas que vibran con un zumbido reconocible a kilómetros.
 - Abdomen segmentado con aguijón retráctil.
 

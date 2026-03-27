@@ -10,6 +10,6 @@ Construida alrededor de un gran puerto natural, la ciudad creció con el tiempo 
 
 La ciudad es conocida por su carácter abierto. Desde sus orígenes, Dom se ha definido por una idea simple pero poderosa: cualquiera que llegue en paz puede encontrar un lugar al que pertenecer.
 
-Este principio ha atraído a generaciones de refugiados, aventureros, comerciantes y exploradores, convirtiendo la ciudad en uno de los lugares más diversos del mundo conocido.
+Este principio ha atraído a generaciones de refugiados, mercenarios, comerciantes y exploradores, convirtiendo la ciudad en uno de los lugares más diversos del mundo conocido.
 
 En ella se aloja la sede de [[Trasfondo/Organizaciones/Gremios/Colmillo Rojo\|Colmillo Rojo]].

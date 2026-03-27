@@ -4,7 +4,7 @@
 
 # Ieró
 
-Ieró es la capital espiritual de la **Iglesia de Aureon** y, para muchos fieles, el corazón religioso de todo Oreka. Durante siglos fue considerada el centro moral y político de Glastra, un lugar al que acudían peregrinos, nobles y gobernantes en busca de guía espiritual. Aunque su influencia directa ha disminuido en tiempos recientes, la ciudad sigue siendo uno de los enclaves más sagrados del continente.
+Ieró es la capital espiritual de la [[Trasfondo/Panteones/Iglesia de Aureon\|Iglesia de Aureon]] y, para muchos fieles, el corazón religioso de todo Oreka. Durante siglos fue considerada el centro moral y político de Glastra, un lugar al que acudían peregrinos, nobles y gobernantes en busca de guía espiritual. Aunque su influencia directa ha disminuido en tiempos recientes, la ciudad sigue siendo uno de los enclaves más sagrados del continente.
 
 La ciudad se alza en la ladera de una montaña que, en otro tiempo, se apoyaba contra el inmenso tronco del Árbol de [[Regiones/Glastra/Ilios\|Ilios]]. Hoy el árbol ha desaparecido, y en su lugar se extiende la vasta región de [[Regiones/Glastra/Lakua/Lakua\|Lakua]], pero Ieró permanece como un recuerdo vivo de aquella época. Desde la distancia, la ciudad parece un océano de tejados dorados extendiéndose por la pendiente, coronado en su punto más alto por la inmensa silueta de [[Sanctum\|Sanctum]], la Gran Catedral.
 
@@ -21,6 +21,8 @@ Con el paso de los siglos la ciudad creció alrededor de aquel lugar sagrado. Pe
 Hoy en día, los restos del Primer Templo siguen existiendo, pero ya no se encuentran a cielo abierto. Sus muros resquebrajados se conservan dentro de la inmensa catedral conocida como [[Sanctum\|Sanctum]], protegidos y venerados como una reliquia sagrada.
 
 La luz dorada que emerge de las antiguas piedras continúa brillando suavemente. Atraviesa las miles de vidrieras de la catedral y se dispersa por el interior del edificio en un espectáculo constante de colores y reflejos. Las paredes de Sanctum se convierten así en un gigantesco caleidoscopio de luz, siempre cambiante, que muchos fieles interpretan como un recordatorio de la presencia eterna de Aureon.
+
+Hay un rincón concreto de Sanctum al que todos desean acceder: **La Corriente de Luz**. En el corazón de la catedral, lo más cercano posible a los restos del Primer Templo, se erige un muro de cristal ahumado que no permite ver al otro lado, pero deja que la iridiscencia del Primer Templo se refleje en él. Esta luz parece actuar como una corriente de colores que asciende por el muro de cristal, y cualquier contacto con él hace que la corriente se vea afectada, igual que lo haría un objeto introducido en un río. Por tanto, se cree que si uno coloca su mano en **La Corriente** mientras reza a Aureon, esta llevará sus palabras hasta Él y recibirán respuesta de inmediato.
 
 ## Sanctum y las Siete Espadas
 

@@ -4,15 +4,15 @@
 
 # Irrigos
 
-## El Reino que Domina las Rutas
+## El Dominio de las Rutas
 
-Irrigos es, ante todo, un reino marítimo.
+Irrigos es, ante todo, un dominio marítimo.
 
 Sus estandartes ondean en los mástiles de las flotas más numerosas de Oreka, y sus barcos cruzan rutas que otros consideran imposibles. Desde sus puertos parten convoyes cargados de grano, hierro, especias, vino, madera, tejidos, reliquias, promesas y rumores. Nada viaja por mar sin que Irrigos lo sepa. Poco viaja sin que Irrigos participe.
 
 Su armada no es solo poderosa: es constante. Patrulla, escolta, cartografía, comercia. Allí donde hay una costa, es probable que haya un muelle irrigano o un acuerdo firmado con sello de lacre azul profundo. Las grandes compañías de comercio rivalizan en tamaño y prestigio, financiando expediciones cada vez más ambiciosas y compitiendo por abrir nuevas rutas.
 
-El reino está unido bajo una casa real que actúa como eje político y símbolo de estabilidad, pero el verdadero poder se reparte entre regiones orgullosas y compañías influyentes. Irrigos no es un imperio conquistador; es un imperio de contratos.
+El dominio está unido bajo una casa real que actúa como eje político y símbolo de estabilidad, pero el verdadero poder se reparte entre regiones orgullosas y compañías influyentes. Irrigos no es un imperio conquistador; es un imperio de contratos.
 
 Y en el mar, pocos se atreven a desafiarlo.
 
@@ -36,7 +36,7 @@ La unión de las regiones bajo una sola corona no fue fruto de una conquista her
 
 ## Idiosincrasia de un Pueblo en Movimiento
 
-Irrigos es un reino acostumbrado al ir y venir de las gentes.
+Irrigos es un dominio acostumbrado al ir y venir de las gentes.
 
 En sus puertos se mezclan acentos de todos los continentes. Las modas extranjeras se adoptan sin escándalo. Las especias llegan antes aquí que a ningún otro lugar. Los templos conviven pared con pared, y no es extraño que un capitán jure por un dios extranjero con la misma naturalidad con la que brinda por la cosecha local.
 
@@ -56,7 +56,7 @@ Las casas reales de ambos reinos están emparentadas desde hace generaciones, y 
 
 Desde la [[Trasfondo/Ola de Oscuridad/Ola de Oscuridad\|Ola de Oscuridad]], ese lazo se ha vuelto casi sagrado.
 
-Irrigos se encarga de recoger las donaciones que provienen de todo Glastra: víveres, armas, metales, recursos, voluntarios. Sus flotas transportan ese caudal hacia Adamas, sosteniendo los esfuerzos del Ejército Inmortal más allá del [[Regiones/Trabia/Glaciar de Pagos\|Glaciar de Pagos]]. Lo hacen con eficiencia casi ritual, como si cada travesía fuera parte de un deber ancestral.
+Irrigos se encarga de recoger las donaciones que provienen de todo Glastra: víveres, armas, metales, recursos, voluntarios. Sus flotas transportan ese caudal hacia Adamas, sosteniendo los esfuerzos para contener el Ejército Inmortal más allá del [[Regiones/Trabia/Glaciar de Pagos\|Glaciar de Pagos]]. Lo hacen con eficiencia casi ritual, como si cada travesía fuera parte de un deber ancestral.
 
 En Irrigos se entiende algo con claridad meridiana: si Adamas cae, el equilibrio del mundo se resquebraja. Y ningún puerto, por protegido que esté, sobrevivirá a un mundo sin equilibrio.
 

@@ -4,8 +4,8 @@
 
 # Evisnos
 
-- Capital: [[Regiones/Glastra/Bronzaguarda\|Bronzaguarda]]
-- Población: Dragonborn (mayoría), Kobold (mayoría), Humanos, Halfling, Zaharak
+- **Capital**: [[Regiones/Glastra/Bronzaguarda\|Bronzaguarda]]
+- **Población**: Dragonborn (mayoría), Kobold (mayoría), Humanos, Halfling, Zaharak
 
 # Evisnos
 

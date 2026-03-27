@@ -12,12 +12,12 @@ Glastra es el corazón de Oreka: un continente fértil, diverso y densamente pob
 - [[Regiones/Glastra/Lakua/Lakua\|Lakua]] - La región central de Glastra, situada en el valle homónimo.
 	- [[Regiones/Glastra/Lakua/Riza\|Riza]], la ciudad estrella del continente, centro político y comercial.
 	- [[Regiones/Glastra/Lakua/Kentron\|Kentron]], el lago más grande del mundo, que ocupa gran parte de la región.
-- [[Regiones/Glastra/Ieró\|Ieró]], capital de la Iglesia de Aureon, con su imponente Palacio Sacro.
+- [[Regiones/Glastra/Ieró\|Ieró]], capital de la Iglesia de Aureon, con su imponente Palacio: [[Sanctum\|Sanctum]].
 - [[Regiones/Glastra/Haizea\|Haizea]], tierra de riscos y de la alta nobleza.
 - [[Regiones/Glastra/Kertutai\|Kertutai]], la colmena de las [[Especies/Kitraki\|Kitraki]].
 - [[Regiones/Glastra/Harana\|Harana]], el valle prohibido.
 - [[Regiones/Glastra/Teocracia Tisarana\|Teocracia Tisarana]], el pais que los Zaharak forjaron para si mismos
-- [[Regiones/Glastra/Irrigos\|Irrigos]], república de mercaderes con una poderosa armada naval.
+- [[Regiones/Glastra/Irrigos\|Irrigos]], dominio de mercaderes con una poderosa armada naval.
 - [[Regiones/Glastra/Bardhore\|Bardhore]], hogar de los enanos, que gobiernan tanto sobre como bajo las montañas desde hace milenios.
 - [[Regiones/Glastra/Demenor\|Demenor]], conocida como el Antiguo Imperio, ahora una joven democracia redescubriendo cómo andar antes de correr.
 - [[Regiones/Glastra/Cínere\|Cínere]], tierra de contrastes: ríos enormes y junglas verdes, pero también áridos desiertos y salinas.

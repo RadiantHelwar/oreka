@@ -12,7 +12,7 @@ Cínere es una tierra de contrastes marcada por dos grandes cañones que la atra
 
 La región actual nació tras el colapso geológico provocado por la desaparición del Árbol [[Regiones/Glastra/Ilios\|Ilios]] tras la [[Trasfondo/Cosmologia/Podredumbre\|Podredumbre]]. Al perderse las raíces que sostenían el suelo blando de Cínere, el terreno se hundió, formando los dos grandes cañones y reencauzando el agua hacia ellos. Este evento transformó un antiguo reino feudal en una nueva nación.
 
-## **Historia**
+## Historia
 
 Antes de la catástrofe, Cínere era un reino feudal conocido por la cría de dinosaurios y una tradición aristocrática establecida. Sin embargo, el desastre destruyó su estructura política.
 
@@ -22,7 +22,7 @@ Los supervivientes que permanecieron en Cínere, en ausencia de legitimidad divi
 
 Así nació el modelo federal fluvial.
 
-## **Sistema Político**
+## Sistema Político
 
 Cínere funciona como una federación de ciudades y aldeas distribuidas a lo largo de los ríos.
 
@@ -39,12 +39,12 @@ Las legislaturas duran cinco años.
 
 El sistema busca equilibrio entre representación regional y estabilidad central.
 
-## **Geografía**
+## Geografía
 
 Los dos grandes ríos de Cínere estructuran la vida del país:
 
-- **[[Viridran\|Viridran]]** — río del este, donde se encuentra Reog.
-- **[[Obsidran\|Obsidran]]** — río del oeste, donde se encuentra Brega, ciudad que compite simbólicamente con Reog en relevancia.
+- [[Viridran\|Viridran]] — río del este, donde se encuentra Reog.
+- [[Obsidran\|Obsidran]] — río del oeste, donde se encuentra Brega, ciudad que compite simbólicamente con Reog en relevancia.
 
 Las tierras bajas junto a los ríos son fértiles y altamente habitables.  
 Las mesetas elevadas, en cambio, son más secas y peligrosas, pero albergan recursos excepcionales.
@@ -57,7 +57,7 @@ Las tierras altas están habitadas por dinosaurios y otras criaturas peligrosas,
 
 Además, en las mesetas sobreviven restos arquitectónicos del antiguo reino de Cínere, erosionados por el tiempo y las inclemencias. Estos vestigios constituyen un valioso recurso arqueológico, y abundan rumores sobre artefactos antiguos que atraen a mercenarios y exploradores.
 
-## **Cultura**
+## Cultura
 
 La identidad cinerense está profundamente ligada al agua.
 
@@ -73,7 +73,7 @@ Los habitantes de Cínere son, ante todo, creadores. Tras generaciones sometidos
 > “Cínere es el único lugar donde un carpintero discutirá contigo durante una hora sobre el ángulo perfecto de una barandilla… y luego te invitará a cenar para celebrarlo. Lo se de primera mano, me compré una casa en Brega.”
 
 
-## **Relaciones Exteriores**
+## Relaciones Exteriores
 
 Cínere mantiene tratados amistosos con los países colindantes, pero lo cierto es que pocos tienen interés en expandir su territorio hacia las Tierras Altas.
 

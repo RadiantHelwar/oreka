@@ -11,7 +11,7 @@ La Dartza es una región fronteriza situada al sur de [[Regiones/Glastra/Kostakt
 
 ## Historia y Ocupación
 
-Históricamente, la Dartza formaba parte integral de [[Regiones/Glastra/Kostakt/Kostakt\|Kostakt]], una tierra orgullosa de su independencia. Sin embargo, tras dos siglos de guerra intermitente con el país élfico de [[Regiones/Tomoe/Ergo\|Ergo]], la región fue capturada durante el último gran conflicto hace dos décadas.
+Históricamente, la Dartza formaba parte integral de [[Regiones/Glastra/Kostakt/Kostakt\|Kostakt]], una tierra orgullosa de su independencia. Sin embargo, tras dos siglos de guerra intermitente con el Imperio élfico de [[Regiones/Tomoe/Ergo\|Ergo]], la región fue capturada durante el último gran conflicto hace dos décadas.
 
 Tras la caída de la Dartza, se firmó la [[Última Tregua\|Última Tregua]], un tratado de paz indefinido que mantiene el _status quo_: [[Regiones/Tomoe/Ergo\|Ergo]] conserva el control de la región a cambio de un compromiso mutuo de desarme proporcional y desescalada de hostilidades con el gobierno de [[Regiones/Glastra/Kostakt/Kostakt\|Kostakt]].
 
