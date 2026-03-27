@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/regiones/las-lunas/lehar/"}
 ---
 
+# Lehar
+
 ## La Luna Verde
 
 Es la segunda luna de Oreka en tamaño, aunque podría ser la mayor de las dos. Cuando ambas se cruzan en el cielo, Lehar queda siempre por detrás de [[Regiones/Las Lunas/Damar\|Damar]], lo que significa que está mas lejos y esto dificulta saber cuál es realmente más grande.
