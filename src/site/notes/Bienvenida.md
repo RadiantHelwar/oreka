@@ -3,7 +3,7 @@
 ---
 
 
-# Oreka: El Equilibrio de la Luz y las Raíces del Pasado
+# Oreka: El Equilibrio de la Luz y las Raíces del Pasado2
 
 ![oreka-logo-gold.png](/img/user/Extras/oreka-logo-gold.png)
 
