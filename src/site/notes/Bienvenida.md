@@ -139,7 +139,7 @@ En una posición inferior al Plano Mundano se encuentran los **Planos Malignos**
 
 A la misma "altura" que el Plano Mundano, pero desconectados de él, existen múltiples planos independientes, como los planos de la **Ley** y el **Caos**, el **Plano de la Sangre** o el **Plano Cromático**.
 
-Rodeando al resto de planos en un círculo perfecto se encuentran los **Planos Elementales**, como el **Plano del Fuego**, **Agua**, **Tierra** o **Frío**. Estos se dividen a su vez en **Subplanos** y **Paraplanos**, formados por combinaciones entre elementos. Sin embargo, muchos eruditos de Oreka consideran que todos ellos forman en realidad **un único Plano Elemental continuo**, organizado como un espectro circular que conecta sus diferentes regiones.
+Rodeando al resto de planos en un círculo perfecto se encuentran los **Planos Elementales**, como los **Planos del Fuego**, **Agua**, **Tierra** o **Aire**. Estos se dividen a su vez en **Subplanos** y **Paraplanos**, formados por combinaciones entre elementos. Sin embargo, muchos eruditos de Oreka consideran que todos ellos forman en realidad **un único Plano Elemental continuo**, organizado como un espectro circular que conecta sus diferentes regiones.
 
 Finalmente se encuentran los planos más lejanos de la realidad:
 
