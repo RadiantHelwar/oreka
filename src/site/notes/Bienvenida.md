@@ -148,4 +148,4 @@ Finalmente se encuentran los planos más lejanos de la realidad:
 - Bajo el Plano de la Nada se extiende el **Olvido**. Se cree que los seres infernales abandonan allí lo que queda de las almas mortales cuando han terminado de consumirlas. Muchos eruditos sostienen que los fragmentos que llegan a este plano son finalmente absorbidos por la estructura misma de la realidad, reciclándose para sostener el equilibrio del resto de planos.
 
 
-WEB: https://oreka-eight.vercel.app/
+WEB: https://oreka-es.vercel.app/
