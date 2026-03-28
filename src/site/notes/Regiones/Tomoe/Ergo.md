@@ -21,7 +21,7 @@ Este sistema de castas, rígido pero estable, permitió coordinar el esfuerzo m�
 
 ### Gobierno
 
-Desde la gran reorganización tras la Podredumbre, Ergo es gobernado por la [[Casa Imperial\|Casa Imperial]] , linaje surgido del antiguo alto clero, descendientes directos del *Hijo del Sol*, **Mill**. La figura del Emperador o Emperatriz no solo dirige el destino político de la nación, sino que también ostenta la máxima autoridad religiosa como cabeza del clero.
+Desde la gran reorganización tras la Podredumbre, Ergo es gobernado por la [[Casta Imperial\|Casta Imperial]] , linaje surgido del antiguo alto clero, descendientes directos del primer elegido del *Hijo del Sol*, **Mill**. La figura del Emperador o Emperatriz no solo dirige el destino político de la nación, sino que también ostenta la máxima autoridad religiosa como cabeza del clero.
 
 En Ergo no existe una separación entre fe y gobierno: el orden civil es entendido como una manifestación del equilibrio divino. El liderazgo imperial no se considera un derecho hereditario sin más, sino una responsabilidad sagrada de custodiar la abundancia, coordinar la Gran Obra y preservar la vida en todas sus formas.
 
@@ -29,10 +29,13 @@ La Casa Imperial se apoya en un consejo de altos sacerdotes, estrategas y magos,
 
 ### Castas
 
-En Ergo, nadie pasa hambre, todos los niños reciben educación, y todo ciudadano tiene un propósito.
+En Ergo, nadie pasa hambre, todos los niños reciben educación y cada ciudadano tiene un propósito.
 
-La movilidad social existe, aunque es excepcional y requiere méritos extraordinarios o integración en linajes de mayor estamento. La estabilidad colectiva se valora por encima del beneficio individual, y el orden es considerado la forma más elevada de libertad.
+La movilidad social entre castas existe, aunque es excepcional y requiere méritos extraordinarios o la integración en linajes de estatus superior. La estabilidad colectiva se valora por encima del beneficio individual, y el orden se considera la forma más elevada de libertad.
 
+La movilidad dentro de la propia casta está fomentada, y las personas pueden tratar de encontrar una vocación que se adapte a sus capacidades y necesidades dentro de ella. El sistema solo se opondría a esa elección si provocara un desequilibrio en la Gran Obra; por ejemplo, si demasiadas personas abandonaran un sector hasta el punto de que dejara de funcionar, o si otro llegara a saturarse.
+
+En cualquier caso, el propio sistema examinaría la causa del desequilibrio e intentaría corregirla. No se limitaría a imponer ocupaciones indeseadas sin antes realizar un proceso de autoevaluación e intentar solucionar el problema de fondo.
 
 ## En la actualidad
 
@@ -107,7 +110,7 @@ Cualquiera puede pasar a formar parte de la Casta Militar, pero aunque generalme
 
 ## Casta común
 
-La Casta Común constituye la base de la Gran Obra y es la más numerosa de todas. Incluye agricultores, obreros, soldados rasos, funcionarios menores y trabajadores de toda índole.
+La Casta Común constituye la base de la Gran Obra y es la más numerosa de todas. Incluye agricultores, obreros, artistas, funcionarios menores y trabajadores de toda índole.
 
 Lejos de ser considerada inferior en dignidad, la Casta Común es presentada como el corazón productivo del Imperio. Cada ciudadano recibe educación básica y es asignado a una función acorde a sus capacidades y necesidades del conjunto.
 

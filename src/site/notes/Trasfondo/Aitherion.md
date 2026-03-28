@@ -7,8 +7,7 @@
 
 ## Del Linaje Aitherion
 
->[!Quote]
->Extracto del _Libro de las Alas Nobles_, compilado por el erudito Phanios de Tramesa, año 1042 DE
+>[!Quote] Extracto del _Libro de las Alas Nobles_, compilado por el erudito Phanios de Tramesa, año 1042 DE
 >
 >_“No es el viento quien alza al Aitherion, sino el alma que despliega sus alas.”_
 

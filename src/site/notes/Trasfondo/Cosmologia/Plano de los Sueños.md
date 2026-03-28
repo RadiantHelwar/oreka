@@ -16,16 +16,16 @@ Los Figmentos poseen múltiples formas posibles. Durante sus primeros años de e
 
 Las formas más comunes son:
 
-### Lores Pesadilla
+- **Lores Pesadilla**
 Encarnaciones de los temores y traumas de los mortales. Su función es enfrentar a los soñadores con su pasado, sometiéndolos a pruebas durante su descanso. Aunque temidos, muchos sabios creen que cumplen una función necesaria: templar el espíritu de los mortales.
 
-### Guardianes de la Identidad
+- **Guardianes de la Identidad**
 Figmentos que protegen a los soñadores del deterioro mental que podría producir la exposición constante al caos onírico. Sus sueños suelen ser reconfortantes, familiares o protectores, ayudando a preservar la estabilidad emocional y la identidad del durmiente.
 
-### Terrores Nocturnos
+- **Terrores Nocturnos**
 Entidades que se alimentan del sufrimiento de los mortales. Inducen pesadillas intensas y perturbadoras, extrayendo energía del miedo, la angustia y la desesperación que provocan.
 
-### Brujos del Caos
+- **Brujos del Caos**
 La forma más común entre los Figmentos. Estas entidades existen sin prestar atención directa a los mortales, dedicadas a sus propios caprichos e intereses. Su mera presencia provoca sueños extraños, caóticos o aparentemente absurdos, que pueden producir cualquier efecto en quienes los experimentan.
 
 Las regiones del Plano de los Sueños más cercanas al Plano Mundano suelen presentar una mayor coherencia y estabilidad, reflejando sueños más estructurados o influenciados por la realidad de los mortales. Sin embargo, a medida que uno se adentra en el plano, la lógica se disuelve por completo y los sueños se convierten en un torbellino infinito de imaginación, memoria y deseo.

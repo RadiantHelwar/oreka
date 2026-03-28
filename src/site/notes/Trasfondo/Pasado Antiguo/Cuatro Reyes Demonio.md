@@ -6,7 +6,9 @@
 
 Los Cuatro Reyes Demonio son:
 
-- [[Itzala\|Itzala]] - [[Faro Skia\|Faro Skia]].
-- [[Ametsa\|Ametsa]] - [[Faro Oneiros\|Faro Oneiros]].
-- [[Izarra\|Izarra]] - [[Faro Astrikos\|Faro Astrikos]].
-- [[Maitagarria\|Maitagarria]] - [[Faro Drya\|Faro Drya]].
+| Rey Demonio     | Faro              | Plano enlazado           |
+| --------------- | ----------------- | ------------------------ |
+| [[Itzala\|Itzala]]      | [[Faro Skia\|Faro Skia]]     | [[Trasfondo/Cosmologia/Plano de las Sombras\|Plano de las Sombras]] |
+| [[Ametsa\|Ametsa]]      | [[Faro Oneiros\|Faro Oneiros]]  | [[Trasfondo/Cosmologia/Plano de los Sueños\|Plano de los Sueños]]  |
+| [[Izarra\|Izarra]]      | [[Faro Astrikos\|Faro Astrikos]] | [[Trasfondo/Cosmologia/Plano Astral\|Plano Astral]]         |
+| [[Maitagarria\|Maitagarria]] | [[Faro Drya\|Faro Drya]]     | [[Trasfondo/Cosmologia/Plano Feérico\|Plano Feérico]]        |
