@@ -56,7 +56,7 @@ Otras religiones menores existen, y son comúnmente toleradas en las zonas en la
 - Entre las gentes mas sencillas, se adora a **Mill**, Dios del Fuego y la Protección, en mayor o menor medida.  En el Imperio de Ergo es conocido como el _Hijo del Sol_.
 - Los sanadores estudian a **Amitera**, paragón de la Magia Curativa. 
 - Aquellos que viven entre las sombras murmuran el nombre de **Roz** antes antes de sus escapadas. 
-- Los estudiosos de lo Arcano y aquellos que veneran la magia por encima de todo claman el nombre se **Kaure el Escolar**, primer maestro de lo arcano y ascendido a divinidad por sus propios medios.
+- Los estudiosos de lo Arcano y aquellos que veneran la magia por encima de todo estudian el legado de **Kaure el Escolar**, primer maestro de lo arcano y ascendido a divinidad por sus propios medios.
 - [[Trasfondo/Panteones/Glorinth\|Glorinth]], diosa de la magia popular y la superchería.
 
 ## Reinos y Estados
