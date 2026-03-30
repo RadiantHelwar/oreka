@@ -4,7 +4,7 @@
 
 # Iglesia de Aureon
 
-# La Iglesia de Aureon
+## La Iglesia de Aureon
 
 ![iglesialogo.png|400](/img/user/Extras/Imagenes/PNJs/Dioses/iglesialogo.png)
 
@@ -68,6 +68,4 @@ Con el paso del tiempo, sin embargo, el mundo ha cambiado. Nuevas potencias han 
 
 Aun así, la Iglesia sigue siendo una institución profundamente arraigada en la cultura de Oreka. Sus templos marcan el ritmo de las festividades religiosas, sus clérigos continúan guiando a generaciones de fieles y las Siete Espadas permanecen vigilantes ante cualquier amenaza contra el alma mortal.
 
-Para millones de creyentes, la Iglesia de Aureon sigue siendo lo que siempre ha sido:
-
-una luz que guía a los mortales en un mundo lleno de peligros visibles… y otros que permanecen ocultos.
+Para millones de creyentes, la Iglesia de Aureon sigue siendo lo que siempre ha sido, una luz que guía a los mortales en un mundo lleno de peligros visibles… y otros que permanecen ocultos.

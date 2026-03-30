@@ -72,7 +72,7 @@ La Ola de Oscuridad acabó  el 17 de Trina de 7007 DE, cuando Sera se dirigió a
 
 La Ola de Oscuridad dividió al mundo en dos bandos. Varios países y reinos se unieron al bando de la Oscuridad:
 
-- [[Marquesado de Haizea\|Reino de Haizea]]
+- El Reino (ahora Marquesado) de [[Regiones/Glastra/Haizea\|Haizea]]
 - [[Regiones/Glastra/Kertutai\|Kertutai]], el Reino de las Avispas
 - [[Regiones/Tomoe/Ergo\|Ergo]], el Imperio del Sol
 - La [[Horda de Serra\|Horda de Serra]]
