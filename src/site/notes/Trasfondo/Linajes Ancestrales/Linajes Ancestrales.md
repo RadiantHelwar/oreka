@@ -7,7 +7,7 @@
 En Oreka existen distintos linajes, de personas vinculadas por líneas de sangre, tradición, cultura o rituales, que gozan de sobrecogedores poderes sobrenaturales.
 
 - [[Trasfondo/Linajes Ancestrales/Aitherion\|Aitherion]], herederos de la casa real de Haizea, su alma existe en su exterior como una [[Trasfondo/Criaturas/Pneumathoi\|Pneumathoi]], o Pneuma, una criatura viva, normalmente un ave que encarna el alma del Aitherion, con fenomenales poderes dependiendo del individuo. _(no jugable)_
-- [[Trasfondo/Linajes Ancestrales/Chrysos\|Chrysos]], Aasimar con ascendencia humana que claman descender de Aureon cuando aun era humano, y **Roz**, su esposa y señora de las sombras. Son comunmente humanos, sus poderes abarcan la dualidad entre la luz y la sombra _(jugable)_
+- [[Trasfondo/Linajes Ancestrales/Chrysos\|Chrysos]], Aasimar con ascendencia humana que claman descender de Aureon cuando aun era humano, y **Roz**, su esposa y señora de las sombras. Sus poderes abarcan la dualidad entre la luz y la sombra _(jugable)_
 - Los [[Trasfondo/Linajes Ancestrales/Férreos\|Férreos]] son Orcos y individuos con ascendencia Orca con una capacidad latente de convertir parte de su cuerpo en finas partículas metálicas, condensándolas para endurecerse o esparciéndolas para ablandarse.  *(jugable)*
 - [[Trasfondo/Linajes Ancestrales/Sendatu\|Sendatu]], Genasi de fuego de Ascendencia Goliath o Humana. Sus poderes permiten restaurar a otros y destruir a los demás. *(jugable)*
 - [[Trasfondo/Linajes Ancestrales/Nacidos del Eco\|Nacidos del Eco]], son enanos y algunos individuos con ascendencia enana. Son reconocidos como descendientes de los Primarcas enanos, y su poder redunda en su voz capaz de moldear mentes y el entorno por igual. *(jugable)*
