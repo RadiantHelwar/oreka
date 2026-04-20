@@ -25,5 +25,3 @@ Como acción, eliges a una criatura que puedas ver en un radio de 9 metros. Tira
 - Si el objetivo es un enemigo, sufre daño de fuego igual a la tirada.
 
 **Dualidad de la Llama.** Cuando usas Llama Purificadora, puedes elegir a una segunda criatura a 3 metros de la primera. La segunda criatura sufre el efecto opuesto (curación si la primera recibió daño, o daño de fuego si la primera fue curada).
-
-**Llama Perforante.** El daño de fuego infligido por este rasgo ignora la resistencia al daño de fuego.
