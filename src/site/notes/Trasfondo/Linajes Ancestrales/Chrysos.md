@@ -19,4 +19,4 @@ Ganas los siguientes beneficios.
 - **Aspecto Radiante.** Una vez por turno, cuando impactas a una criatura con un ataque o infliges daño a una criatura con un conjuro, puedes infligir daño radiante adicional igual a tu Bonificación por Competencia. El objetivo emite luz tenue en un radio de 3 metros y no puede beneficiarse de estar Invisible hasta el inicio de tu siguiente turno.
 - **Aspecto Umbrío.** Como acción adicional, puedes teletransportarte hasta 9 metros a un espacio desocupado que puedas ver que esté en luz tenue u oscuridad. Puedes usar esta acción adicional un número de veces igual a tu Bonificación por Competencia, y recuperas todos los usos gastados cuando terminas un descanso largo. Además, tienes ventaja en las pruebas de Destreza (Sigilo) mientras estés en luz tenue u oscuridad.
 
-**Dualidad Interna.** Una vez por descanso largo, como acción adicional, puedes cambiar de tu aspecto actual al otro. Cuando usas este rasgo, puedes aplicar inmediatamente uno de los beneficios de tu nuevo aspecto sin gastar un uso.
+**Dualidad Interna.** Una vez por descanso largo, como acción adicional, puedes cambiar de tu aspecto actual al otro.
