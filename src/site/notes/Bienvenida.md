@@ -121,7 +121,7 @@ Las particularidades culturales o físicas de estos pueblos pueden variar según
 
 - Los [[Especies/Zaharak\|Zaharak]], descendientes de los dinosaurios.
 - Las [[Especies/Kitraki\|Kitraki]], avispas humanoides eusociales.
-- Los [[Trasfondo/Linajes Ancestrales\|Linajes Ancestrales]] se componen de individuos con poderes especiales, que los separan de sus congéneres.
+- Los [[Trasfondo/Linajes Ancestrales/Linajes Ancestrales\|Linajes Ancestrales]] se componen de individuos con poderes especiales, que los separan de sus congéneres.
 - Antiguos Linajes élficos mas allá de los tres principales: [[Especies/Otros Linajes Elficos\|Otros Linajes Elficos]]
 
 
